@@ -1,0 +1,519 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=911",
+  "scraped_at": "2026-08-27T14:00:35.430Z",
+  "rows": [
+    {
+      "website_id": "1773",
+      "website": "www.skooknewsmagazine.co...",
+      "website_url": "https://www.skooknewsmagazine.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 52,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Sep 2021",
+      "source_page": 911
+    },
+    {
+      "website_id": "1785",
+      "website": "www.adclays.com",
+      "website_url": "https://www.adclays.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 59,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Sep 2021",
+      "source_page": 911
+    },
+    {
+      "website_id": "5813",
+      "website": "www.blebur.com",
+      "website_url": "https://www.blebur.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 65,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "01 Nov 2021",
+      "source_page": 911
+    },
+    {
+      "website_id": "6545",
+      "website": "www.impotencehealthcente...",
+      "website_url": "https://www.impotencehealthcenter.com/",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 57,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "11 Nov 2021",
+      "source_page": 911
+    },
+    {
+      "website_id": "28528",
+      "website": "www.homeinsteaders.org",
+      "website_url": "https://homeinsteaders.org/",
+      "categories": [
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 65,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jan 2023",
+      "source_page": 911
+    },
+    {
+      "website_id": "36006",
+      "website": "www.biooverview.com",
+      "website_url": "https://biooverview.com/",
+      "categories": [
+        "Business",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 33,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2023",
+      "source_page": 911
+    },
+    {
+      "website_id": "74873",
+      "website": "www.cryptocoinbizz.com",
+      "website_url": "https://cryptocoinbizz.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 911
+    },
+    {
+      "website_id": "78265",
+      "website": "www.todaysnewzblog.com",
+      "website_url": "https://todaysnewzblog.com",
+      "categories": [
+        "General",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 59,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 911
+    },
+    {
+      "website_id": "10515",
+      "website": "www.lottokeeper.com",
+      "website_url": "https://lottokeeper.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 73,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "18 Mar 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "17435",
+      "website": "www.swanseastandard.com",
+      "website_url": "https://swanseastandard.com/",
+      "categories": [
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 54,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "18134",
+      "website": "www.insurancecompetitors...",
+      "website_url": "https://insurancecompetitors.com/",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 66,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "12 Sep 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "11817",
+      "website": "www.techyworld.co.uk",
+      "website_url": "https://techyworld.co.uk/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Apr 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "11819",
+      "website": "www.insideredge.co.uk",
+      "website_url": "https://insideredge.co.uk/",
+      "categories": [
+        "Business",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Apr 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "11822",
+      "website": "www.justtrendynews.com",
+      "website_url": "https://justtrendynews.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Apr 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "12082",
+      "website": "www.aasma.co.uk",
+      "website_url": "https://www.aasma.co.uk/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 35,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "30 Apr 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "12165",
+      "website": "www.homeisd.com",
+      "website_url": "https://homeisd.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 25,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "03 May 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "14879",
+      "website": "www.techtalkies365.com",
+      "website_url": "https://www.techtalkies365.com/",
+      "categories": [
+        "Internet",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 28,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Jul 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "15205",
+      "website": "www.thehiu.com",
+      "website_url": "https://thehiu.com",
+      "categories": [
+        "Business",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 67,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Jul 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "15486",
+      "website": "www.Motivirus.com",
+      "website_url": "https://Motivirus.com",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 55,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Jul 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "16335",
+      "website": "www.picukitime.com",
+      "website_url": "https://picukitime.com",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 54,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "01 Aug 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "18688",
+      "website": "www.dspnewsroom.com",
+      "website_url": "https://www.dspnewsroom.com/",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 35,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "21 Sep 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "19490",
+      "website": "www.guestblognews.com",
+      "website_url": "https://www.guestblognews.com/",
+      "categories": [
+        "Education",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 57,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Sep 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "20806",
+      "website": "www.mutually.com",
+      "website_url": "https://mutually.com",
+      "categories": [
+        "Animals and Pets",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 39,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "18 Oct 2022",
+      "source_page": 911
+    },
+    {
+      "website_id": "75399",
+      "website": "www.asprofrutsc.org",
+      "website_url": "https://asprofrutsc.org",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 32,
+      "language": "Russian",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "14 Apr 2025",
+      "source_page": 911
+    },
+    {
+      "website_id": "644",
+      "website": "www.instanttechtips.com",
+      "website_url": "https://instanttechtips.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 55,
+      "moz_da": 56,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Apr 2021",
+      "source_page": 911
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1775",
+  "scraped_at": "2026-08-27T14:16:14.514Z",
+  "rows": [
+    {
+      "website_id": "77290",
+      "website": "www.hhstyle.pl",
+      "website_url": "https://hhstyle.pl/",
+      "categories": [
+        "Fashion",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 27,
+      "language": "Polish",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "79368",
+      "website": "www.theentrepreneurweb.c...",
+      "website_url": "https://www.theentrepreneurweb.com/",
+      "categories": [
+        "General",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "17 May 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "79373",
+      "website": "www.beinghealthylife.com",
+      "website_url": "https://www.beinghealthylife.com/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "17 May 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "79376",
+      "website": "www.marketingtipsplanet....",
+      "website_url": "https://www.marketingtipsplanet.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "17 May 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81933",
+      "website": "www.autonews.v.ua",
+      "website_url": "http://autonews.v.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 41,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81936",
+      "website": "www.doshka.com.ua",
+      "website_url": "http://doshka.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 56,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81940",
+      "website": "www.ogoloshennya-sumy.co...",
+      "website_url": "http://ogoloshennya-sumy.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 34,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81947",
+      "website": "www.zhurnal.com.ua",
+      "website_url": "http://zhurnal.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 41,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81951",
+      "website": "www.myhealth.v.ua",
+      "website_url": "http://myhealth.v.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 41,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81981",
+      "website": "www.mastermaverick.com.b...",
+      "website_url": "http://mastermaverick.com.br/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 44,
+      "language": "Portuguese",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "81987",
+      "website": "www.v-ukrayini.com.ua",
+      "website_url": "http://v-ukrayini.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 35,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "82023",
+      "website": "www.gazetaua.com.ua",
+      "website_url": "http://gazetaua.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 34,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "82024",
+      "website": "www.24live.com.ua",
+      "website_url": "http://24live.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 39,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "9 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "82038",
+      "website": "www.moya-obyava.com.ua",
+      "website_url": "http://moya-obyava.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 38,
+      "language": "Ukrainian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "30 Jun 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "82393",
+      "website": "www.elegantes.ro",
+      "website_url": "https://www.elegantes.ro/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 26,
+      "language": "Romanian",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1775
+    },
+    {
+      "website_id": "5938",
+      "website": "www.dotnek.com",
+      "website_url": "https://www.dotnek.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 64,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Nov 2021",
+      "source_page": 1775
+    },
+    {
+      "website_id": "56286",
+      "website": "www.fashiondreamland.com",
+      "website_url": "https://www.fashiondreamland.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "27 Jun 2024",
+      "source_page": 1775
+    },
+    {
+      "website_id": "63109",
+      "website": "www.marketingsguide.com",
+      "website_url": "https://www.marketingsguide.com/",
+      "categories": [
+        "Business",
+        "E-commerce"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 55,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "07 Oct 2024",
+      "source_page": 1775
+    },
+    {
+      "website_id": "65212",
+      "website": "www.inbusinessmarketing....",
+      "website_url": "https://www.inbusinessmarketing.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 56,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "05 Nov 2024",
+      "source_page": 1775
+    },
+    {
+      "website_id": "40321",
+      "website": "www.workebook.com",
+      "website_url": "https://workebook.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 56,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Aug 2023",
+      "source_page": 1775
+    },
+    {
+      "website_id": "45134",
+      "website": "www.beautyglee.com",
+      "website_url": "https://www.beautyglee.com",
+      "categories": [
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Nov 2023",
+      "source_page": 1775
+    },
+    {
+      "website_id": "11725",
+      "website": "www.thenytimesblog.com",
+      "website_url": "https://www.thenytimesblog.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 56,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "19 Apr 2022",
+      "source_page": 1775
+    },
+    {
+      "website_id": "14517",
+      "website": "www.vlaurie.com",
+      "website_url": "https://vlaurie.com/",
+      "categories": [
+        "Entertainment",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 55,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "23 Jun 2022",
+      "source_page": 1775
+    },
+    {
+      "website_id": "17347",
+      "website": "www.earningexcel.com",
+      "website_url": "http://www.earningexcel.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 54,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "23 Aug 2022",
+      "source_page": 1775
+    },
+    {
+      "website_id": "17370",
+      "website": "www.triotechdigital.com",
+      "website_url": "https://www.triotechdigital.com",
+      "categories": [
+        "Computers",
+        "Equipment",
+        "Gadgets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 56,
+      "language": "English",
+      "price": 529.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "25 Aug 2022",
+      "source_page": 1775
+    }
+  ]
+}

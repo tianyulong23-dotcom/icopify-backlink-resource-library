@@ -1,0 +1,531 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1656",
+  "scraped_at": "2026-08-27T14:14:01.189Z",
+  "rows": [
+    {
+      "website_id": "78454",
+      "website": "www.cidersante.com",
+      "website_url": "https://cidersante.com",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78455",
+      "website": "www.onedaytohealth.com",
+      "website_url": "https://onedaytohealth.com",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78465",
+      "website": "www.laconnermaison.com",
+      "website_url": "https://laconnermaison.com",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 55,
+      "language": "French",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78541",
+      "website": "www.americandailyjournal...",
+      "website_url": "https://americandailyjournal.com",
+      "categories": [
+        "Entertainment",
+        "Food",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 60,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78542",
+      "website": "www.expressinfotech.com",
+      "website_url": "https://expressinfotech.com",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 62,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78556",
+      "website": "www.centennial-realestat...",
+      "website_url": "https://centennial-realestate.com",
+      "categories": [
+        "Home and Family",
+        "Public Service",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 60,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78783",
+      "website": "www.error-game.com",
+      "website_url": "https://error-game.com",
+      "categories": [
+        "Entertainment",
+        "Games",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78785",
+      "website": "www.metroautographs.com",
+      "website_url": "https://metroautographs.com",
+      "categories": [
+        "Automobiles",
+        "Construction and Repairs",
+        "Equipment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 59,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78805",
+      "website": "www.worldtraveler.uk",
+      "website_url": "https://worldtraveler.uk",
+      "categories": [
+        "Leisure and Hobbies",
+        "Lifestyle",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78810",
+      "website": "www.travel-experts.uk",
+      "website_url": "https://travel-experts.uk",
+      "categories": [
+        "Leisure and Hobbies",
+        "Lifestyle",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 56,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78813",
+      "website": "www.techxblog.co.uk",
+      "website_url": "https://techxblog.co.uk",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78815",
+      "website": "www.thetechnique.co.uk",
+      "website_url": "https://thetechnique.co.uk",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78816",
+      "website": "www.visions4technology.c...",
+      "website_url": "https://visions4technology.co.uk",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78817",
+      "website": "www.shopping-blog.co.uk",
+      "website_url": "https://shopping-blog.co.uk",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 59,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78818",
+      "website": "www.smartshoponline.co.u...",
+      "website_url": "https://smartshoponline.co.uk",
+      "categories": [
+        "Beauty",
+        "Lifestyle",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 59,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78819",
+      "website": "www.shoppingtips4u.co.uk",
+      "website_url": "https://shoppingtips4u.co.uk",
+      "categories": [
+        "Fashion",
+        "Lifestyle",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78820",
+      "website": "www.infotex-property.co....",
+      "website_url": "https://infotex-property.co.uk",
+      "categories": [
+        "Business",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78822",
+      "website": "www.thedailyvoic.co.uk",
+      "website_url": "https://thedailyvoic.co.uk",
+      "categories": [
+        "Gadgets",
+        "General",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 54,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78825",
+      "website": "www.pressnewsroom.co.uk",
+      "website_url": "https://pressnewsroom.co.uk",
+      "categories": [
+        "Automobiles",
+        "Gadgets",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78826",
+      "website": "www.news-magazine.co.uk",
+      "website_url": "https://news-magazine.co.uk",
+      "categories": [
+        "Finance",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78838",
+      "website": "www.cypruswalks.co.uk",
+      "website_url": "https://cypruswalks.co.uk",
+      "categories": [
+        "General",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 56,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78839",
+      "website": "www.bestofdailynews.co.u...",
+      "website_url": "https://bestofdailynews.co.uk",
+      "categories": [
+        "Finance",
+        "Gadgets",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 57,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78840",
+      "website": "www.viralnews.org.uk",
+      "website_url": "https://viralnews.org.uk",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 56,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78843",
+      "website": "www.news4buzz.co.uk",
+      "website_url": "https://news4buzz.co.uk",
+      "categories": [
+        "Automobiles",
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 57,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    },
+    {
+      "website_id": "78850",
+      "website": "www.newztoday.co.uk",
+      "website_url": "https://newztoday.co.uk",
+      "categories": [
+        "Finance",
+        "Gadgets",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 289.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 May 2025",
+      "source_page": 1656
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1100",
+  "scraped_at": "2026-08-27T14:03:54.503Z",
+  "rows": [
+    {
+      "website_id": "9530",
+      "website": "www.thenewssources.com",
+      "website_url": "https://thenewssources.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9600",
+      "website": "www.selfeed.com",
+      "website_url": "https://selfeed.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 59,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9601",
+      "website": "www.wloger.com",
+      "website_url": "https://wloger.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9693",
+      "website": "www.knowentrepreneurs.co...",
+      "website_url": "https://www.knowentrepreneurs.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9696",
+      "website": "www.byrdr.com",
+      "website_url": "https://byrdr.com",
+      "categories": [
+        "For Kids",
+        "Home and Family",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 63,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9699",
+      "website": "www.sarraceniapurpurea.o...",
+      "website_url": "https://www.sarraceniapurpurea.org",
+      "categories": [
+        "Education",
+        "Science",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9703",
+      "website": "www.bedminsterchurches.n...",
+      "website_url": "https://www.bedminsterchurches.net",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 62,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9704",
+      "website": "www.online-bewerbungsmap...",
+      "website_url": "https://online-bewerbungsmappe.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 61,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9705",
+      "website": "www.shermancountycd.com",
+      "website_url": "https://www.shermancountycd.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9706",
+      "website": "www.diabetestracker.org",
+      "website_url": "https://www.diabetestracker.org",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9709",
+      "website": "www.ghbellavista.com",
+      "website_url": "https://www.ghbellavista.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9710",
+      "website": "www.oportocamps.com",
+      "website_url": "https://oportocamps.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9712",
+      "website": "www.wntrshvn.com",
+      "website_url": "https://www.wntrshvn.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9713",
+      "website": "www.tannochbrae.org",
+      "website_url": "https://www.tannochbrae.org",
+      "categories": [
+        "Business",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9715",
+      "website": "www.baixar-facebook-grat...",
+      "website_url": "https://www.baixar-facebook-gratis.com",
+      "categories": [
+        "Home and Family",
+        "Places",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 63,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9716",
+      "website": "www.digmydog.org",
+      "website_url": "https://www.digmydog.org",
+      "categories": [
+        "Home and Family",
+        "Places",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 61,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9717",
+      "website": "www.pegasus-voyage.com",
+      "website_url": "https://www.pegasus-voyage.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 61,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9718",
+      "website": "www.jogacomfiguito.com",
+      "website_url": "https://www.jogacomfiguito.com",
+      "categories": [
+        "Home and Family",
+        "Places",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 61,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9720",
+      "website": "www.txinter.net",
+      "website_url": "https://txinter.net",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9721",
+      "website": "www.marylandwildfire.com",
+      "website_url": "https://www.marylandwildfire.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9722",
+      "website": "www.bunnybasics.net",
+      "website_url": "https://bunnybasics.net",
+      "categories": [
+        "Home and Family",
+        "Places",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 59,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9723",
+      "website": "www.dragonesdelsur.org",
+      "website_url": "https://www.dragonesdelsur.org",
+      "categories": [
+        "Home and Family",
+        "Real Estate",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9725",
+      "website": "www.magellan-rfid.com",
+      "website_url": "https://www.magellan-rfid.com",
+      "categories": [
+        "Computers",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 61,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9726",
+      "website": "www.pmcouteaux.org",
+      "website_url": "https://www.pmcouteaux.org",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    },
+    {
+      "website_id": "9728",
+      "website": "www.craigjspearing.com",
+      "website_url": "https://craigjspearing.com",
+      "categories": [
+        "Home and Family",
+        "Real Estate",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 59,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Mar 2022",
+      "source_page": 1100
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=507",
+  "scraped_at": "2026-08-27T13:53:23.850Z",
+  "rows": [
+    {
+      "website_id": "10991",
+      "website": "www.blitz.bg",
+      "website_url": "https://www.blitz.bg/",
+      "categories": [
+        "For Women",
+        "Health",
+        "News and Media"
+      ],
+      "monthly_traffic": 11928786,
+      "ahrefs_dr": 68,
+      "moz_da": 58,
+      "language": "Bulgarian",
+      "price": 9490.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "03 Apr 2022",
+      "source_page": 507
+    },
+    {
+      "website_id": "22392",
+      "website": "www.podiuminfo.nl",
+      "website_url": "https://www.podiuminfo.nl",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "Music"
+      ],
+      "monthly_traffic": 244473,
+      "ahrefs_dr": 51,
+      "moz_da": 41,
+      "language": "English",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "15 Nov 2022",
+      "source_page": 507
+    },
+    {
+      "website_id": "22400",
+      "website": "www.festivalinfo.nl",
+      "website_url": "https://www.festivalinfo.nl",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "Music"
+      ],
+      "monthly_traffic": 245844,
+      "ahrefs_dr": 53,
+      "moz_da": 43,
+      "language": "English",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "15 Nov 2022",
+      "source_page": 507
+    },
+    {
+      "website_id": "74485",
+      "website": "www.lofficiel.be",
+      "website_url": "https://lofficiel.be",
+      "categories": [
+        "Career and Employment",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 63564,
+      "ahrefs_dr": 59,
+      "moz_da": 45,
+      "language": "French",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "03 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76612",
+      "website": "www.elegance.nl",
+      "website_url": "https://elegance.nl/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 223212,
+      "ahrefs_dr": 42,
+      "moz_da": 34,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76632",
+      "website": "www.franska.nl",
+      "website_url": "https://franska.nl/",
+      "categories": [
+        "Entertainment",
+        "Food",
+        "Home and Family"
+      ],
+      "monthly_traffic": 53135,
+      "ahrefs_dr": 30,
+      "moz_da": 30,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76643",
+      "website": "www.huizenzoeker.nl",
+      "website_url": "https://huizenzoeker.nl/",
+      "categories": [
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 12617,
+      "ahrefs_dr": 48,
+      "moz_da": 38,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76646",
+      "website": "www.kookfans.nl",
+      "website_url": "https://kookfans.nl/",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 41376,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76651",
+      "website": "www.mamsatwork.nl",
+      "website_url": "https://mamsatwork.nl/",
+      "categories": [
+        "Fashion",
+        "Food",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 32742,
+      "ahrefs_dr": 56,
+      "moz_da": 39,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76659",
+      "website": "www.moviescene.nl",
+      "website_url": "https://moviescene.nl/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 5180,
+      "ahrefs_dr": 24,
+      "moz_da": 38,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76665",
+      "website": "www.partyscene.nl",
+      "website_url": "https://partyscene.nl/",
+      "categories": [
+        "Games",
+        "Lifestyle",
+        "Music"
+      ],
+      "monthly_traffic": 3449,
+      "ahrefs_dr": 34,
+      "moz_da": 36,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76687",
+      "website": "www.vkmag.com",
+      "website_url": "https://vkmag.com/",
+      "categories": [
+        "Entertainment",
+        "Music",
+        "Sports"
+      ],
+      "monthly_traffic": 1353961,
+      "ahrefs_dr": 46,
+      "moz_da": 55,
+      "language": "Dutch",
+      "price": 9610.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "79988",
+      "website": "www.themobileindian.com",
+      "website_url": "https://themobileindian.com",
+      "categories": [
+        "Gadgets",
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 30839,
+      "ahrefs_dr": 57,
+      "moz_da": 68,
+      "language": "English",
+      "price": 9630.36,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "26 May 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "88278",
+      "website": "www.guineematin.com",
+      "website_url": "https://guineematin.com",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 11533,
+      "ahrefs_dr": 48,
+      "moz_da": 47,
+      "language": "French",
+      "price": 9690.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "88283",
+      "website": "www.igfm.sn",
+      "website_url": "https://www.igfm.sn",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 30430,
+      "ahrefs_dr": 42,
+      "moz_da": 49,
+      "language": "French",
+      "price": 9690.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "88302",
+      "website": "www.mosaiqueguinee.com",
+      "website_url": "https://mosaiqueguinee.com",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 7617,
+      "ahrefs_dr": 43,
+      "moz_da": 42,
+      "language": "French",
+      "price": 9690.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "88618",
+      "website": "www.mediaguinee.com",
+      "website_url": "https://mediaguinee.com",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 14582,
+      "ahrefs_dr": 43,
+      "moz_da": 45,
+      "language": "French",
+      "price": 9690.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "14249",
+      "website": "www.pieknoumyslu.com",
+      "website_url": "https://pieknoumyslu.com/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 54427,
+      "ahrefs_dr": 49,
+      "moz_da": 38,
+      "language": "Polish",
+      "price": 9740.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Jun 2022",
+      "source_page": 507
+    },
+    {
+      "website_id": "76712",
+      "website": "www.trueriders.it",
+      "website_url": "https://trueriders.it/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 256247,
+      "ahrefs_dr": 26,
+      "moz_da": 37,
+      "language": "Italian",
+      "price": 9750.24,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76723",
+      "website": "www.goodtrekking.it",
+      "website_url": "https://goodtrekking.it/",
+      "categories": [
+        "Travelling",
+        "Other"
+      ],
+      "monthly_traffic": 129813,
+      "ahrefs_dr": 29,
+      "moz_da": 33,
+      "language": "Italian",
+      "price": 9750.24,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "54005",
+      "website": "www.deutschepodcasts.de",
+      "website_url": "https://deutschepodcasts.de/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 12816,
+      "ahrefs_dr": 50,
+      "moz_da": 37,
+      "language": "German",
+      "price": 9770.22,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 May 2024",
+      "source_page": 507
+    },
+    {
+      "website_id": "41188",
+      "website": "www.paperblog.fr",
+      "website_url": "https://www.paperblog.fr",
+      "categories": [
+        "Fashion",
+        "For Men",
+        "For Women"
+      ],
+      "monthly_traffic": 85785,
+      "ahrefs_dr": 69,
+      "moz_da": 69,
+      "language": "French",
+      "price": 9790.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "10 days",
+      "added_on": "08 Aug 2023",
+      "source_page": 507
+    },
+    {
+      "website_id": "35549",
+      "website": "www.washingtontimes.com",
+      "website_url": "https://www.washingtontimes.com/",
+      "categories": [
+        "News and Media",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1400097,
+      "ahrefs_dr": 85,
+      "moz_da": 89,
+      "language": "English",
+      "price": 9790.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "05 May 2023",
+      "source_page": 507
+    },
+    {
+      "website_id": "88293",
+      "website": "www.leballonrond.fr",
+      "website_url": "https://www.leballonrond.fr",
+      "categories": [
+        "Entertainment",
+        "Leisure and Hobbies",
+        "Sports"
+      ],
+      "monthly_traffic": 101230,
+      "ahrefs_dr": 33,
+      "moz_da": 33,
+      "language": "French",
+      "price": 9810.18,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 507
+    },
+    {
+      "website_id": "76953",
+      "website": "www.transports-express-c...",
+      "website_url": "https://www.transports-express-caraibes.fr",
+      "categories": [
+        "News and Media",
+        "Travelling",
+        "Transport"
+      ],
+      "monthly_traffic": 16884,
+      "ahrefs_dr": 42,
+      "moz_da": 43,
+      "language": "French",
+      "price": 9820.17,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Apr 2025",
+      "source_page": 507
+    }
+  ]
+}

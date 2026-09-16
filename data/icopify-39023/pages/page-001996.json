@@ -1,0 +1,532 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1996",
+  "scraped_at": "2026-08-27T14:20:24.951Z",
+  "rows": [
+    {
+      "website_id": "92329",
+      "website": "www.malnachrichten.de",
+      "website_url": "https://malnachrichten.de",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92330",
+      "website": "www.mediengesprach.de",
+      "website_url": "https://mediengesprach.de",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 39,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92331",
+      "website": "www.technokfreak.de",
+      "website_url": "https://technokfreak.de",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92332",
+      "website": "www.liebedeutsch.de",
+      "website_url": "https://liebedeutsch.de",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92333",
+      "website": "www.geschaftsgesprach.de",
+      "website_url": "https://geschaftsgesprach.de",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 53,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92334",
+      "website": "www.techieknows.de",
+      "website_url": "https://techieknows.de",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92335",
+      "website": "www.koniglicherflip.de",
+      "website_url": "https://koniglicherflip.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92336",
+      "website": "www.tollemedien.de",
+      "website_url": "https://tollemedien.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92337",
+      "website": "www.jetztverschenken.de",
+      "website_url": "https://jetztverschenken.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92338",
+      "website": "www.rangjetzt.de",
+      "website_url": "https://rangjetzt.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92339",
+      "website": "www.techmanie.de",
+      "website_url": "https://techmanie.de",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92341",
+      "website": "www.geschaftshaus.de",
+      "website_url": "https://geschaftshaus.de",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92342",
+      "website": "www.handelsglobus.de",
+      "website_url": "https://handelsglobus.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92343",
+      "website": "www.sinnfurglamour.de",
+      "website_url": "https://sinnfurglamour.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92344",
+      "website": "www.gehirnwyz.de",
+      "website_url": "https://gehirnwyz.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 61,
+      "moz_da": 44,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92345",
+      "website": "www.lokaleszuhause.de",
+      "website_url": "https://lokaleszuhause.de",
+      "categories": [
+        "Business",
+        "Beauty",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92346",
+      "website": "www.witrone.de",
+      "website_url": "https://witrone.de",
+      "categories": [
+        "Business",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92347",
+      "website": "www.multijockey.de",
+      "website_url": "https://multijockey.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 42,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92350",
+      "website": "www.havereport.de",
+      "website_url": "https://havereport.de",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92351",
+      "website": "www.resetings.de",
+      "website_url": "https://resetings.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92352",
+      "website": "www.healthwishing.de",
+      "website_url": "https://healthwishing.de",
+      "categories": [
+        "Beauty",
+        "Food",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 55,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92353",
+      "website": "www.huffingtonmedia.de",
+      "website_url": "https://huffingtonmedia.de",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 42,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92354",
+      "website": "www.norstrats.de",
+      "website_url": "https://norstrats.de",
+      "categories": [
+        "Business",
+        "General",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92355",
+      "website": "www.redaktionswand.de",
+      "website_url": "https://redaktionswand.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 55,
+      "moz_da": 42,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    },
+    {
+      "website_id": "92356",
+      "website": "www.zuhauseins.de",
+      "website_url": "https://zuhauseins.de",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 43,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Feb 2026",
+      "source_page": 1996
+    }
+  ]
+}

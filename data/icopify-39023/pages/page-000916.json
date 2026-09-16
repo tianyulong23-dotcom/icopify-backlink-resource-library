@@ -1,0 +1,523 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=916",
+  "scraped_at": "2026-08-27T14:00:41.203Z",
+  "rows": [
+    {
+      "website_id": "58002",
+      "website": "www.haberfaktor.com",
+      "website_url": "https://www.haberfaktor.com",
+      "categories": [
+        "Health",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 43,
+      "language": "Turkish",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Aug 2024",
+      "source_page": 916
+    },
+    {
+      "website_id": "58475",
+      "website": "www.chaliflaw.com",
+      "website_url": "http://chaliflaw.com/",
+      "categories": [
+        "Law",
+        "Politics",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 33,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "09 Aug 2024",
+      "source_page": 916
+    },
+    {
+      "website_id": "59396",
+      "website": "www.homediarie.com",
+      "website_url": "https://homediarie.com",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 37,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "19 Aug 2024",
+      "source_page": 916
+    },
+    {
+      "website_id": "77618",
+      "website": "www.thaihublive.com",
+      "website_url": "https://thaihublive.com",
+      "categories": [
+        "Business",
+        "Health",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 57,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77648",
+      "website": "www.thainewslink.com",
+      "website_url": "https://thainewslink.com",
+      "categories": [
+        "Finance",
+        "Gadgets",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 56,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77649",
+      "website": "www.thainewsdigest.com",
+      "website_url": "https://thainewsdigest.com",
+      "categories": [
+        "Finance",
+        "Gadgets",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 56,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77650",
+      "website": "www.mythaiportal.com",
+      "website_url": "https://mythaiportal.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 58,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77651",
+      "website": "www.newsthai24.com",
+      "website_url": "https://newsthai24.com",
+      "categories": [
+        "Business",
+        "Education",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 57,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77652",
+      "website": "www.thai-daily.com",
+      "website_url": "https://thai-daily.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 57,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77653",
+      "website": "www.thainewshub.com",
+      "website_url": "https://thainewshub.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 57,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "77996",
+      "website": "www.motorbiketireshop.co...",
+      "website_url": "https://motorbiketireshop.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 32,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "79089",
+      "website": "www.privacythailand.com",
+      "website_url": "https://privacythailand.com",
+      "categories": [
+        "Finance",
+        "Gadgets",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 60,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "43035",
+      "website": "www.geraldfordtech.com",
+      "website_url": "https://geraldfordtech.com",
+      "categories": [
+        "Hardware development",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "17 Sep 2023",
+      "source_page": 916
+    },
+    {
+      "website_id": "46596",
+      "website": "www.wellnessvoice.com",
+      "website_url": "https://wellnessvoice.com/",
+      "categories": [
+        "Food",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 64,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Dec 2023",
+      "source_page": 916
+    },
+    {
+      "website_id": "48638",
+      "website": "www.love2save.co.uk",
+      "website_url": "https://love2save.co.uk/",
+      "categories": [
+        "Automobiles",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "22 Jan 2024",
+      "source_page": 916
+    },
+    {
+      "website_id": "71573",
+      "website": "www.insta-pro2.com.in",
+      "website_url": "http://insta-pro2.com.in",
+      "categories": [
+        "General",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 68,
+      "moz_da": 43,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Feb 2025",
+      "source_page": 916
+    },
+    {
+      "website_id": "10871",
+      "website": "www.morningsidemaryland....",
+      "website_url": "https://morningsidemaryland.com/",
+      "categories": [
+        "Business",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 64,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Mar 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "11827",
+      "website": "www.qrius.com",
+      "website_url": "https://qrius.com/",
+      "categories": [
+        "Science",
+        "Society"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 61,
+      "moz_da": 56,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Apr 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "12044",
+      "website": "www.trendos.co.uk",
+      "website_url": "https://www.trendos.co.uk",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Apr 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "12478",
+      "website": "www.allmarketingtips.com",
+      "website_url": "https://www.allmarketingtips.com/",
+      "categories": [
+        "Business",
+        "Internet",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 May 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "14887",
+      "website": "www.fallennews.com",
+      "website_url": "https://fallennews.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Jul 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "16996",
+      "website": "www.hptourism.org",
+      "website_url": "https://www.hptourism.org/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 54,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "17221",
+      "website": "www.smthemes.com",
+      "website_url": "http://smthemes.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 74,
+      "moz_da": 41,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Aug 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "20821",
+      "website": "www.carscache.com",
+      "website_url": "https://www.carscache.com/",
+      "categories": [
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 52,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "18 Oct 2022",
+      "source_page": 916
+    },
+    {
+      "website_id": "20916",
+      "website": "www.authorityarrow.com",
+      "website_url": "https://authorityarrow.com/",
+      "categories": [
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "20 Oct 2022",
+      "source_page": 916
+    }
+  ]
+}

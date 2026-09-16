@@ -1,0 +1,16 @@
+{
+  "name": "icopify-publisher-library",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "crawl:contacts": "node --disable-warning=ExperimentalWarning crawl_contacts.mjs",
+    "import:thread-resources": "node --disable-warning=ExperimentalWarning import_thread_resources.mjs",
+    "scrape": "node scrape_icopify.mjs",
+    "start": "node --disable-warning=ExperimentalWarning server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "playwright": "^1.62.1"
+  }
+}

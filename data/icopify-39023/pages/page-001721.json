@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1721",
+  "scraped_at": "2026-08-27T14:15:13.161Z",
+  "rows": [
+    {
+      "website_id": "54191",
+      "website": "www.thebussinessinsights...",
+      "website_url": "https://thebussinessinsights.org/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 41,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "25 May 2024",
+      "source_page": 1721
+    },
+    {
+      "website_id": "54364",
+      "website": "www.travel-trick.com",
+      "website_url": "https://www.travel-trick.com/",
+      "categories": [
+        "Leisure and Hobbies",
+        "Places",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 61,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 May 2024",
+      "source_page": 1721
+    },
+    {
+      "website_id": "54667",
+      "website": "www.takeascreenshotguide...",
+      "website_url": "https://takeascreenshotguide.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 19,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "05 Jun 2024",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77174",
+      "website": "www.resulttak.com",
+      "website_url": "https://resulttak.com",
+      "categories": [
+        "Gadgets",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "29 Apr 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77175",
+      "website": "www.ayurvedji.com",
+      "website_url": "https://ayurvedji.com",
+      "categories": [
+        "Business",
+        "Education",
+        "Gadgets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 33,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "29 Apr 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77177",
+      "website": "www.companystory.in",
+      "website_url": "https://companystory.in",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 37,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "29 Apr 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77179",
+      "website": "www.droppyflix.com",
+      "website_url": "https://droppyflix.com",
+      "categories": [
+        "Games",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "29 Apr 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77607",
+      "website": "www.techieblaze.com",
+      "website_url": "https://techieblaze.com",
+      "categories": [
+        "Gadgets",
+        "Games",
+        "Internet"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 41,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77619",
+      "website": "www.cryptopremiumtrade.c...",
+      "website_url": "https://cryptopremiumtrade.com",
+      "categories": [
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77620",
+      "website": "www.financialcryptostrad...",
+      "website_url": "https://financialcryptostrading.com",
+      "categories": [
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77621",
+      "website": "www.brightcryptofx.com",
+      "website_url": "https://brightcryptofx.com",
+      "categories": [
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 59,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77636",
+      "website": "www.pensacolavoice.net",
+      "website_url": "https://pensacolavoice.net",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Gadgets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 65,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77639",
+      "website": "www.hire-lawyer.co.uk",
+      "website_url": "https://hire-lawyer.co.uk",
+      "categories": [
+        "Law",
+        "Public Service"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77640",
+      "website": "www.homesweephome.co.uk",
+      "website_url": "https://homesweephome.co.uk",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77641",
+      "website": "www.thehomeblog.uk",
+      "website_url": "https://thehomeblog.uk",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77643",
+      "website": "www.everyday-health.co.u...",
+      "website_url": "https://everyday-health.co.uk",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77644",
+      "website": "www.thehealthblog.co.uk",
+      "website_url": "https://thehealthblog.co.uk",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77646",
+      "website": "www.geeko.asia",
+      "website_url": "https://geeko.asia",
+      "categories": [
+        "Education",
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 51,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "77647",
+      "website": "www.thaiinfotoday.com",
+      "website_url": "https://thaiinfotoday.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 56,
+      "language": "Other",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "02 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78347",
+      "website": "www.cryptofininvests.com",
+      "website_url": "https://cryptofininvests.com",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78348",
+      "website": "www.cryptonicedeals.com",
+      "website_url": "https://cryptonicedeals.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78349",
+      "website": "www.bestvalue-crypto.com",
+      "website_url": "https://bestvalue-crypto.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78350",
+      "website": "www.bitcoincryptocurrenc...",
+      "website_url": "https://bitcoincryptocurrency1.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78351",
+      "website": "www.buysellcryptocurrenc...",
+      "website_url": "https://buysellcryptocurrencies.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    },
+    {
+      "website_id": "78352",
+      "website": "www.globalcryptoscurrenc...",
+      "website_url": "https://globalcryptoscurrency.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1721
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=370",
+  "scraped_at": "2026-08-27T13:50:57.387Z",
+  "rows": [
+    {
+      "website_id": "66907",
+      "website": "www.htexas.com",
+      "website_url": "https://www.htexas.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Business"
+      ],
+      "monthly_traffic": 1778,
+      "ahrefs_dr": 44,
+      "moz_da": 27,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Nov 2024",
+      "source_page": 370
+    },
+    {
+      "website_id": "67307",
+      "website": "www.rivnepost.rv.ua",
+      "website_url": "https://rivnepost.rv.ua/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 188080,
+      "ahrefs_dr": 47,
+      "moz_da": 46,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2024",
+      "source_page": 370
+    },
+    {
+      "website_id": "67325",
+      "website": "www.stade-rennais-online...",
+      "website_url": "https://www.stade-rennais-online.com/",
+      "categories": [
+        "Business",
+        "Computers",
+        "Education"
+      ],
+      "monthly_traffic": 230803,
+      "ahrefs_dr": 42,
+      "moz_da": 51,
+      "language": "French",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2024",
+      "source_page": 370
+    },
+    {
+      "website_id": "67326",
+      "website": "www.romanialibera.ro",
+      "website_url": "https://romanialibera.ro/",
+      "categories": [
+        "Business",
+        "Computers",
+        "Education"
+      ],
+      "monthly_traffic": 164596,
+      "ahrefs_dr": 70,
+      "moz_da": 62,
+      "language": "Romanian",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2024",
+      "source_page": 370
+    },
+    {
+      "website_id": "67365",
+      "website": "www.antena3.ro",
+      "website_url": "https://www.antena3.ro/",
+      "categories": [
+        "Art",
+        "Business",
+        "Computers"
+      ],
+      "monthly_traffic": 11583002,
+      "ahrefs_dr": 72,
+      "moz_da": 64,
+      "language": "Romanian",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2024",
+      "source_page": 370
+    },
+    {
+      "website_id": "21539",
+      "website": "www.dailytimes.com.pk",
+      "website_url": "https://dailytimes.com.pk/",
+      "categories": [
+        "Games",
+        "Internet",
+        "Sports"
+      ],
+      "monthly_traffic": 113018,
+      "ahrefs_dr": 75,
+      "moz_da": 78,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "31 Oct 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22008",
+      "website": "www.simplehelp.net",
+      "website_url": "http://simplehelp.net",
+      "categories": [
+        "Internet",
+        "Software development",
+        "Technology"
+      ],
+      "monthly_traffic": 16817,
+      "ahrefs_dr": 50,
+      "moz_da": 64,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22060",
+      "website": "www.yogadigest.com",
+      "website_url": "http://yogadigest.com",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 3678,
+      "ahrefs_dr": 38,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "10 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22090",
+      "website": "www.beautyglimpse.com",
+      "website_url": "https://www.beautyglimpse.com/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "For Women"
+      ],
+      "monthly_traffic": 2699,
+      "ahrefs_dr": 40,
+      "moz_da": 53,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "10 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22141",
+      "website": "www.sportsunfold.com",
+      "website_url": "https://www.sportsunfold.com/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 9879,
+      "ahrefs_dr": 43,
+      "moz_da": 66,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22394",
+      "website": "www.revechat.com",
+      "website_url": "https://www.revechat.com",
+      "categories": [
+        "Business",
+        "Movies",
+        "Travelling"
+      ],
+      "monthly_traffic": 103539,
+      "ahrefs_dr": 75,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "15 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "22889",
+      "website": "www.irelandbeforeyoudie....",
+      "website_url": "http://www.irelandbeforeyoudie.com/",
+      "categories": [
+        "Culture",
+        "Environment",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 143934,
+      "ahrefs_dr": 60,
+      "moz_da": 72,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "19 Nov 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "23610",
+      "website": "www.geekermag.com",
+      "website_url": "https://geekermag.com/",
+      "categories": [
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 31353,
+      "ahrefs_dr": 27,
+      "moz_da": 58,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "23615",
+      "website": "www.webtrickz.com",
+      "website_url": "https://webtrickz.com/",
+      "categories": [
+        "News and Media",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 54526,
+      "ahrefs_dr": 44,
+      "moz_da": 55,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "23840",
+      "website": "www.diggerslist.com",
+      "website_url": "https://www.diggerslist.com/",
+      "categories": [
+        "Shopping",
+        "Other"
+      ],
+      "monthly_traffic": 10002,
+      "ahrefs_dr": 62,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "24649",
+      "website": "www.popdiaries.com",
+      "website_url": "https://popdiaries.com",
+      "categories": [
+        "Business",
+        "Career and Employment",
+        "Computers"
+      ],
+      "monthly_traffic": 2173,
+      "ahrefs_dr": 33,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "19 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "25009",
+      "website": "www.actuma.nl",
+      "website_url": "https://actuma.nl",
+      "categories": [
+        "Marketing",
+        "News and Media"
+      ],
+      "monthly_traffic": 1762,
+      "ahrefs_dr": 33,
+      "moz_da": 13,
+      "language": "Dutch",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "22 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "25154",
+      "website": "www.cricketschedule.com",
+      "website_url": "https://cricketschedule.com/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 18104,
+      "ahrefs_dr": 57,
+      "moz_da": 60,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "25698",
+      "website": "www.easternherald.com",
+      "website_url": "https://www.easternherald.com/",
+      "categories": [
+        "News and Media",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 129760,
+      "ahrefs_dr": 52,
+      "moz_da": 67,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Dec 2022",
+      "source_page": 370
+    },
+    {
+      "website_id": "26143",
+      "website": "www.tidbitsofexperience....",
+      "website_url": "https://tidbitsofexperience.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 8244,
+      "ahrefs_dr": 46,
+      "moz_da": 71,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "06 Jan 2023",
+      "source_page": 370
+    },
+    {
+      "website_id": "29338",
+      "website": "www.thismamaloves.com",
+      "website_url": "https://thismamaloves.com",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 9138,
+      "ahrefs_dr": 51,
+      "moz_da": 48,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2023",
+      "source_page": 370
+    },
+    {
+      "website_id": "30328",
+      "website": "www.nowentertainment.net",
+      "website_url": "https://www.nowentertainment.net/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1781,
+      "ahrefs_dr": 68,
+      "moz_da": 64,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Feb 2023",
+      "source_page": 370
+    },
+    {
+      "website_id": "31536",
+      "website": "www.tidyrepo.com",
+      "website_url": "https://tidyrepo.com/",
+      "categories": [
+        "Web-development"
+      ],
+      "monthly_traffic": 13236,
+      "ahrefs_dr": 46,
+      "moz_da": 59,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Mar 2023",
+      "source_page": 370
+    },
+    {
+      "website_id": "31819",
+      "website": "www.loudandclearreviews....",
+      "website_url": "https://loudandclearreviews.com/",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "News and Media"
+      ],
+      "monthly_traffic": 140877,
+      "ahrefs_dr": 54,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2023",
+      "source_page": 370
+    },
+    {
+      "website_id": "31901",
+      "website": "www.friulioggi.it",
+      "website_url": "https://friulioggi.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 656421,
+      "ahrefs_dr": 49,
+      "moz_da": 37,
+      "language": "Italian",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Mar 2023",
+      "source_page": 370
+    }
+  ]
+}

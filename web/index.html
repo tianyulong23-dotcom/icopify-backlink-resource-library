@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="本地外链网站资源库，支持按网站、分类、流量、DR、DA、语言和参考价格筛选。"
+    />
+    <title>外链资源库</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">外</span>
+          <div>
+            <h1>外链资源库</h1>
+            <p>ICOPIFY 本地数据快照</p>
+          </div>
+        </div>
+        <div class="snapshot-status">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span id="snapshotText">正在读取资源库</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-band" aria-label="资源库概览">
+        <div class="summary-inner">
+          <div class="summary-item">
+            <span class="summary-label">可用网站</span>
+            <strong id="summaryWebsites">--</strong>
+          </div>
+          <div class="summary-item">
+            <span class="summary-label">默认页数</span>
+            <strong id="summaryPages">--</strong>
+          </div>
+          <div class="summary-item">
+            <span class="summary-label">语言</span>
+            <strong id="summaryLanguages">--</strong>
+          </div>
+          <div class="summary-item">
+            <span class="summary-label">原始数据</span>
+            <strong id="summaryRaw">--</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="filters-band" aria-label="筛选资源">
+        <div class="filters-inner">
+          <div class="primary-tools">
+            <form class="search-form" id="searchForm">
+              <label class="sr-only" for="searchInput">搜索网站或分类</label>
+              <input
+                id="searchInput"
+                name="q"
+                type="search"
+                autocomplete="off"
+                placeholder="搜索网站、域名或分类"
+              />
+              <button class="primary-button" type="submit">搜索</button>
+            </form>
+
+            <label class="field sort-field">
+              <span>排序</span>
+              <select id="sortSelect">
+                <option value="source_asc">原始顺序</option>
+                <option value="traffic_desc">流量从高到低</option>
+                <option value="dr_desc">DR 从高到低</option>
+                <option value="da_desc">DA 从高到低</option>
+                <option value="price_asc">参考价格从低到高</option>
+                <option value="price_desc">参考价格从高到低</option>
+              </select>
+            </label>
+
+            <button class="secondary-button" id="resetButton" type="button">重置</button>
+          </div>
+
+          <div class="filter-grid">
+            <label class="field">
+              <span>分类</span>
+              <select id="categorySelect">
+                <option value="">全部分类</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>语言</span>
+              <select id="languageSelect">
+                <option value="">全部语言</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>链接类型</span>
+              <select id="linkTypeSelect">
+                <option value="">全部类型</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>邮箱状态</span>
+              <select id="emailStatusSelect">
+                <option value="">全部网站</option>
+                <option value="has">有邮箱</option>
+                <option value="none">无邮箱</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>最低流量</span>
+              <input id="minTrafficInput" min="0" inputmode="numeric" type="number" placeholder="不限" />
+            </label>
+            <label class="field compact-field">
+              <span>最低 DR</span>
+              <input id="minDrInput" min="0" max="100" inputmode="numeric" type="number" placeholder="0" />
+            </label>
+            <label class="field compact-field">
+              <span>最低 DA</span>
+              <input id="minDaInput" min="0" max="100" inputmode="numeric" type="number" placeholder="0" />
+            </label>
+            <label class="field">
+              <span>最高参考价格 ($)</span>
+              <input id="maxPriceInput" min="0" step="0.01" inputmode="decimal" type="number" placeholder="不限" />
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <section class="results-section" aria-labelledby="resultsTitle">
+        <div class="results-toolbar">
+          <div>
+            <h2 id="resultsTitle">网站资源</h2>
+            <p id="resultSummary" aria-live="polite">正在加载数据...</p>
+          </div>
+          <div class="results-meta">
+            <div class="crawl-status" id="contactCrawlStatus" data-state="not_started">
+              <span class="crawl-status-dot" aria-hidden="true"></span>
+              <span id="contactCrawlText">联系方式等待抓取</span>
+            </div>
+            <div class="per-page">每页 25 条</div>
+          </div>
+        </div>
+
+        <div class="table-shell">
+          <div class="resource-grid table-header" role="row">
+            <div role="columnheader">网站</div>
+            <div role="columnheader">分类</div>
+            <div class="numeric" role="columnheader">月流量</div>
+            <div class="numeric" role="columnheader">Ahrefs DR</div>
+            <div class="numeric" role="columnheader">Moz DA</div>
+            <div role="columnheader">语言</div>
+            <div class="numeric" role="columnheader">参考价格</div>
+            <div role="columnheader">联系方式</div>
+          </div>
+          <div id="resourceRows" class="resource-rows" role="rowgroup"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <strong>没有找到匹配的网站</strong>
+            <span>调整搜索词或筛选条件后再试。</span>
+          </div>
+          <div id="errorState" class="empty-state error-state" hidden>
+            <strong>资源库暂时无法读取</strong>
+            <span id="errorText">请确认本地服务仍在运行。</span>
+          </div>
+        </div>
+
+        <nav class="pagination" aria-label="资源分页">
+          <div class="page-buttons" id="pageButtons"></div>
+          <form class="jump-form" id="jumpForm">
+            <label for="jumpInput">跳至</label>
+            <input id="jumpInput" min="1" inputmode="numeric" type="number" />
+            <button class="secondary-button" type="submit">跳转</button>
+          </form>
+        </nav>
+      </section>
+    </main>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

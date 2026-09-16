@@ -1,0 +1,500 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1698",
+  "scraped_at": "2026-08-27T14:14:47.487Z",
+  "rows": [
+    {
+      "website_id": "84697",
+      "website": "www.elsiri.com",
+      "website_url": "https://elsiri.com/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 43,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "84721",
+      "website": "www.newboard-store.com.u...",
+      "website_url": "https://newboard-store.com.ua/",
+      "categories": [
+        "Construction and Repairs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 25,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "18 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "84799",
+      "website": "www.radrunning.com",
+      "website_url": "https://radrunning.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 39,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "84952",
+      "website": "www.run.org.ua",
+      "website_url": "https://run.org.ua/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 26,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "23 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "84954",
+      "website": "www.pobedilivmeste.org.u...",
+      "website_url": "https://pobedilivmeste.org.ua/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 24,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "23 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85017",
+      "website": "www.etea.com.ua",
+      "website_url": "https://etea.com.ua/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 26,
+      "language": "Russian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "25 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85018",
+      "website": "www.reklamspilka.org.ua",
+      "website_url": "https://reklamspilka.org.ua/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 21,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "25 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85031",
+      "website": "www.inbound.com.ua",
+      "website_url": "https://inbound.com.ua/",
+      "categories": [
+        "Construction and Repairs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 21,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85033",
+      "website": "www.as-el.com.ua",
+      "website_url": "https://as-el.com.ua/",
+      "categories": [
+        "Construction and Repairs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 23,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85035",
+      "website": "www.mallex.info",
+      "website_url": "https://mallex.info/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 30,
+      "language": "Russian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85036",
+      "website": "www.gryada.org.ua",
+      "website_url": "https://gryada.org.ua/",
+      "categories": [
+        "Fashion",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 26,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85040",
+      "website": "www.svobodomislie.com",
+      "website_url": "https://svobodomislie.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 28,
+      "language": "Russian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85042",
+      "website": "www.lolitaquieretemucho....",
+      "website_url": "https://lolitaquieretemucho.com/",
+      "categories": [
+        "Fashion",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 31,
+      "language": "Russian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85046",
+      "website": "www.addinfo.com.ua",
+      "website_url": "https://addinfo.com.ua/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 27,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85048",
+      "website": "www.auto-club.pl.ua",
+      "website_url": "https://auto-club.pl.ua/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 48,
+      "moz_da": 27,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85060",
+      "website": "www.mostmedia.com.ua",
+      "website_url": "https://mostmedia.com.ua/",
+      "categories": [
+        "Law",
+        "News and Media",
+        "Society"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 23,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85098",
+      "website": "www.musicbit.com.ua",
+      "website_url": "https://musicbit.com.ua/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 22,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85102",
+      "website": "www.funtura.com.ua",
+      "website_url": "https://funtura.com.ua/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 23,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85111",
+      "website": "www.womansy.com",
+      "website_url": "https://womansy.com/",
+      "categories": [
+        "Fashion",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 28,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85112",
+      "website": "www.necin.com.ua",
+      "website_url": "https://necin.com.ua/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 27,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85114",
+      "website": "www.swiss-watches.com.ua",
+      "website_url": "https://swiss-watches.com.ua/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 21,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85115",
+      "website": "www.entertainment.com.ua",
+      "website_url": "https://entertainment.com.ua/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 24,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85142",
+      "website": "www.mch.com.ua",
+      "website_url": "https://mch.com.ua/",
+      "categories": [
+        "Fashion",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 22,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85144",
+      "website": "www.sevgr.org.ua",
+      "website_url": "https://sevgr.org.ua/",
+      "categories": [
+        "Construction and Repairs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 26,
+      "language": "Ukrainian",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Aug 2025",
+      "source_page": 1698
+    },
+    {
+      "website_id": "85213",
+      "website": "www.findwaybiz.com",
+      "website_url": "https://findwaybiz.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 58,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "31 Aug 2025",
+      "source_page": 1698
+    }
+  ]
+}

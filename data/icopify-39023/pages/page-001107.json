@@ -1,0 +1,528 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1107",
+  "scraped_at": "2026-08-27T14:03:58.967Z",
+  "rows": [
+    {
+      "website_id": "77135",
+      "website": "www.peroxidetrello.co.uk",
+      "website_url": "http://peroxidetrello.co.uk",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77167",
+      "website": "www.stylejornal.com",
+      "website_url": "http://stylejornal.com/",
+      "categories": [
+        "Transport",
+        "Web-development",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77191",
+      "website": "www.thenewsus.com",
+      "website_url": "https://thenewsus.com/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 29,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77209",
+      "website": "www.baddieh.com",
+      "website_url": "https://baddieh.com",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 34,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77259",
+      "website": "www.anytimesmagazine.com",
+      "website_url": "https://anytimesmagazine.com",
+      "categories": [
+        "Business",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 44,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77268",
+      "website": "www.bipdetroit.com",
+      "website_url": "https://www.bipdetroit.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77269",
+      "website": "www.bipko.net",
+      "website_url": "https://www.bipko.net",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 47,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77271",
+      "website": "www.bestmiaminews.com",
+      "website_url": "https://bestmiaminews.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77273",
+      "website": "www.theguestblogs.com",
+      "website_url": "https://theguestblogs.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 23,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77274",
+      "website": "www.zoomluck.com",
+      "website_url": "https://zoomluck.com/",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 19,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77276",
+      "website": "www.bipjacksonville.com",
+      "website_url": "https://bipjacksonville.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77278",
+      "website": "www.omahanewswire.com",
+      "website_url": "https://www.omahanewswire.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77555",
+      "website": "www.faqvehicle.com",
+      "website_url": "https://www.faqvehicle.com/",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 49,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77561",
+      "website": "www.bestforthemoney.org",
+      "website_url": "https://bestforthemoney.org",
+      "categories": [
+        "Business",
+        "Finance",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 58,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77567",
+      "website": "www.lenabusiness.com",
+      "website_url": "https://lenabusiness.com",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 59,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77568",
+      "website": "www.missionviejobusiness...",
+      "website_url": "https://missionviejobusiness.com",
+      "categories": [
+        "Business",
+        "General",
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 49,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77571",
+      "website": "www.trade-cyclone.com",
+      "website_url": "https://trade-cyclone.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77683",
+      "website": "www.forbespromagazine.co...",
+      "website_url": "http://forbespromagazine.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77686",
+      "website": "www.rrrguestblog.com",
+      "website_url": "http://rrrguestblog.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 57,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77699",
+      "website": "www.newsantique.com",
+      "website_url": "http://newsantique.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 57,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77710",
+      "website": "www.usamagzane.com",
+      "website_url": "https://usamagzane.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77711",
+      "website": "www.techbullien.com",
+      "website_url": "https://techbullien.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77743",
+      "website": "www.postifybuddy.com",
+      "website_url": "http://postifybuddy.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77744",
+      "website": "www.idealmagazine.us",
+      "website_url": "http://idealmagazine.us",
+      "categories": [
+        "Business",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 36,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    },
+    {
+      "website_id": "77746",
+      "website": "www.fashionsviral.com",
+      "website_url": "http://fashionsviral.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2025",
+      "source_page": 1107
+    }
+  ]
+}

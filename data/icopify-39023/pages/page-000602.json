@@ -1,0 +1,525 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=602",
+  "scraped_at": "2026-08-27T13:55:02.535Z",
+  "rows": [
+    {
+      "website_id": "50747",
+      "website": "www.thequestions.co.uk",
+      "website_url": "https://www.thequestions.co.uk/",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Mar 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "20740",
+      "website": "www.mytebox.com",
+      "website_url": "https://mytebox.com/",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Oct 2022",
+      "source_page": 602
+    },
+    {
+      "website_id": "75625",
+      "website": "www.quickhomefixer.com",
+      "website_url": "https://quickhomefixer.com",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 40,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Apr 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "77107",
+      "website": "www.prposting.com.in",
+      "website_url": "https://prposting.com.in",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 46,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "54969",
+      "website": "www.businessspecter.com",
+      "website_url": "https://businessspecter.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 52,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jun 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "92052",
+      "website": "www.blogharbor.it.com",
+      "website_url": "https://blogharbor.it.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 92,
+      "moz_da": 94,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Feb 2026",
+      "source_page": 602
+    },
+    {
+      "website_id": "74291",
+      "website": "www.umagazine.it.com",
+      "website_url": "https://umagazine.it.com",
+      "categories": [
+        "Business",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 92,
+      "moz_da": 94,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Mar 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "61262",
+      "website": "www.luckylandcasino.com....",
+      "website_url": "https://luckylandcasino.com.in/",
+      "categories": [
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 43,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "18 Sep 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "52179",
+      "website": "www.skyover.co.uk",
+      "website_url": "https://www.skyover.co.uk",
+      "categories": [
+        "Business",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 35,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Apr 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "55305",
+      "website": "www.kristopherr.com",
+      "website_url": "https://www.kristopherr.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 35,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "1191",
+      "website": "www.affordableseocompany...",
+      "website_url": "https://www.affordableseocompany4u.com/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 29.97,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Sep 2021",
+      "source_page": 602
+    },
+    {
+      "website_id": "4333",
+      "website": "www.interestingfacts.org",
+      "website_url": "https://www.interestingfacts.org/",
+      "categories": [
+        "Art",
+        "Business",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 71,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Oct 2021",
+      "source_page": 602
+    },
+    {
+      "website_id": "51001",
+      "website": "www.insiderpost.co.uk",
+      "website_url": "https://www.insiderpost.co.uk/",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "14 Mar 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "70282",
+      "website": "www.segisocial.com",
+      "website_url": "https://segisocial.com/",
+      "categories": [
+        "Business",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 27,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "18 Jan 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "50450",
+      "website": "www.newstrail.com",
+      "website_url": "https://www.newstrail.com/",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 59,
+      "moz_da": 40,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Mar 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "610",
+      "website": "www.thecreativehomeimpro...",
+      "website_url": "https://www.thecreativehomeimprovement.com/",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 53,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Mar 2021",
+      "source_page": 602
+    },
+    {
+      "website_id": "1193",
+      "website": "www.newshunt360.com",
+      "website_url": "https://www.newshunt360.com/",
+      "categories": [
+        "Business",
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 60,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Sep 2021",
+      "source_page": 602
+    },
+    {
+      "website_id": "5120",
+      "website": "www.paidforarticles.com",
+      "website_url": "https://www.paidforarticles.com/",
+      "categories": [
+        "Games",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 38,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Oct 2021",
+      "source_page": 602
+    },
+    {
+      "website_id": "48889",
+      "website": "www.aegispost.com",
+      "website_url": "https://aegispost.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 33,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2024",
+      "source_page": 602
+    },
+    {
+      "website_id": "73494",
+      "website": "www.llookwhatmomfound.co...",
+      "website_url": "https://llookwhatmomfound.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 39,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Mar 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "75624",
+      "website": "www.dreamhouserenov.com",
+      "website_url": "https://dreamhouserenov.com",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 40,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Apr 2025",
+      "source_page": 602
+    },
+    {
+      "website_id": "15794",
+      "website": "www.quadnews.us",
+      "website_url": "https://www.quadnews.us/",
+      "categories": [
+        "Lifestyle",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 53,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Jul 2022",
+      "source_page": 602
+    },
+    {
+      "website_id": "9109",
+      "website": "www.dedailyworld.com",
+      "website_url": "https://dedailyworld.com/",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "04 Feb 2022",
+      "source_page": 602
+    },
+    {
+      "website_id": "35582",
+      "website": "www.businesspostnow.com",
+      "website_url": "https://businesspostnow.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 60,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 May 2023",
+      "source_page": 602
+    },
+    {
+      "website_id": "27487",
+      "website": "www.nybreaking.com",
+      "website_url": "http://nybreaking.com/",
+      "categories": [
+        "General",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Jan 2023",
+      "source_page": 602
+    }
+  ]
+}

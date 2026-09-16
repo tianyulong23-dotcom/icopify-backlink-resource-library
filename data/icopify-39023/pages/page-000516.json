@@ -1,0 +1,521 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=516",
+  "scraped_at": "2026-08-27T13:53:32.542Z",
+  "rows": [
+    {
+      "website_id": "76677",
+      "website": "www.seasons.nl",
+      "website_url": "https://seasons.nl/",
+      "categories": [
+        "Food",
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 31065,
+      "ahrefs_dr": 47,
+      "moz_da": 37,
+      "language": "Dutch",
+      "price": 13496.49,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "76693",
+      "website": "www.womanly.nl",
+      "website_url": "https://womanly.nl/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 23697,
+      "ahrefs_dr": 33,
+      "moz_da": 25,
+      "language": "Dutch",
+      "price": 13496.49,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "76555",
+      "website": "www.sanjoseinside.com",
+      "website_url": "https://sanjoseinside.com/",
+      "categories": [
+        "Leisure and Hobbies",
+        "Real Estate",
+        "Sports"
+      ],
+      "monthly_traffic": 28559,
+      "ahrefs_dr": 62,
+      "moz_da": 58,
+      "language": "English",
+      "price": 13536.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "57127",
+      "website": "www.eastbayexpress.com",
+      "website_url": "https://eastbayexpress.com/",
+      "categories": [
+        "Art",
+        "Culture",
+        "News and Media"
+      ],
+      "monthly_traffic": 182622,
+      "ahrefs_dr": 75,
+      "moz_da": 75,
+      "language": "English",
+      "price": 13536.45,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "17 Jul 2024",
+      "source_page": 516
+    },
+    {
+      "website_id": "57132",
+      "website": "www.goodtimes.sc",
+      "website_url": "https://www.goodtimes.sc/",
+      "categories": [
+        "Food",
+        "News and Media"
+      ],
+      "monthly_traffic": 61346,
+      "ahrefs_dr": 70,
+      "moz_da": 55,
+      "language": "English",
+      "price": 13536.45,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "7 days",
+      "added_on": "17 Jul 2024",
+      "source_page": 516
+    },
+    {
+      "website_id": "66605",
+      "website": "www.business-cool.com",
+      "website_url": "https://business-cool.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Games"
+      ],
+      "monthly_traffic": 65026,
+      "ahrefs_dr": 52,
+      "moz_da": 49,
+      "language": "English",
+      "price": 13586.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "21 Nov 2024",
+      "source_page": 516
+    },
+    {
+      "website_id": "88386",
+      "website": "www.lospecialegiornale.i...",
+      "website_url": "https://www.lospecialegiornale.it",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 8327,
+      "ahrefs_dr": 43,
+      "moz_da": 37,
+      "language": "Italian",
+      "price": 13706.28,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "44384",
+      "website": "www.mummypages.ie",
+      "website_url": "https://www.mummypages.ie",
+      "categories": [
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 31057,
+      "ahrefs_dr": 51,
+      "moz_da": 51,
+      "language": "English",
+      "price": 13756.23,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "17 Oct 2023",
+      "source_page": 516
+    },
+    {
+      "website_id": "88489",
+      "website": "www.hifi.be",
+      "website_url": "https://hifi.be",
+      "categories": [
+        "Computers",
+        "Equipment",
+        "Technology"
+      ],
+      "monthly_traffic": 15857,
+      "ahrefs_dr": 30,
+      "moz_da": 21,
+      "language": "Dutch",
+      "price": 13766.22,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "88542",
+      "website": "www.tplmoms.com",
+      "website_url": "https://tplmoms.com",
+      "categories": [
+        "Education",
+        "For Women",
+        "Home and Family"
+      ],
+      "monthly_traffic": 9723,
+      "ahrefs_dr": 42,
+      "moz_da": 45,
+      "language": "French",
+      "price": 13786.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "76636",
+      "website": "www.girlswhomagazine.nl",
+      "website_url": "https://girlswhomagazine.nl/",
+      "categories": [
+        "Food",
+        "Travelling"
+      ],
+      "monthly_traffic": 34202,
+      "ahrefs_dr": 35,
+      "moz_da": 29,
+      "language": "Dutch",
+      "price": 13886.1,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "76595",
+      "website": "www.babystraatje.nl",
+      "website_url": "https://babystraatje.nl/",
+      "categories": [
+        "For Kids",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 13463,
+      "ahrefs_dr": 5,
+      "moz_da": 23,
+      "language": "Dutch",
+      "price": 13936.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "76601",
+      "website": "www.byaranka.nl",
+      "website_url": "https://byaranka.nl/",
+      "categories": [
+        "Beauty",
+        "Food",
+        "Travelling"
+      ],
+      "monthly_traffic": 73496,
+      "ahrefs_dr": 20,
+      "moz_da": 36,
+      "language": "Dutch",
+      "price": 13936.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "52000",
+      "website": "www.hypebae.com",
+      "website_url": "https://hypebae.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 647118,
+      "ahrefs_dr": 77,
+      "moz_da": 79,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Apr 2024",
+      "source_page": 516
+    },
+    {
+      "website_id": "11914",
+      "website": "www.telegraph.co.uk",
+      "website_url": "https://www.telegraph.co.uk/",
+      "categories": [
+        "Business",
+        "News and Media"
+      ],
+      "monthly_traffic": 63944036,
+      "ahrefs_dr": 91,
+      "moz_da": 94,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "24 Apr 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "9349",
+      "website": "www.jeffbullas.com",
+      "website_url": "https://www.jeffbullas.com/",
+      "categories": [
+        "General",
+        "Web-development"
+      ],
+      "monthly_traffic": 45290,
+      "ahrefs_dr": 79,
+      "moz_da": 78,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "22 Feb 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "77214",
+      "website": "www.haustechnikdialog.de",
+      "website_url": "https://www.haustechnikdialog.de/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 714982,
+      "ahrefs_dr": 64,
+      "moz_da": 45,
+      "language": "German",
+      "price": 13986,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "86128",
+      "website": "www.kiplinger.com",
+      "website_url": "https://www.kiplinger.com/",
+      "categories": [
+        "Business",
+        "News and Media",
+        "Travelling"
+      ],
+      "monthly_traffic": 2761992,
+      "ahrefs_dr": 86,
+      "moz_da": 80,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "23 Sep 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "86628",
+      "website": "www.thepostmillennial.co...",
+      "website_url": "https://thepostmillennial.com/",
+      "categories": [
+        "Culture",
+        "News and Media"
+      ],
+      "monthly_traffic": 584438,
+      "ahrefs_dr": 70,
+      "moz_da": 64,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "14 days",
+      "added_on": "01 Oct 2025",
+      "source_page": 516
+    },
+    {
+      "website_id": "62945",
+      "website": "www.beincrypto.com",
+      "website_url": "https://beincrypto.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1376122,
+      "ahrefs_dr": 80,
+      "moz_da": 62,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "03 Oct 2024",
+      "source_page": 516
+    },
+    {
+      "website_id": "25052",
+      "website": "www.express.co.uk",
+      "website_url": "https://www.express.co.uk/",
+      "categories": [
+        "Business",
+        "News and Media"
+      ],
+      "monthly_traffic": 36550293,
+      "ahrefs_dr": 88,
+      "moz_da": 93,
+      "language": "English",
+      "price": 13986,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "22 Dec 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "14128",
+      "website": "www.gezonderleven.com",
+      "website_url": "https://gezonderleven.com/",
+      "categories": [
+        "Food",
+        "Games",
+        "Health"
+      ],
+      "monthly_traffic": 16875,
+      "ahrefs_dr": 44,
+      "moz_da": 40,
+      "language": "Dutch",
+      "price": 13995.99,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "16 Jun 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "14135",
+      "website": "www.melhorcomsaude.com.b...",
+      "website_url": "https://melhorcomsaude.com.br/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 10814,
+      "ahrefs_dr": 49,
+      "moz_da": 70,
+      "language": "Portuguese",
+      "price": 13995.99,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "16 Jun 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "14247",
+      "website": "www.askelterveyteen.com",
+      "website_url": "https://askelterveyteen.com/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 118632,
+      "ahrefs_dr": 40,
+      "moz_da": 36,
+      "language": "Other",
+      "price": 13995.99,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "18 Jun 2022",
+      "source_page": 516
+    },
+    {
+      "website_id": "52486",
+      "website": "www.consoglobe.com",
+      "website_url": "https://www.consoglobe.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 201618,
+      "ahrefs_dr": 75,
+      "moz_da": 71,
+      "language": "French",
+      "price": 14045.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "20 Apr 2024",
+      "source_page": 516
+    }
+  ]
+}

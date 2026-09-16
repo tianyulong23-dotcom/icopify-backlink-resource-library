@@ -1,0 +1,515 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=402",
+  "scraped_at": "2026-08-27T13:51:31.085Z",
+  "rows": [
+    {
+      "website_id": "3216",
+      "website": "www.entertales.com",
+      "website_url": "https://www.entertales.com/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Travelling"
+      ],
+      "monthly_traffic": 3484,
+      "ahrefs_dr": 26,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "01 Oct 2021",
+      "source_page": 402
+    },
+    {
+      "website_id": "4571",
+      "website": "www.theapopkavoice.com",
+      "website_url": "https://www.theapopkavoice.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Environment"
+      ],
+      "monthly_traffic": 5161,
+      "ahrefs_dr": 50,
+      "moz_da": 48,
+      "language": "English",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Oct 2021",
+      "source_page": 402
+    },
+    {
+      "website_id": "68191",
+      "website": "www.silvermagazine.co.uk",
+      "website_url": "http://silvermagazine.co.uk",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 10959,
+      "ahrefs_dr": 30,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "12 Dec 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "18844",
+      "website": "www.fitgirlsdiary.com",
+      "website_url": "https://fitgirlsdiary.com",
+      "categories": [
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1764,
+      "ahrefs_dr": 28,
+      "moz_da": 41,
+      "language": "English",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "24 Sep 2022",
+      "source_page": 402
+    },
+    {
+      "website_id": "58633",
+      "website": "www.saobernardofc.com.br",
+      "website_url": "https://saobernardofc.com.br",
+      "categories": [
+        "News and Media",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 3697,
+      "ahrefs_dr": 19,
+      "moz_da": 38,
+      "language": "Portuguese",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "61515",
+      "website": "www.outandbeyond.com",
+      "website_url": "https://outandbeyond.com/",
+      "categories": [
+        "Career and Employment",
+        "Personal Blogs",
+        "Travelling"
+      ],
+      "monthly_traffic": 43459,
+      "ahrefs_dr": 37,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "23 Sep 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "62726",
+      "website": "www.lacalle.com.ve",
+      "website_url": "https://lacalle.com.ve/",
+      "categories": [
+        "Agriculture",
+        "Business",
+        "Entertainment"
+      ],
+      "monthly_traffic": 127375,
+      "ahrefs_dr": 30,
+      "moz_da": 42,
+      "language": "Spanish",
+      "price": 1948.05,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "30 Sep 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "86061",
+      "website": "www.myeli.fr",
+      "website_url": "https://myeli.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 6649,
+      "ahrefs_dr": 41,
+      "moz_da": 35,
+      "language": "French",
+      "price": 1958.04,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "21 Sep 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "88245",
+      "website": "www.cobea.fr",
+      "website_url": "https://cobea.fr",
+      "categories": [
+        "Food",
+        "Home and Family",
+        "Places"
+      ],
+      "monthly_traffic": 2262,
+      "ahrefs_dr": 30,
+      "moz_da": 34,
+      "language": "French",
+      "price": 1958.04,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "88552",
+      "website": "www.thegame0.com",
+      "website_url": "https://thegame0.com",
+      "categories": [
+        "Computers",
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 3213,
+      "ahrefs_dr": 55,
+      "moz_da": 39,
+      "language": "French",
+      "price": 1958.04,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "31673",
+      "website": "www.wochenblitz.com",
+      "website_url": "https://www.wochenblitz.com/",
+      "categories": [
+        "Books",
+        "General",
+        "Literature"
+      ],
+      "monthly_traffic": 209475,
+      "ahrefs_dr": 40,
+      "moz_da": 38,
+      "language": "German",
+      "price": 1958.04,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "07 Mar 2023",
+      "source_page": 402
+    },
+    {
+      "website_id": "85787",
+      "website": "www.wk-transport-logisti...",
+      "website_url": "https://www.wk-transport-logistique.fr",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 4107,
+      "ahrefs_dr": 44,
+      "moz_da": 48,
+      "language": "French",
+      "price": 1968.03,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Sep 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "72746",
+      "website": "www.yucatanmagazine.com",
+      "website_url": "http://yucatanmagazine.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 66827,
+      "ahrefs_dr": 54,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1968.03,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "26 Feb 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "72533",
+      "website": "www.wantthatwedding.co.u...",
+      "website_url": "https://wantthatwedding.co.uk/",
+      "categories": [
+        "Fashion",
+        "Lifestyle",
+        "Photography"
+      ],
+      "monthly_traffic": 6733,
+      "ahrefs_dr": 54,
+      "moz_da": 50,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "21 Feb 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "74362",
+      "website": "www.commedesfrancais.com",
+      "website_url": "https://commedesfrancais.com/",
+      "categories": [
+        "Culture",
+        "Lifestyle",
+        "Travelling"
+      ],
+      "monthly_traffic": 9370,
+      "ahrefs_dr": 27,
+      "moz_da": 25,
+      "language": "French",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "01 Apr 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "75122",
+      "website": "www.confirmbets.com",
+      "website_url": "https://confirmbets.com/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 8207,
+      "ahrefs_dr": 21,
+      "moz_da": 20,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "10 Apr 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "76399",
+      "website": "www.friendsofliverpool.c...",
+      "website_url": "https://friendsofliverpool.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 8573,
+      "ahrefs_dr": 33,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Apr 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "76541",
+      "website": "www.enduromag.fr",
+      "website_url": "https://enduromag.fr/",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 7112,
+      "ahrefs_dr": 33,
+      "moz_da": 31,
+      "language": "French",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 402
+    },
+    {
+      "website_id": "26519",
+      "website": "www.mozartproject.org",
+      "website_url": "https://www.mozartproject.org/",
+      "categories": [
+        "Entertainment",
+        "Music"
+      ],
+      "monthly_traffic": 1332,
+      "ahrefs_dr": 43,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "10 Jan 2023",
+      "source_page": 402
+    },
+    {
+      "website_id": "30990",
+      "website": "www.tgspot.co.il",
+      "website_url": "https://www.tgspot.co.il/",
+      "categories": [
+        "Mobile",
+        "Technology"
+      ],
+      "monthly_traffic": 517409,
+      "ahrefs_dr": 50,
+      "moz_da": 46,
+      "language": "Other",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Feb 2023",
+      "source_page": 402
+    },
+    {
+      "website_id": "34358",
+      "website": "www.inspanje.nl",
+      "website_url": "https://inspanje.nl",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 592236,
+      "ahrefs_dr": 44,
+      "moz_da": 38,
+      "language": "Dutch",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "10 Apr 2023",
+      "source_page": 402
+    },
+    {
+      "website_id": "60170",
+      "website": "www.widnesrugby.com",
+      "website_url": "https://widnesrugby.com/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 10106,
+      "ahrefs_dr": 10,
+      "moz_da": 21,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "31 Aug 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "61208",
+      "website": "www.footballcollective.o...",
+      "website_url": "https://footballcollective.org.uk/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 10552,
+      "ahrefs_dr": 37,
+      "moz_da": 28,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "64341",
+      "website": "www.mumsclub.co.uk",
+      "website_url": "https://mumsclub.co.uk/",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 10588,
+      "ahrefs_dr": 23,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "23 Oct 2024",
+      "source_page": 402
+    },
+    {
+      "website_id": "65031",
+      "website": "www.worldofhorses.co.uk",
+      "website_url": "https://www.worldofhorses.co.uk/",
+      "categories": [
+        "Business",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 2941,
+      "ahrefs_dr": 49,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1978.02,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "03 Nov 2024",
+      "source_page": 402
+    }
+  ]
+}

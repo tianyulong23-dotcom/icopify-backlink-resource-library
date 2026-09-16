@@ -1,0 +1,503 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=523",
+  "scraped_at": "2026-08-27T13:53:40.156Z",
+  "rows": [
+    {
+      "website_id": "88422",
+      "website": "www.noscoeursvoyageurs.f...",
+      "website_url": "https://noscoeursvoyageurs.fr",
+      "categories": [
+        "Culture",
+        "Places",
+        "Travelling"
+      ],
+      "monthly_traffic": 69383,
+      "ahrefs_dr": 29,
+      "moz_da": 33,
+      "language": "French",
+      "price": 21318.66,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "88399",
+      "website": "www.rugbyamateur.fr",
+      "website_url": "https://rugbyamateur.fr",
+      "categories": [
+        "Culture",
+        "Leisure and Hobbies",
+        "Sports"
+      ],
+      "monthly_traffic": 255311,
+      "ahrefs_dr": 31,
+      "moz_da": 65,
+      "language": "French",
+      "price": 21558.42,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "87262",
+      "website": "www.darwin-nutrition.fr",
+      "website_url": "https://www.darwin-nutrition.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 399343,
+      "ahrefs_dr": 56,
+      "moz_da": 48,
+      "language": "English",
+      "price": 21898.08,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85340",
+      "website": "www.indy100.com",
+      "website_url": "https://www.indy100.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1322947,
+      "ahrefs_dr": 76,
+      "moz_da": 80,
+      "language": "English",
+      "price": 21978,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "07 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "42431",
+      "website": "www.dailyrecord.co.uk",
+      "website_url": "https://www.dailyrecord.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 14656676,
+      "ahrefs_dr": 81,
+      "moz_da": 88,
+      "language": "English",
+      "price": 21978,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "01 Sep 2023",
+      "source_page": 523
+    },
+    {
+      "website_id": "25554",
+      "website": "www.autonews.com",
+      "website_url": "https://www.autonews.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 967526,
+      "ahrefs_dr": 82,
+      "moz_da": 84,
+      "language": "English",
+      "price": 21978,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "28 Dec 2022",
+      "source_page": 523
+    },
+    {
+      "website_id": "66632",
+      "website": "www.inews.bg",
+      "website_url": "https://inews.bg",
+      "categories": [
+        "Business",
+        "Food",
+        "Sports"
+      ],
+      "monthly_traffic": 13959,
+      "ahrefs_dr": 47,
+      "moz_da": 45,
+      "language": "English",
+      "price": 22477.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "22 Nov 2024",
+      "source_page": 523
+    },
+    {
+      "website_id": "76590",
+      "website": "www.androidworld.nl",
+      "website_url": "https://androidworld.nl/",
+      "categories": [
+        "Gadgets"
+      ],
+      "monthly_traffic": 1189445,
+      "ahrefs_dr": 61,
+      "moz_da": 64,
+      "language": "Dutch",
+      "price": 22537.44,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "89720",
+      "website": "www.anr.fr",
+      "website_url": "https://anr.fr/",
+      "categories": [
+        "Education",
+        "Environment",
+        "Finance"
+      ],
+      "monthly_traffic": 242842,
+      "ahrefs_dr": 79,
+      "moz_da": 62,
+      "language": "French",
+      "price": 22967.01,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "23 Nov 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "91718",
+      "website": "www.wkbw.com",
+      "website_url": "https://www.wkbw.com/",
+      "categories": [
+        "General",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 483889,
+      "ahrefs_dr": 75,
+      "moz_da": 76,
+      "language": "English",
+      "price": 22977,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "28 Jan 2026",
+      "source_page": 523
+    },
+    {
+      "website_id": "12466",
+      "website": "www.ign.com",
+      "website_url": "https://www.ign.com/",
+      "categories": [
+        "Games",
+        "Other"
+      ],
+      "monthly_traffic": 83259009,
+      "ahrefs_dr": 88,
+      "moz_da": 93,
+      "language": "English",
+      "price": 23076.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 May 2022",
+      "source_page": 523
+    },
+    {
+      "website_id": "52451",
+      "website": "www.dagensps.se",
+      "website_url": "http://www.dagensps.se/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 2524696,
+      "ahrefs_dr": 71,
+      "moz_da": 46,
+      "language": "Swedish",
+      "price": 23266.71,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "18 Apr 2024",
+      "source_page": 523
+    },
+    {
+      "website_id": "76661",
+      "website": "www.nieuwnieuws.nl",
+      "website_url": "https://nieuwnieuws.nl/",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "Politics"
+      ],
+      "monthly_traffic": 3247,
+      "ahrefs_dr": 31,
+      "moz_da": 40,
+      "language": "Dutch",
+      "price": 23286.69,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "32985",
+      "website": "www.shebuystravel.com",
+      "website_url": "https://shebuystravel.com/",
+      "categories": [
+        "For Kids",
+        "Lifestyle",
+        "Travelling"
+      ],
+      "monthly_traffic": 57827,
+      "ahrefs_dr": 58,
+      "moz_da": 45,
+      "language": "English",
+      "price": 23476.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "18 Mar 2023",
+      "source_page": 523
+    },
+    {
+      "website_id": "89592",
+      "website": "www.gameboost.com",
+      "website_url": "https://gameboost.com/",
+      "categories": [
+        "Games",
+        "Other"
+      ],
+      "monthly_traffic": 1794214,
+      "ahrefs_dr": 58,
+      "moz_da": 44,
+      "language": "English",
+      "price": 23976,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "19 Nov 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85702",
+      "website": "www.forbes.at",
+      "website_url": "https://www.forbes.at/",
+      "categories": [
+        "Fashion",
+        "News and Media"
+      ],
+      "monthly_traffic": 93400,
+      "ahrefs_dr": 72,
+      "moz_da": 51,
+      "language": "English",
+      "price": 23976,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "13 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "86683",
+      "website": "www.csoonline.com",
+      "website_url": "http://www.csoonline.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 218810,
+      "ahrefs_dr": 87,
+      "moz_da": 84,
+      "language": "English",
+      "price": 23976,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "11 days",
+      "added_on": "03 Oct 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "76644",
+      "website": "www.iex.nl",
+      "website_url": "https://iex.nl/",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 4595465,
+      "ahrefs_dr": 67,
+      "moz_da": 45,
+      "language": "Dutch",
+      "price": 24025.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "69924",
+      "website": "www.dziennik.com",
+      "website_url": "https://dziennik.com/",
+      "categories": [
+        "Business",
+        "General"
+      ],
+      "monthly_traffic": 14273,
+      "ahrefs_dr": 52,
+      "moz_da": 50,
+      "language": "Polish",
+      "price": 24975,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "7 days",
+      "added_on": "11 Jan 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "76728",
+      "website": "www.moneypit.com",
+      "website_url": "http://moneypit.com",
+      "categories": [
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 18017,
+      "ahrefs_dr": 57,
+      "moz_da": 53,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85455",
+      "website": "www.barkinganddagenhampo...",
+      "website_url": "https://www.barkinganddagenhampost.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 43471,
+      "ahrefs_dr": 53,
+      "moz_da": 61,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85456",
+      "website": "www.borehamwoodtimes.co....",
+      "website_url": "https://www.borehamwoodtimes.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 22421,
+      "ahrefs_dr": 49,
+      "moz_da": 50,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85458",
+      "website": "www.ealingtimes.co.uk",
+      "website_url": "https://www.ealingtimes.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 25789,
+      "ahrefs_dr": 51,
+      "moz_da": 49,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "85459",
+      "website": "www.eastlondonadvertiser...",
+      "website_url": "https://www.eastlondonadvertiser.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 31573,
+      "ahrefs_dr": 59,
+      "moz_da": 60,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Sep 2025",
+      "source_page": 523
+    },
+    {
+      "website_id": "86231",
+      "website": "www.fstoppers.com",
+      "website_url": "http://fstoppers.com/",
+      "categories": [
+        "Photography"
+      ],
+      "monthly_traffic": 1224401,
+      "ahrefs_dr": 78,
+      "moz_da": 83,
+      "language": "English",
+      "price": 24975,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Sep 2025",
+      "source_page": 523
+    }
+  ]
+}

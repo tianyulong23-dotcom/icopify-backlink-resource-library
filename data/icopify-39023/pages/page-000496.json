@@ -1,0 +1,504 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=496",
+  "scraped_at": "2026-08-27T13:53:13.821Z",
+  "rows": [
+    {
+      "website_id": "86643",
+      "website": "www.fredericksburg.com",
+      "website_url": "http://fredericksburg.com/",
+      "categories": [
+        "Lifestyle",
+        "News and Media",
+        "Travelling"
+      ],
+      "monthly_traffic": 83424,
+      "ahrefs_dr": 74,
+      "moz_da": 68,
+      "language": "English",
+      "price": 7292.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "02 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "86663",
+      "website": "www.scarymommy.com",
+      "website_url": "https://www.scarymommy.com/",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1843549,
+      "ahrefs_dr": 79,
+      "moz_da": 80,
+      "language": "English",
+      "price": 7292.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "12 days",
+      "added_on": "02 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "86664",
+      "website": "www.siouxcityjournal.com",
+      "website_url": "https://siouxcityjournal.com/",
+      "categories": [
+        "Lifestyle",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 271671,
+      "ahrefs_dr": 72,
+      "moz_da": 73,
+      "language": "English",
+      "price": 7292.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "10 days",
+      "added_on": "02 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "88337",
+      "website": "www.visionguinee.info",
+      "website_url": "https://www.visionguinee.info",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Society"
+      ],
+      "monthly_traffic": 11091,
+      "ahrefs_dr": 37,
+      "moz_da": 40,
+      "language": "French",
+      "price": 7292.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "88317",
+      "website": "www.reussir-mon-ecommerc...",
+      "website_url": "https://www.reussir-mon-ecommerce.fr",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Marketing"
+      ],
+      "monthly_traffic": 4156,
+      "ahrefs_dr": 47,
+      "moz_da": 33,
+      "language": "French",
+      "price": 7352.64,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "86006",
+      "website": "www.ask-oracle.com",
+      "website_url": "https://www.ask-oracle.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 843360,
+      "ahrefs_dr": 40,
+      "moz_da": 46,
+      "language": "English",
+      "price": 7392.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "86647",
+      "website": "www.rapidcityjournal.com",
+      "website_url": "https://rapidcityjournal.com/",
+      "categories": [
+        "Literature",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 115233,
+      "ahrefs_dr": 73,
+      "moz_da": 76,
+      "language": "English",
+      "price": 7392.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "02 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "86658",
+      "website": "www.billingsgazette.com",
+      "website_url": "https://billingsgazette.com/",
+      "categories": [
+        "Lifestyle",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 542833,
+      "ahrefs_dr": 76,
+      "moz_da": 76,
+      "language": "English",
+      "price": 7392.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "12 days",
+      "added_on": "02 Oct 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "64339",
+      "website": "www.hypermiler.co.uk",
+      "website_url": "https://www.hypermiler.co.uk/",
+      "categories": [
+        "Automobiles",
+        "Environment"
+      ],
+      "monthly_traffic": 15959,
+      "ahrefs_dr": 24,
+      "moz_da": 42,
+      "language": "English",
+      "price": 7392.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Oct 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "72968",
+      "website": "www.primagames.com",
+      "website_url": "http://primagames.com",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 546227,
+      "ahrefs_dr": 70,
+      "moz_da": 82,
+      "language": "English",
+      "price": 7442.55,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "02 Mar 2025",
+      "source_page": 496
+    },
+    {
+      "website_id": "29370",
+      "website": "www.romapress.net",
+      "website_url": "http://romapress.net",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 374482,
+      "ahrefs_dr": 49,
+      "moz_da": 54,
+      "language": "English",
+      "price": 7482.51,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "07 Feb 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "32910",
+      "website": "www.evenement.com",
+      "website_url": "https://evenement.com/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 10187,
+      "ahrefs_dr": 58,
+      "moz_da": 34,
+      "language": "French",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "17 Mar 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "35436",
+      "website": "www.sfgate.com",
+      "website_url": "https://www.sfgate.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 21217354,
+      "ahrefs_dr": 90,
+      "moz_da": 92,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "15 days",
+      "added_on": "30 Apr 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "64268",
+      "website": "www.thetimes.com",
+      "website_url": "https://www.thetimes.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 30816996,
+      "ahrefs_dr": 91,
+      "moz_da": 92,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Oct 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "65808",
+      "website": "www.androidmag.de",
+      "website_url": "https://androidmag.de/",
+      "categories": [
+        "Business",
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 11433,
+      "ahrefs_dr": 43,
+      "moz_da": 51,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "11 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "66481",
+      "website": "www.irishmirror.ie",
+      "website_url": "http://irishmirror.ie",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 3369704,
+      "ahrefs_dr": 75,
+      "moz_da": 86,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "20 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "66554",
+      "website": "www.derbytelegraph.co.uk",
+      "website_url": "http://derbytelegraph.co.uk",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 3241813,
+      "ahrefs_dr": 73,
+      "moz_da": 80,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "21 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "66559",
+      "website": "www.belfastlive.co.uk",
+      "website_url": "http://belfastlive.co.uk",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 2430529,
+      "ahrefs_dr": 73,
+      "moz_da": 79,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "21 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "66563",
+      "website": "www.cheshire-live.co.uk",
+      "website_url": "http://cheshire-live.co.uk",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 746348,
+      "ahrefs_dr": 69,
+      "moz_da": 67,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "21 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "66568",
+      "website": "www.corkbeo.ie",
+      "website_url": "http://corkbeo.ie",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 1995818,
+      "ahrefs_dr": 62,
+      "moz_da": 53,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "21 Nov 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "43114",
+      "website": "www.business-live.co.uk",
+      "website_url": "https://www.business-live.co.uk/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 112756,
+      "ahrefs_dr": 75,
+      "moz_da": 76,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "45089",
+      "website": "www.agrifarming.in",
+      "website_url": "https://www.agrifarming.in/",
+      "categories": [
+        "Business",
+        "Food",
+        "General"
+      ],
+      "monthly_traffic": 44092,
+      "ahrefs_dr": 56,
+      "moz_da": 66,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "10 days",
+      "added_on": "04 Nov 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "45319",
+      "website": "www.sharpologist.com",
+      "website_url": "https://sharpologist.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 130168,
+      "ahrefs_dr": 50,
+      "moz_da": 49,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "11 Nov 2023",
+      "source_page": 496
+    },
+    {
+      "website_id": "51085",
+      "website": "www.bristolpost.co.uk",
+      "website_url": "https://www.bristolpost.co.uk/",
+      "categories": [
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 5971350,
+      "ahrefs_dr": 77,
+      "moz_da": 84,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "16 Mar 2024",
+      "source_page": 496
+    },
+    {
+      "website_id": "51086",
+      "website": "www.birminghammail.co.uk",
+      "website_url": "https://www.birminghammail.co.uk/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 12640014,
+      "ahrefs_dr": 79,
+      "moz_da": 89,
+      "language": "English",
+      "price": 7492.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "16 Mar 2024",
+      "source_page": 496
+    }
+  ]
+}

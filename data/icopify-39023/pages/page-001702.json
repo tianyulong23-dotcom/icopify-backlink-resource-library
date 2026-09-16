@@ -1,0 +1,504 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1702",
+  "scraped_at": "2026-08-27T14:14:51.421Z",
+  "rows": [
+    {
+      "website_id": "36572",
+      "website": "www.businesssystemguide....",
+      "website_url": "https://businesssystemguide.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 61,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 May 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "36573",
+      "website": "www.packersshoppro.com",
+      "website_url": "https://packersshoppro.com",
+      "categories": [
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 69,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 May 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "36574",
+      "website": "www.fashion-around.com",
+      "website_url": "https://fashion-around.com",
+      "categories": [
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 65,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 May 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37036",
+      "website": "www.myquickidea.com",
+      "website_url": "https://www.myquickidea.com/",
+      "categories": [
+        "Personal Blogs",
+        "Web-development",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 29,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "05 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37146",
+      "website": "www.lapshock.com",
+      "website_url": "https://www.lapshock.com/",
+      "categories": [
+        "Computers",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 26,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "09 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37818",
+      "website": "www.tonights.tv",
+      "website_url": "https://tonights.tv/",
+      "categories": [
+        "Environment",
+        "Movies"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 31,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37989",
+      "website": "www.guidermates.com",
+      "website_url": "https://guidermates.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 58,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37991",
+      "website": "www.iemgroot.com",
+      "website_url": "https://iemgroot.com//",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 58,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37993",
+      "website": "www.insideoutinformation...",
+      "website_url": "https://insideoutinformation.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "37995",
+      "website": "www.hifinewsblog.com",
+      "website_url": "https://hifinewsblog.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 59,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "38290",
+      "website": "www.diydivapro.com",
+      "website_url": "https://www.diydivapro.com",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 49,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "38535",
+      "website": "www.alonespeak.com",
+      "website_url": "https://alonespeak.com/",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 59,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "27 Jun 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "38725",
+      "website": "www.9baya.net",
+      "website_url": "https://9baya.net",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 50,
+      "language": "Arabic",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "01 Jul 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "39135",
+      "website": "www.vasttourist.com",
+      "website_url": "https://vasttourist.com/",
+      "categories": [
+        "Travelling",
+        "Transport"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 37,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jul 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "40114",
+      "website": "www.rocksforkids.com",
+      "website_url": "https://www.rocksforkids.com/",
+      "categories": [
+        "For Kids",
+        "For Women",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 41,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "28 Jul 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "40248",
+      "website": "www.howtoguidance.com",
+      "website_url": "https://howtoguidance.com/",
+      "categories": [
+        "Entertainment",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 30,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "01 Aug 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "40359",
+      "website": "www.godegree.com",
+      "website_url": "https://www.godegree.com",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 40,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 Aug 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "41312",
+      "website": "www.kutecar.com",
+      "website_url": "https://www.kutecar.com/",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 24,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "12 Aug 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "41523",
+      "website": "www.vintageculture.net",
+      "website_url": "https://www.vintageculture.net/",
+      "categories": [
+        "Culture",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 36,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Aug 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "42479",
+      "website": "www.hacktivistas.net",
+      "website_url": "https://hacktivistas.net/",
+      "categories": [
+        "General",
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 50,
+      "language": "German",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "03 Sep 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "44480",
+      "website": "www.getwhocares.com",
+      "website_url": "https://getwhocares.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 28,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Oct 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "45170",
+      "website": "www.folhageral.com",
+      "website_url": "https://www.folhageral.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 37,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Nov 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "45621",
+      "website": "www.techquerry.com",
+      "website_url": "https://techquerry.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 58,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Nov 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "46298",
+      "website": "www.wittypod.com",
+      "website_url": "https://www.wittypod.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 39,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "27 Nov 2023",
+      "source_page": 1702
+    },
+    {
+      "website_id": "47384",
+      "website": "www.tinyhouseyard.com",
+      "website_url": "https://tinyhouseyard.com/",
+      "categories": [
+        "Finance",
+        "Home and Family",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 55,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "25 Dec 2023",
+      "source_page": 1702
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=297",
+  "scraped_at": "2026-08-27T13:49:35.070Z",
+  "rows": [
+    {
+      "website_id": "23677",
+      "website": "www.regionews.at",
+      "website_url": "https://www.regionews.at",
+      "categories": [
+        "News and Media",
+        "Politics",
+        "Society"
+      ],
+      "monthly_traffic": 7417,
+      "ahrefs_dr": 56,
+      "moz_da": 45,
+      "language": "German",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "03 Dec 2022",
+      "source_page": 297
+    },
+    {
+      "website_id": "24683",
+      "website": "www.vaporana.com",
+      "website_url": "http://vaporana.com/",
+      "categories": [
+        "Culture"
+      ],
+      "monthly_traffic": 5888,
+      "ahrefs_dr": 45,
+      "moz_da": 56,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2022",
+      "source_page": 297
+    },
+    {
+      "website_id": "25271",
+      "website": "www.gamingdebugged.com",
+      "website_url": "https://www.gamingdebugged.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 14961,
+      "ahrefs_dr": 21,
+      "moz_da": 40,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 297
+    },
+    {
+      "website_id": "26080",
+      "website": "www.istaunch.com",
+      "website_url": "https://www.istaunch.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 22013,
+      "ahrefs_dr": 35,
+      "moz_da": 34,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "05 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "26400",
+      "website": "www.travellingslacker.co...",
+      "website_url": "https://travellingslacker.com/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 25395,
+      "ahrefs_dr": 30,
+      "moz_da": 44,
+      "language": "Arabic",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "09 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "26516",
+      "website": "www.techbuild.africa",
+      "website_url": "https://techbuild.africa/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 10352,
+      "ahrefs_dr": 45,
+      "moz_da": 31,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "10 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27053",
+      "website": "www.allcarindex.com",
+      "website_url": "https://www.allcarindex.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 29126,
+      "ahrefs_dr": 36,
+      "moz_da": 44,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27962",
+      "website": "www.psgtalk.com",
+      "website_url": "https://psgtalk.com/",
+      "categories": [
+        "Entertainment",
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 68871,
+      "ahrefs_dr": 43,
+      "moz_da": 53,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27963",
+      "website": "www.justarsenal.com",
+      "website_url": "https://www.justarsenal.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Sports"
+      ],
+      "monthly_traffic": 494029,
+      "ahrefs_dr": 44,
+      "moz_da": 55,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27965",
+      "website": "www.thelaziali.com",
+      "website_url": "https://thelaziali.com",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Sports"
+      ],
+      "monthly_traffic": 88775,
+      "ahrefs_dr": 39,
+      "moz_da": 47,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27969",
+      "website": "www.sempremilan.com",
+      "website_url": "https://sempremilan.com/",
+      "categories": [
+        "Business",
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 687822,
+      "ahrefs_dr": 55,
+      "moz_da": 56,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "27971",
+      "website": "www.juvefc.com",
+      "website_url": "https://www.juvefc.com/",
+      "categories": [
+        "Business",
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 390742,
+      "ahrefs_dr": 52,
+      "moz_da": 57,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jan 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "30229",
+      "website": "www.24hip-hop.com",
+      "website_url": "https://24hip-hop.com/",
+      "categories": [
+        "Music"
+      ],
+      "monthly_traffic": 24903,
+      "ahrefs_dr": 54,
+      "moz_da": 34,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "15 Feb 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "30697",
+      "website": "www.bolognabasket.org",
+      "website_url": "https://bolognabasket.org/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 318028,
+      "ahrefs_dr": 29,
+      "moz_da": 32,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "21 Feb 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "31844",
+      "website": "www.ildispariquotidiano....",
+      "website_url": "https://ildispariquotidiano.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 135964,
+      "ahrefs_dr": 37,
+      "moz_da": 37,
+      "language": "Italian",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "08 Mar 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "31913",
+      "website": "www.hardcoredroid.com",
+      "website_url": "https://www.hardcoredroid.com/",
+      "categories": [
+        "Games",
+        "Hardware development",
+        "News and Media"
+      ],
+      "monthly_traffic": 24125,
+      "ahrefs_dr": 31,
+      "moz_da": 39,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "09 Mar 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "34205",
+      "website": "www.empireofthekop.com",
+      "website_url": "https://www.empireofthekop.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 891014,
+      "ahrefs_dr": 54,
+      "moz_da": 64,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "34300",
+      "website": "www.zwnews.com",
+      "website_url": "https://zwnews.com/",
+      "categories": [
+        "Business",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 15604,
+      "ahrefs_dr": 44,
+      "moz_da": 51,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "09 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "34333",
+      "website": "www.scenarieconomici.it",
+      "website_url": "https://scenarieconomici.it/",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1264979,
+      "ahrefs_dr": 48,
+      "moz_da": 53,
+      "language": "Italian",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "10 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "34660",
+      "website": "www.bbntimes.com",
+      "website_url": "https://www.bbntimes.com",
+      "categories": [
+        "General",
+        "Science"
+      ],
+      "monthly_traffic": 188599,
+      "ahrefs_dr": 71,
+      "moz_da": 72,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "34937",
+      "website": "www.topmovierankings.com",
+      "website_url": "https://topmovierankings.com/",
+      "categories": [
+        "Entertainment",
+        "Movies"
+      ],
+      "monthly_traffic": 1127,
+      "ahrefs_dr": 7,
+      "moz_da": 67,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "35396",
+      "website": "www.vabeach.com",
+      "website_url": "https://www.vabeach.com/",
+      "categories": [
+        "Nature",
+        "Places",
+        "Travelling"
+      ],
+      "monthly_traffic": 14593,
+      "ahrefs_dr": 50,
+      "moz_da": 49,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Apr 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "35846",
+      "website": "www.techdirt.com",
+      "website_url": "https://www.techdirt.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 395794,
+      "ahrefs_dr": 80,
+      "moz_da": 82,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "14 May 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "36085",
+      "website": "www.logodesignteam.com",
+      "website_url": "https://www.logodesignteam.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 5737,
+      "ahrefs_dr": 48,
+      "moz_da": 35,
+      "language": "English",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 May 2023",
+      "source_page": 297
+    },
+    {
+      "website_id": "36848",
+      "website": "www.rosmarinonews.it",
+      "website_url": "https://rosmarinonews.it/",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 4612,
+      "ahrefs_dr": 25,
+      "moz_da": 32,
+      "language": "Italian",
+      "price": 799.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "02 Jun 2023",
+      "source_page": 297
+    }
+  ]
+}

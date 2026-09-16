@@ -1,0 +1,511 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=60",
+  "scraped_at": "2026-08-27T13:45:35.485Z",
+  "rows": [
+    {
+      "website_id": "9350",
+      "website": "www.d-addicts.com",
+      "website_url": "https://d-addicts.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1013482,
+      "ahrefs_dr": 62,
+      "moz_da": 71,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Feb 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "2551",
+      "website": "www.revoada.net",
+      "website_url": "https://www.revoada.net/",
+      "categories": [
+        "Health",
+        "Real Estate",
+        "Technology"
+      ],
+      "monthly_traffic": 1030,
+      "ahrefs_dr": 34,
+      "moz_da": 57,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "67003",
+      "website": "www.housingmarketnews.co...",
+      "website_url": "https://housingmarketnews.co.uk",
+      "categories": [
+        "Construction and Repairs",
+        "Gadgets",
+        "Real Estate"
+      ],
+      "monthly_traffic": 2109,
+      "ahrefs_dr": 9,
+      "moz_da": 40,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "27 Nov 2024",
+      "source_page": 60
+    },
+    {
+      "website_id": "4980",
+      "website": "www.letsdiskuss.com",
+      "website_url": "https://www.letsdiskuss.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 57671,
+      "ahrefs_dr": 45,
+      "moz_da": 63,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Oct 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "47589",
+      "website": "www.illustratedteacup.co...",
+      "website_url": "https://illustratedteacup.com/",
+      "categories": [
+        "Education",
+        "Entertainment",
+        "Other"
+      ],
+      "monthly_traffic": 5219,
+      "ahrefs_dr": 57,
+      "moz_da": 69,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Dec 2023",
+      "source_page": 60
+    },
+    {
+      "website_id": "1753",
+      "website": "www.dailynewsen.com",
+      "website_url": "https://www.dailynewsen.com/",
+      "categories": [
+        "News and Media",
+        "Sports",
+        "All Niches"
+      ],
+      "monthly_traffic": 2921,
+      "ahrefs_dr": 41,
+      "moz_da": 58,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "17 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "5243",
+      "website": "www.sosoactive.com",
+      "website_url": "https://www.sosoactive.com/",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1505,
+      "ahrefs_dr": 59,
+      "moz_da": 46,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Oct 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "2032",
+      "website": "www.kellysthoughtsonthin...",
+      "website_url": "https://www.kellysthoughtsonthings.com/",
+      "categories": [
+        "Games",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 4130,
+      "ahrefs_dr": 55,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "21033",
+      "website": "www.dailytrust.com",
+      "website_url": "https://dailytrust.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1071762,
+      "ahrefs_dr": 74,
+      "moz_da": 74,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Oct 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "25260",
+      "website": "www.oneeducation.org.uk",
+      "website_url": "https://www.oneeducation.org.uk/",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 71068,
+      "ahrefs_dr": 61,
+      "moz_da": 45,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "64084",
+      "website": "www.maltafootball.com",
+      "website_url": "http://maltafootball.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 22738,
+      "ahrefs_dr": 33,
+      "moz_da": 38,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Oct 2024",
+      "source_page": 60
+    },
+    {
+      "website_id": "1422",
+      "website": "www.meetrv.com",
+      "website_url": "https://www.meetrv.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 3251,
+      "ahrefs_dr": 33,
+      "moz_da": 72,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "44826",
+      "website": "www.poptopic.com.au",
+      "website_url": "https://www.poptopic.com.au",
+      "categories": [
+        "Entertainment",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 8844,
+      "ahrefs_dr": 42,
+      "moz_da": 49,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2023",
+      "source_page": 60
+    },
+    {
+      "website_id": "1754",
+      "website": "www.scienceprog.com",
+      "website_url": "https://www.scienceprog.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1764,
+      "ahrefs_dr": 59,
+      "moz_da": 40,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "17 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "21655",
+      "website": "www.laffaz.com",
+      "website_url": "https://laffaz.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 7473,
+      "ahrefs_dr": 29,
+      "moz_da": 62,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Nov 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "5841",
+      "website": "www.adventuresfrugalmom....",
+      "website_url": "https://www.adventuresfrugalmom.com/ ",
+      "categories": [
+        "Animals and Pets",
+        "Art",
+        "Other"
+      ],
+      "monthly_traffic": 11421,
+      "ahrefs_dr": 40,
+      "moz_da": 64,
+      "language": "English",
+      "price": 349.65,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Nov 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "1259",
+      "website": "www.oflox.com",
+      "website_url": "https://www.oflox.com",
+      "categories": [
+        "Art",
+        "Business",
+        "Career and Employment"
+      ],
+      "monthly_traffic": 12475,
+      "ahrefs_dr": 70,
+      "moz_da": 60,
+      "language": "English",
+      "price": 379.62,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "3297",
+      "website": "www.mymmanews.com",
+      "website_url": "https://www.mymmanews.com/",
+      "categories": [
+        "Art",
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 47550,
+      "ahrefs_dr": 45,
+      "moz_da": 57,
+      "language": "English",
+      "price": 389.61,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Oct 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "4455",
+      "website": "www.skinpacks.com",
+      "website_url": "https://www.skinpacks.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 86573,
+      "ahrefs_dr": 45,
+      "moz_da": 58,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "13 Oct 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "9342",
+      "website": "www.momooze.com",
+      "website_url": "https://www.momooze.com/",
+      "categories": [
+        "Food",
+        "Home and Family"
+      ],
+      "monthly_traffic": 72505,
+      "ahrefs_dr": 43,
+      "moz_da": 50,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Feb 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "6674",
+      "website": "www.dolphinstalk.com",
+      "website_url": "https://dolphinstalk.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 117976,
+      "ahrefs_dr": 40,
+      "moz_da": 34,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Nov 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "1649",
+      "website": "www.fooyoh.com",
+      "website_url": "https://www.fooyoh.com/",
+      "categories": [
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 15954,
+      "ahrefs_dr": 50,
+      "moz_da": 79,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Sep 2021",
+      "source_page": 60
+    },
+    {
+      "website_id": "18060",
+      "website": "www.fashionablymale.net",
+      "website_url": "https://fashionablymale.net/",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 28762,
+      "ahrefs_dr": 34,
+      "moz_da": 44,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Sep 2022",
+      "source_page": 60
+    },
+    {
+      "website_id": "67699",
+      "website": "www.talkandroid.com",
+      "website_url": "http://talkandroid.com/",
+      "categories": [
+        "Gadgets"
+      ],
+      "monthly_traffic": 570423,
+      "ahrefs_dr": 67,
+      "moz_da": 75,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Dec 2024",
+      "source_page": 60
+    },
+    {
+      "website_id": "1931",
+      "website": "www.nighthelper.com",
+      "website_url": "https://www.nighthelper.com/",
+      "categories": [
+        "Games",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1833,
+      "ahrefs_dr": 50,
+      "moz_da": 33,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 Sep 2021",
+      "source_page": 60
+    }
+  ]
+}

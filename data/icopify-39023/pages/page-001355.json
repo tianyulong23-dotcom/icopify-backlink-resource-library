@@ -1,0 +1,513 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1355",
+  "scraped_at": "2026-08-27T14:08:28.266Z",
+  "rows": [
+    {
+      "website_id": "49454",
+      "website": "www.datavoyage.net",
+      "website_url": "https://datavoyage.net",
+      "categories": [
+        "Culture",
+        "Nature",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49455",
+      "website": "www.photosvoyages.net",
+      "website_url": "https://photosvoyages.net",
+      "categories": [
+        "Culture",
+        "Nature",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49466",
+      "website": "www.fille-seule.com",
+      "website_url": "https://fille-seule.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49467",
+      "website": "www.letacosmetiques.com",
+      "website_url": "https://letacosmetiques.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49468",
+      "website": "www.plaisirparfum.com",
+      "website_url": "https://plaisirparfum.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49469",
+      "website": "www.parfum-france.com",
+      "website_url": "https://parfum-france.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49470",
+      "website": "www.lingeriejouretnuit.c...",
+      "website_url": "https://lingeriejouretnuit.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49471",
+      "website": "www.espace-lingerie.com",
+      "website_url": "https://espace-lingerie.com",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49503",
+      "website": "www.groowtech.com",
+      "website_url": "https://www.groowtech.com",
+      "categories": [
+        "Business",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49511",
+      "website": "www.lawless-street.com",
+      "website_url": "https://www.lawless-street.com/",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 63,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49583",
+      "website": "www.journal2crypto.com",
+      "website_url": "https://journal2crypto.com",
+      "categories": [
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49584",
+      "website": "www.financefrancaise.com",
+      "website_url": "https://financefrancaise.com",
+      "categories": [
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49585",
+      "website": "www.share-forex.com",
+      "website_url": "https://share-forex.com",
+      "categories": [
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49586",
+      "website": "www.tradinguniverse.net",
+      "website_url": "https://tradinguniverse.net",
+      "categories": [
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49587",
+      "website": "www.good-invest.net",
+      "website_url": "https://good-invest.net",
+      "categories": [
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49596",
+      "website": "www.smartertech.info",
+      "website_url": "https://smartertech.info",
+      "categories": [
+        "Computers",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49597",
+      "website": "www.techtracker.info",
+      "website_url": "https://techtracker.info",
+      "categories": [
+        "Computers",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49631",
+      "website": "www.thoptv.cam",
+      "website_url": "https://thoptv.cam/",
+      "categories": [
+        "Education",
+        "Fashion",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 26,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49715",
+      "website": "www.rtpdragon4d.net",
+      "website_url": "https://rtpdragon4d.net/",
+      "categories": [
+        "Agriculture",
+        "Business",
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49835",
+      "website": "www.beekeepinghome.com",
+      "website_url": "https://www.beekeepinghome.com/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "49860",
+      "website": "www.legalaiddc.com",
+      "website_url": "https://legalaiddc.com/",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 51,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "50341",
+      "website": "www.uscauto.com",
+      "website_url": "https://uscauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 58,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 Feb 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "50610",
+      "website": "www.surveyinteractive.co...",
+      "website_url": "https://surveyinteractive.co.uk",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "06 Mar 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "50621",
+      "website": "www.spradleylaw.com",
+      "website_url": "https://spradleylaw.com",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Mar 2024",
+      "source_page": 1355
+    },
+    {
+      "website_id": "50672",
+      "website": "www.techofie.com",
+      "website_url": "https://techofie.com",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Mar 2024",
+      "source_page": 1355
+    }
+  ]
+}

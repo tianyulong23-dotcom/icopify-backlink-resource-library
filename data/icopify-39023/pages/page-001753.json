@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1753",
+  "scraped_at": "2026-08-27T14:15:50.390Z",
+  "rows": [
+    {
+      "website_id": "2244",
+      "website": "www.hvtimes.com",
+      "website_url": "https://www.hvtimes.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "2282",
+      "website": "www.myfrugalbusiness.com",
+      "website_url": "https://www.myfrugalbusiness.com/",
+      "categories": [
+        "Finance",
+        "General",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 42,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "2322",
+      "website": "www.muminkaffe.com",
+      "website_url": "https://www.muminkaffe.com/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 27,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "23 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "2438",
+      "website": "www.thereviewsnow.com",
+      "website_url": "https://www.thereviewsnow.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "23 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "2763",
+      "website": "www.kitchensurfing.com",
+      "website_url": "https://www.kitchensurfing.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 61,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "2831",
+      "website": "www.baycitizen.org",
+      "website_url": "https://www.baycitizen.org/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 59,
+      "moz_da": 62,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Sep 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3193",
+      "website": "www.health4fitnessblog.c...",
+      "website_url": "https://www.health4fitnessblog.com",
+      "categories": [
+        "Business",
+        "Beauty",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 59,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3335",
+      "website": "www.royalbeautyblog.com",
+      "website_url": "https://www.royalbeautyblog.com",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 57,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3336",
+      "website": "www.technologyford.com",
+      "website_url": "https://www.technologyford.com",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 57,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3361",
+      "website": "www.loreleiwebdesign.com",
+      "website_url": "http://www.loreleiwebdesign.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 70,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3392",
+      "website": "www.techcrunchblog.com",
+      "website_url": "https://www.techcrunchblog.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 60,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "05 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3460",
+      "website": "www.fscclub.com",
+      "website_url": "https://www.fscclub.com/",
+      "categories": [
+        "Career and Employment",
+        "Construction and Repairs",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 44,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "05 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3644",
+      "website": "www.squadsnews.com",
+      "website_url": "https://www.squadsnews.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "07 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3662",
+      "website": "www.shoutpost.com",
+      "website_url": "https://www.shoutpost.com/",
+      "categories": [
+        "Games",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 32,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "07 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3770",
+      "website": "www.mass-automation.com",
+      "website_url": "http://www.mass-automation.com/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 19,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "08 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "3940",
+      "website": "www.autocarstoday.com",
+      "website_url": "https://www.autocarstoday.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 12,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4167",
+      "website": "www.sourcefed.com",
+      "website_url": "https://www.sourcefed.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 52,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4229",
+      "website": "www.massnews.com",
+      "website_url": "https://www.massnews.com",
+      "categories": [
+        "General",
+        "Mobile",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 43,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4244",
+      "website": "www.Homesgofast.com",
+      "website_url": "https://www.Homesgofast.com",
+      "categories": [
+        "General",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 51,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4256",
+      "website": "www.bussinesmagazine.com",
+      "website_url": "https://bussinesmagazine.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4292",
+      "website": "www.onthemarc.org",
+      "website_url": "http://www.onthemarc.org/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 61,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4301",
+      "website": "www.softvisiondevelopmen...",
+      "website_url": "https://www.softvisiondevelopment.com",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 53,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4305",
+      "website": "www.benefitsuses.com",
+      "website_url": "https://www.benefitsuses.com/",
+      "categories": [
+        "Finance",
+        "Food",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4531",
+      "website": "www.markethive.com",
+      "website_url": "https://www.markethive.com/",
+      "categories": [
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 39,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "14 Oct 2021",
+      "source_page": 1753
+    },
+    {
+      "website_id": "4877",
+      "website": "www.tentotwenty.com",
+      "website_url": "https://www.tentotwenty.com",
+      "categories": [
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 34,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Oct 2021",
+      "source_page": 1753
+    }
+  ]
+}

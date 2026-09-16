@@ -1,0 +1,513 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=276",
+  "scraped_at": "2026-08-27T13:49:14.565Z",
+  "rows": [
+    {
+      "website_id": "57545",
+      "website": "www.organizedthemes.com",
+      "website_url": "https://www.organizedthemes.com/",
+      "categories": [
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 2638,
+      "ahrefs_dr": 70,
+      "moz_da": 34,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "27 Jul 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "60652",
+      "website": "www.soydemadrid.com",
+      "website_url": "https://www.soydemadrid.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Books"
+      ],
+      "monthly_traffic": 51498,
+      "ahrefs_dr": 53,
+      "moz_da": 44,
+      "language": "Spanish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "07 Sep 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "64417",
+      "website": "www.allinonedownloader.c...",
+      "website_url": "https://allinonedownloader.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 71140,
+      "ahrefs_dr": 25,
+      "moz_da": 28,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "24 Oct 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "64880",
+      "website": "www.torcidaflamengo.com....",
+      "website_url": "https://www.torcidaflamengo.com.br",
+      "categories": [
+        "Business",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 46824,
+      "ahrefs_dr": 14,
+      "moz_da": 34,
+      "language": "Portuguese",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 Nov 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "64957",
+      "website": "www.nyamansahu.in",
+      "website_url": "https://nyamansahu.in/",
+      "categories": [
+        "News and Media",
+        "Software development",
+        "Other"
+      ],
+      "monthly_traffic": 1059,
+      "ahrefs_dr": 2,
+      "moz_da": 54,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Nov 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "65534",
+      "website": "www.mibelgrano.com.ar",
+      "website_url": "https://www.mibelgrano.com.ar/",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "News and Media"
+      ],
+      "monthly_traffic": 3477,
+      "ahrefs_dr": 7,
+      "moz_da": 30,
+      "language": "Spanish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "09 Nov 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "66789",
+      "website": "www.strokecast.com",
+      "website_url": "https://strokecast.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Business"
+      ],
+      "monthly_traffic": 2027,
+      "ahrefs_dr": 39,
+      "moz_da": 28,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "24 Nov 2024",
+      "source_page": 276
+    },
+    {
+      "website_id": "89171",
+      "website": "www.tonjoostudio.com",
+      "website_url": "https://tonjoostudio.com",
+      "categories": [
+        "E-commerce",
+        "Software development",
+        "Web-development"
+      ],
+      "monthly_traffic": 5772,
+      "ahrefs_dr": 36,
+      "moz_da": 31,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89219",
+      "website": "www.kafito.pl",
+      "website_url": "https://news.kafito.pl/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 2792,
+      "ahrefs_dr": 31,
+      "moz_da": 27,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "05 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89472",
+      "website": "www.tydzien.net.pl",
+      "website_url": "https://tydzien.net.pl/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 16832,
+      "ahrefs_dr": 34,
+      "moz_da": 31,
+      "language": "Polish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "14 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89520",
+      "website": "www.wirtualnyregion.eu",
+      "website_url": "https://wirtualnyregion.eu/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 19096,
+      "ahrefs_dr": 1,
+      "moz_da": 23,
+      "language": "Polish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89522",
+      "website": "www.chojnice.com",
+      "website_url": "https://www.chojnice.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 20593,
+      "ahrefs_dr": 30,
+      "moz_da": 34,
+      "language": "Polish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89632",
+      "website": "www.heightopedia.com",
+      "website_url": "https://heightopedia.com/",
+      "categories": [
+        "Lifestyle",
+        "Music",
+        "Other"
+      ],
+      "monthly_traffic": 3684,
+      "ahrefs_dr": 37,
+      "moz_da": 41,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89748",
+      "website": "www.bilgoraj.com.pl",
+      "website_url": "https://bilgoraj.com.pl/pl/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 56124,
+      "ahrefs_dr": 43,
+      "moz_da": 35,
+      "language": "Polish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "24 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89820",
+      "website": "www.busko.com.pl",
+      "website_url": "https://busko.com.pl/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 160744,
+      "ahrefs_dr": 38,
+      "moz_da": 35,
+      "language": "Polish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "25 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89883",
+      "website": "www.viralkand.co.in",
+      "website_url": "https://viralkand.co.in/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 101439,
+      "ahrefs_dr": 24,
+      "moz_da": 43,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "26 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "89979",
+      "website": "www.kedin.es",
+      "website_url": "https://www.kedin.es/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Travelling"
+      ],
+      "monthly_traffic": 1404,
+      "ahrefs_dr": 42,
+      "moz_da": 50,
+      "language": "Spanish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Nov 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90111",
+      "website": "www.beread.in",
+      "website_url": "https://beread.in/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1746,
+      "ahrefs_dr": 51,
+      "moz_da": 33,
+      "language": "Hindi",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "01 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90333",
+      "website": "www.jornaldiadia.com.br",
+      "website_url": "https://jornaldiadia.com.br/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 2072,
+      "ahrefs_dr": 57,
+      "moz_da": 55,
+      "language": "Portuguese",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "05 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90336",
+      "website": "www.elpuntocritico.com",
+      "website_url": "https://elpuntocritico.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1354,
+      "ahrefs_dr": 30,
+      "moz_da": 53,
+      "language": "Spanish",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "05 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90699",
+      "website": "www.webbytemplate.com",
+      "website_url": "https://webbytemplate.com",
+      "categories": [
+        "Business",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 11865,
+      "ahrefs_dr": 53,
+      "moz_da": 44,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "15 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90704",
+      "website": "www.fashionretailacademy...",
+      "website_url": "https://www.fashionretailacademy.ac.uk/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 24007,
+      "ahrefs_dr": 45,
+      "moz_da": 41,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90916",
+      "website": "www.streameastxyz.co.uk",
+      "website_url": "http://streameastxyz.co.uk/",
+      "categories": [
+        "Agriculture",
+        "Art",
+        "Business"
+      ],
+      "monthly_traffic": 5970,
+      "ahrefs_dr": 35,
+      "moz_da": 43,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "90934",
+      "website": "www.pakweb.net",
+      "website_url": "https://pakweb.net",
+      "categories": [
+        "Beauty",
+        "Culture",
+        "All Niches"
+      ],
+      "monthly_traffic": 62386,
+      "ahrefs_dr": 18,
+      "moz_da": 55,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2025",
+      "source_page": 276
+    },
+    {
+      "website_id": "91713",
+      "website": "www.4legsfitness.com",
+      "website_url": "https://4legsfitness.com/",
+      "categories": [
+        "Health",
+        "Lifestyle",
+        "Personal Blogs"
+      ],
+      "monthly_traffic": 5061,
+      "ahrefs_dr": 33,
+      "moz_da": 23,
+      "language": "English",
+      "price": 649.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "28 Jan 2026",
+      "source_page": 276
+    }
+  ]
+}

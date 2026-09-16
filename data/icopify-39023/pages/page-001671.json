@@ -1,0 +1,526 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1671",
+  "scraped_at": "2026-08-27T14:14:16.873Z",
+  "rows": [
+    {
+      "website_id": "6895",
+      "website": "www.usersonline.com",
+      "website_url": "https://www.usersonline.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 31,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6899",
+      "website": "www.livesv.com",
+      "website_url": "https://www.livesv.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 25,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6905",
+      "website": "www.beamoneyblogger.com",
+      "website_url": "https://www.beamoneyblogger.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Personal Blogs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 24,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6906",
+      "website": "www.gen-x-design.com",
+      "website_url": "https://www.gen-x-design.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 29,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6909",
+      "website": "www.gobigalways.com",
+      "website_url": "https://www.gobigalways.com/",
+      "categories": [
+        "News and Media",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 30,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6910",
+      "website": "www.jtoolkit.com",
+      "website_url": "https://www.jtoolkit.com/",
+      "categories": [
+        "Lifestyle",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 31,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6967",
+      "website": "www.self-inspiration.com",
+      "website_url": "https://www.self-inspiration.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 32,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "16 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6968",
+      "website": "www.cabingoddess.com",
+      "website_url": "https://www.cabingoddess.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Personal Blogs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 32,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "16 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6969",
+      "website": "www.tastybooktours.com",
+      "website_url": "https://www.tastybooktours.com/",
+      "categories": [
+        "Home and Family",
+        "Lifestyle",
+        "Personal Blogs"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 32,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "16 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6970",
+      "website": "www.planepretty.com",
+      "website_url": "https://www.planepretty.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 38,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "16 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "6971",
+      "website": "www.worldpicturenews.com",
+      "website_url": "https://www.worldpicturenews.com/",
+      "categories": [
+        "Entertainment",
+        "Personal Blogs",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 29,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "16 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7057",
+      "website": "www.wikileaks.info",
+      "website_url": "https://www.wikileaks.info/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 57,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7058",
+      "website": "www.worldmeeting2015.org",
+      "website_url": "https://www.worldmeeting2015.org/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 56,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7060",
+      "website": "www.neighborgoods.net",
+      "website_url": "https://www.neighborgoods.net/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 53,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7062",
+      "website": "www.mp3newswire.net",
+      "website_url": "https://www.mp3newswire.net/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 60,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7068",
+      "website": "www.thezenuniverse.org",
+      "website_url": "https://www.thezenuniverse.org/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 63,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7473",
+      "website": "www.mwtactics.com",
+      "website_url": "https://www.mwtactics.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7475",
+      "website": "www.thedawn-news.org",
+      "website_url": "https://www.thedawn-news.org/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 44,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7477",
+      "website": "www.stayful.com",
+      "website_url": "https://www.stayful.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 48,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7479",
+      "website": "www.rebelliouspixels.com",
+      "website_url": "https://www.rebelliouspixels.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 45,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7481",
+      "website": "www.thetasklab.com",
+      "website_url": "https://www.thetasklab.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 44,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7482",
+      "website": "www.zootoo.com",
+      "website_url": "https://www.zootoo.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 48,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7483",
+      "website": "www.servicenation.org",
+      "website_url": "https://www.servicenation.org/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 45,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7484",
+      "website": "www.weareaugustines.com",
+      "website_url": "https://www.weareaugustines.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    },
+    {
+      "website_id": "7486",
+      "website": "www.streettalklive.com",
+      "website_url": "https://www.streettalklive.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 45,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1671
+    }
+  ]
+}

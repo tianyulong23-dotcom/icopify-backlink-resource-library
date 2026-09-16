@@ -1,0 +1,482 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1760",
+  "scraped_at": "2026-08-27T14:15:56.517Z",
+  "rows": [
+    {
+      "website_id": "28103",
+      "website": "www.sportztalk.com",
+      "website_url": "https://sportztalk.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 54,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28107",
+      "website": "www.isportsfab.com",
+      "website_url": "https://isportsfab.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 58,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28108",
+      "website": "www.gamingblogx.com",
+      "website_url": "https://gamingblogx.com",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28109",
+      "website": "www.worldplayerx.com",
+      "website_url": "https://worldplayerx.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28112",
+      "website": "www.sportsxplay.com",
+      "website_url": "https://sportsxplay.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 57,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28116",
+      "website": "www.ixplayer.com",
+      "website_url": "https://ixplayer.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 60,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28215",
+      "website": "www.veryestate.com",
+      "website_url": "https://veryestate.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28216",
+      "website": "www.mypropertal.com",
+      "website_url": "https://mypropertal.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28220",
+      "website": "www.homezlog.com",
+      "website_url": "https://homezlog.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28221",
+      "website": "www.expertestate.org",
+      "website_url": "https://expertestate.org",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28230",
+      "website": "www.seoquero.com",
+      "website_url": "https://seoquero.com",
+      "categories": [
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28231",
+      "website": "www.seoreka.com",
+      "website_url": "http://seoreka.com",
+      "categories": [
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28232",
+      "website": "www.seogeky.com",
+      "website_url": "https://seogeky.com",
+      "categories": [
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28236",
+      "website": "www.autotrusta.com",
+      "website_url": "http://autotrusta.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28238",
+      "website": "www.autopril.com",
+      "website_url": "https://autopril.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 57,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28239",
+      "website": "www.vinstafood.com",
+      "website_url": "https://vinstafood.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28240",
+      "website": "www.hungryginie.com",
+      "website_url": "https://hungryginie.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 54,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28242",
+      "website": "www.yummydrool.com",
+      "website_url": "https://yummydrool.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28243",
+      "website": "www.thetablehuff.com",
+      "website_url": "https://thetablehuff.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 57,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28244",
+      "website": "www.buzzfeast.com",
+      "website_url": "https://buzzfeast.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28245",
+      "website": "www.thekitchngic.com",
+      "website_url": "https://thekitchngic.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 54,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28246",
+      "website": "www.foodzpace.com",
+      "website_url": "https://foodzpace.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28247",
+      "website": "www.burritosalsa.com",
+      "website_url": "https://burritosalsa.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 55,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28248",
+      "website": "www.foodonbook.com",
+      "website_url": "https://foodonbook.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 56,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    },
+    {
+      "website_id": "28249",
+      "website": "www.foodnachos.com",
+      "website_url": "https://foodnachos.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 54,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1760
+    }
+  ]
+}

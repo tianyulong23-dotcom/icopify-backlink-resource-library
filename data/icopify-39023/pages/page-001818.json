@@ -1,0 +1,491 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1818",
+  "scraped_at": "2026-08-27T14:17:00.646Z",
+  "rows": [
+    {
+      "website_id": "25319",
+      "website": "www.topictea.com",
+      "website_url": "https://topictea.com/",
+      "categories": [
+        "Food",
+        "For Women",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 25,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "26 Dec 2022",
+      "source_page": 1818
+    },
+    {
+      "website_id": "25323",
+      "website": "www.inthe1980s.com",
+      "website_url": "http://inthe1980s.com/",
+      "categories": [
+        "Culture",
+        "Entertainment",
+        "Movies"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 25,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "26 Dec 2022",
+      "source_page": 1818
+    },
+    {
+      "website_id": "25398",
+      "website": "www.nofilleranime.com",
+      "website_url": "https://www.nofilleranime.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 24,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "27 Dec 2022",
+      "source_page": 1818
+    },
+    {
+      "website_id": "25477",
+      "website": "www.nayarivera.com",
+      "website_url": "https://nayarivera.com/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 48,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Dec 2022",
+      "source_page": 1818
+    },
+    {
+      "website_id": "25502",
+      "website": "www.radarmakassar.com",
+      "website_url": "https://radarmakassar.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 68,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "28 Dec 2022",
+      "source_page": 1818
+    },
+    {
+      "website_id": "25913",
+      "website": "www.highyields.com",
+      "website_url": "https://highyields.com",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 51,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "26054",
+      "website": "www.energysolar.club",
+      "website_url": "https://energysolar.club",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 53,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "05 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27277",
+      "website": "www.seotechnews.com",
+      "website_url": "https://seotechnews.com",
+      "categories": [
+        "Gadgets",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27879",
+      "website": "www.bucksfund.com",
+      "website_url": "https://bucksfund.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 58,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27880",
+      "website": "www.moneychill.biz",
+      "website_url": "https://moneychill.biz",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27883",
+      "website": "www.payblog.org",
+      "website_url": "https://payblog.org",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 57,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27885",
+      "website": "www.economydiva.com",
+      "website_url": "https://economydiva.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 59,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "27889",
+      "website": "www.tantso.com",
+      "website_url": "https://tantso.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28259",
+      "website": "www.newtravelplans.com",
+      "website_url": "https://newtravelplans.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28260",
+      "website": "www.mymoretrip.com",
+      "website_url": "https://mymoretrip.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 55,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28261",
+      "website": "www.earthpixz.com",
+      "website_url": "https://earthpixz.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 55,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28262",
+      "website": "www.onglobetrotter.com",
+      "website_url": "https://onglobetrotter.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 55,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28263",
+      "website": "www.wanderfost.com",
+      "website_url": "https://wanderfost.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 57,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28264",
+      "website": "www.traveltains.com",
+      "website_url": "https://traveltains.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 51,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28265",
+      "website": "www.sunskyview.com",
+      "website_url": "https://sunskyview.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 57,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28266",
+      "website": "www.godiscovers.com",
+      "website_url": "https://godiscovers.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28267",
+      "website": "www.toptravelgram.com",
+      "website_url": "https://toptravelgram.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 57,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28268",
+      "website": "www.amazinations.com",
+      "website_url": "https://amazinations.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 55,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28269",
+      "website": "www.travelstrokes.com",
+      "website_url": "https://travelstrokes.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 56,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    },
+    {
+      "website_id": "28270",
+      "website": "www.gettravelista.com",
+      "website_url": "https://gettravelista.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 55,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2023",
+      "source_page": 1818
+    }
+  ]
+}

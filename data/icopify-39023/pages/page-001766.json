@@ -1,0 +1,508 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1766",
+  "scraped_at": "2026-08-27T14:16:05.542Z",
+  "rows": [
+    {
+      "website_id": "82384",
+      "website": "www.kumparaturi.ro",
+      "website_url": "https://kumparaturi.ro/",
+      "categories": [
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 28,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82385",
+      "website": "www.balaur.ro",
+      "website_url": "https://balaur.ro/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 28,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82386",
+      "website": "www.start-business.ro",
+      "website_url": "https://start-business.ro/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 26,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82387",
+      "website": "www.startx.ro",
+      "website_url": "https://startx.ro/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 31,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82392",
+      "website": "www.euromedic.ro",
+      "website_url": "https://euromedic.ro/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 28,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82524",
+      "website": "www.suvichardekho.com",
+      "website_url": "https://suvichardekho.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "82946",
+      "website": "www.techimpo.com",
+      "website_url": "https://techimpo.com",
+      "categories": [
+        "Business",
+        "Computers",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 40,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83221",
+      "website": "www.divineglamtips.com",
+      "website_url": "https://www.divineglamtips.com/",
+      "categories": [
+        "Agriculture",
+        "Art",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 48,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83370",
+      "website": "www.remedyonglass.com",
+      "website_url": "http://remedyonglass.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 29,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "22 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83390",
+      "website": "www.store-aqua.com",
+      "website_url": "http://store-aqua.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 48,
+      "moz_da": 29,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "22 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83401",
+      "website": "www.sproutgardenhome.com",
+      "website_url": "http://sproutgardenhome.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 19,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "23 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83468",
+      "website": "www.onedayform.com",
+      "website_url": "http://onedayform.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 24,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83474",
+      "website": "www.desivdo.co.uk",
+      "website_url": "https://desivdo.co.uk/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "E-commerce"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 32,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "11 days",
+      "added_on": "24 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83488",
+      "website": "www.eatthehumblepie.com",
+      "website_url": "http://eatthehumblepie.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 27,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "24 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83509",
+      "website": "www.untitledshot.com",
+      "website_url": "http://untitledshot.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 27,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "25 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "83976",
+      "website": "www.freejobbalerts.com",
+      "website_url": "https://freejobbalerts.com",
+      "categories": [
+        "Books",
+        "Career and Employment",
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 25,
+      "language": "Hindi",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "30 Jul 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "84192",
+      "website": "www.weeklybizguides.com",
+      "website_url": "https://weeklybizguides.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 40,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "05 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "84213",
+      "website": "www.snapchatplanetorder....",
+      "website_url": "https://snapchatplanetorder.co.uk/",
+      "categories": [
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 38,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "06 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "84465",
+      "website": "www.boraliato.com",
+      "website_url": "https://boraliato.com/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 64,
+      "moz_da": 39,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85109",
+      "website": "www.stateyka.com",
+      "website_url": "https://stateyka.com/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 28,
+      "language": "Ukrainian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "27 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85147",
+      "website": "www.kinderslove.com",
+      "website_url": "https://kinderslove.com/",
+      "categories": [
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 28,
+      "language": "Ukrainian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85215",
+      "website": "www.youtube03.com",
+      "website_url": "https://youtube03.com/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 30,
+      "language": "Russian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "31 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85225",
+      "website": "www.bipbaltimore.com",
+      "website_url": "https://www.bipbaltimore.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 53,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "31 Aug 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85320",
+      "website": "www.907.com.ua",
+      "website_url": "https://907.com.ua/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 35,
+      "language": "Ukrainian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "05 Sep 2025",
+      "source_page": 1766
+    },
+    {
+      "website_id": "85599",
+      "website": "www.hostpromola.com",
+      "website_url": "https://hostpromola.com",
+      "categories": [
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 40,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Sep 2025",
+      "source_page": 1766
+    }
+  ]
+}

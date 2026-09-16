@@ -1,0 +1,502 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1307",
+  "scraped_at": "2026-08-27T14:07:38.993Z",
+  "rows": [
+    {
+      "website_id": "9001",
+      "website": "www.canadianeconomist.co...",
+      "website_url": "https://canadianeconomist.com/",
+      "categories": [
+        "Business",
+        "Movies",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 53,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "31 Jan 2022",
+      "source_page": 1307
+    },
+    {
+      "website_id": "10016",
+      "website": "www.redbrickrosendale.co...",
+      "website_url": "https://www.redbrickrosendale.com/",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 54,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1307
+    },
+    {
+      "website_id": "10030",
+      "website": "www.rebelfarmer.org",
+      "website_url": "https://rebelfarmer.org",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 64,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56123",
+      "website": "www.threadmeters.com",
+      "website_url": "https://www.threadmeters.com",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 56,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Jun 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56125",
+      "website": "www.mrtipsi.com",
+      "website_url": "https://mrtipsi.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 56,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Jun 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56130",
+      "website": "www.saerecord.net",
+      "website_url": "https://www.saerecord.net",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Jun 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56136",
+      "website": "www.imagehack.us",
+      "website_url": "https://imagehack.us",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Jun 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56435",
+      "website": "www.celebritypix.us",
+      "website_url": "https://www.celebritypix.us",
+      "categories": [
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 56,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56437",
+      "website": "www.kinglinesmovie.com",
+      "website_url": "https://www.kinglinesmovie.com",
+      "categories": [
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56462",
+      "website": "www.lumos-edsolutions.co...",
+      "website_url": "https://lumos-edsolutions.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 53,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56463",
+      "website": "www.iaposad.info",
+      "website_url": "https://iaposad.info",
+      "categories": [
+        "Career and Employment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56464",
+      "website": "www.thenarrativetimes.or...",
+      "website_url": "https://thenarrativetimes.org",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 58,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56465",
+      "website": "www.edinir-croche.com",
+      "website_url": "https://www.edinir-croche.com",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56466",
+      "website": "www.adidasoutletonlinesh...",
+      "website_url": "https://www.adidasoutletonlineshoessale.com",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 58,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56675",
+      "website": "www.hippesty.com",
+      "website_url": "https://www.hippesty.com/",
+      "categories": [
+        "Lifestyle",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56676",
+      "website": "www.zikeal.com",
+      "website_url": "https://www.zikeal.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56801",
+      "website": "www.actualidadmiami.com",
+      "website_url": "https://actualidadmiami.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56802",
+      "website": "www.vincheckcar.com",
+      "website_url": "https://vincheckcar.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 52,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56843",
+      "website": "www.brainlymcqs.com",
+      "website_url": "https://www.brainlymcqs.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "56986",
+      "website": "www.ezinee.co.uk",
+      "website_url": "https://ezinee.co.uk/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 34,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "57039",
+      "website": "www.fashionovert.com",
+      "website_url": "https://fashionovert.com",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "57040",
+      "website": "www.sohodum.com",
+      "website_url": "https://sohodum.com",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 55,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "57257",
+      "website": "www.flutterwavescandal.c...",
+      "website_url": "https://flutterwavescandal.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 33,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "20 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "57518",
+      "website": "www.celebriches.com",
+      "website_url": "https://celebriches.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 42,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Jul 2024",
+      "source_page": 1307
+    },
+    {
+      "website_id": "57695",
+      "website": "www.infokatreasure.com",
+      "website_url": "https://infokatreasure.com/",
+      "categories": [
+        "Business",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 35,
+      "language": "English",
+      "price": 89.91,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Jul 2024",
+      "source_page": 1307
+    }
+  ]
+}

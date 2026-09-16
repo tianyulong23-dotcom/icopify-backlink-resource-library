@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=511",
+  "scraped_at": "2026-08-27T13:53:27.884Z",
+  "rows": [
+    {
+      "website_id": "76662",
+      "website": "www.nwtv.nl",
+      "website_url": "https://nwtv.nl/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 143733,
+      "ahrefs_dr": 29,
+      "moz_da": 43,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "59170",
+      "website": "www.fashiontimes.com",
+      "website_url": "https://www.fashiontimes.com/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "News and Media"
+      ],
+      "monthly_traffic": 26275,
+      "ahrefs_dr": 53,
+      "moz_da": 58,
+      "language": "English",
+      "price": 10394.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 511
+    },
+    {
+      "website_id": "87285",
+      "website": "www.lejournalduwhisky.co...",
+      "website_url": "https://lejournalduwhisky.com/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 17903,
+      "ahrefs_dr": 40,
+      "moz_da": 31,
+      "language": "English",
+      "price": 10469.52,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "88446",
+      "website": "www.journaldeleconomie.f...",
+      "website_url": "https://www.journaldeleconomie.fr",
+      "categories": [
+        "Business",
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 60228,
+      "ahrefs_dr": 61,
+      "moz_da": 54,
+      "language": "French",
+      "price": 10529.46,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "14030",
+      "website": "www.eresmama.com",
+      "website_url": "https://eresmama.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 59145,
+      "ahrefs_dr": 57,
+      "moz_da": 63,
+      "language": "Spanish",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "15 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "14032",
+      "website": "www.misanimales.com",
+      "website_url": "https://misanimales.com/",
+      "categories": [
+        "Animals and Pets",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 61271,
+      "ahrefs_dr": 53,
+      "moz_da": 70,
+      "language": "Spanish",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "15 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "14130",
+      "website": "www.verkenjegeest.com",
+      "website_url": "https://verkenjegeest.com/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 18585,
+      "ahrefs_dr": 46,
+      "moz_da": 38,
+      "language": "Dutch",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "16 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "14134",
+      "website": "www.meusanimais.com.br",
+      "website_url": "https://meusanimais.com.br/",
+      "categories": [
+        "Animals and Pets",
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 30456,
+      "ahrefs_dr": 35,
+      "moz_da": 45,
+      "language": "Portuguese",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "16 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "14136",
+      "website": "www.amenteemaravilhosa.c...",
+      "website_url": "https://amenteemaravilhosa.com.br/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 110923,
+      "ahrefs_dr": 59,
+      "moz_da": 62,
+      "language": "Portuguese",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "16 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "14248",
+      "website": "www.krokdozdrowia.com",
+      "website_url": "https://krokdozdrowia.com/",
+      "categories": [
+        "Art",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 7028,
+      "ahrefs_dr": 34,
+      "moz_da": 40,
+      "language": "Polish",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "18 Jun 2022",
+      "source_page": 511
+    },
+    {
+      "website_id": "76754",
+      "website": "www.udforsksindet.dk",
+      "website_url": "https://udforsksindet.dk/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 5815,
+      "ahrefs_dr": 41,
+      "moz_da": 27,
+      "language": "Other",
+      "price": 10569.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "13 days",
+      "added_on": "25 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "52978",
+      "website": "www.vulgaris-medical.com",
+      "website_url": "https://www.vulgaris-medical.com/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 79946,
+      "ahrefs_dr": 62,
+      "moz_da": 61,
+      "language": "French",
+      "price": 10579.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "30 Apr 2024",
+      "source_page": 511
+    },
+    {
+      "website_id": "72580",
+      "website": "www.pariszigzag.fr",
+      "website_url": "https://www.pariszigzag.fr/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 385836,
+      "ahrefs_dr": 71,
+      "moz_da": 59,
+      "language": "French",
+      "price": 10629.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "22 Feb 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "53831",
+      "website": "www.suomalaiset-podcasti...",
+      "website_url": "https://suomalaiset-podcastit.fi/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 3652,
+      "ahrefs_dr": 34,
+      "moz_da": 33,
+      "language": "Other",
+      "price": 10639.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "21 May 2024",
+      "source_page": 511
+    },
+    {
+      "website_id": "53832",
+      "website": "www.poddar.se",
+      "website_url": "https://poddar.se/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 10705,
+      "ahrefs_dr": 36,
+      "moz_da": 34,
+      "language": "Swedish",
+      "price": 10639.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "21 May 2024",
+      "source_page": 511
+    },
+    {
+      "website_id": "70465",
+      "website": "www.lavoixdunord.fr",
+      "website_url": "https://www.lavoixdunord.fr",
+      "categories": [
+        "Business",
+        "Real Estate",
+        "All Niches"
+      ],
+      "monthly_traffic": 11995004,
+      "ahrefs_dr": 83,
+      "moz_da": 77,
+      "language": "French",
+      "price": 10689.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "21 Jan 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "76629",
+      "website": "www.fitgirlcode.nl",
+      "website_url": "https://fitgirlcode.nl/",
+      "categories": [
+        "Fashion",
+        "Food",
+        "Health"
+      ],
+      "monthly_traffic": 9883,
+      "ahrefs_dr": 29,
+      "moz_da": 32,
+      "language": "Dutch",
+      "price": 10789.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "76670",
+      "website": "www.reisjevrij.nl",
+      "website_url": "https://reisjevrij.nl/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 108289,
+      "ahrefs_dr": 44,
+      "moz_da": 32,
+      "language": "Dutch",
+      "price": 10789.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "31894",
+      "website": "www.junglam.com",
+      "website_url": "https://junglam.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1653,
+      "ahrefs_dr": 24,
+      "moz_da": 32,
+      "language": "Italian",
+      "price": 10789.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "09 Mar 2023",
+      "source_page": 511
+    },
+    {
+      "website_id": "88432",
+      "website": "www.businessam.be",
+      "website_url": "https://fr.businessam.be",
+      "categories": [
+        "Business",
+        "Finance",
+        "News and Media"
+      ],
+      "monthly_traffic": 845321,
+      "ahrefs_dr": 66,
+      "moz_da": 62,
+      "language": "French",
+      "price": 10889.1,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "76551",
+      "website": "www.pacificsun.com",
+      "website_url": "https://pacificsun.com/",
+      "categories": [
+        "Food",
+        "Travelling"
+      ],
+      "monthly_traffic": 22304,
+      "ahrefs_dr": 64,
+      "moz_da": 53,
+      "language": "English",
+      "price": 10889.1,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "76552",
+      "website": "www.pajaronian.com",
+      "website_url": "https://pajaronian.com/",
+      "categories": [
+        "Culture",
+        "Sports"
+      ],
+      "monthly_traffic": 69782,
+      "ahrefs_dr": 56,
+      "moz_da": 49,
+      "language": "English",
+      "price": 10889.1,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "51417",
+      "website": "www.whatifgaming.com",
+      "website_url": "https://whatifgaming.com/",
+      "categories": [
+        "Games",
+        "All Niches"
+      ],
+      "monthly_traffic": 61271,
+      "ahrefs_dr": 45,
+      "moz_da": 56,
+      "language": "English",
+      "price": 10939.05,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "24 Mar 2024",
+      "source_page": 511
+    },
+    {
+      "website_id": "83622",
+      "website": "www.kita.de",
+      "website_url": "https://kita.de/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 270763,
+      "ahrefs_dr": 64,
+      "moz_da": 37,
+      "language": "German",
+      "price": 10939.05,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "26 Jul 2025",
+      "source_page": 511
+    },
+    {
+      "website_id": "77048",
+      "website": "www.livereacting.com",
+      "website_url": "https://blog.livereacting.com/",
+      "categories": [
+        "Marketing"
+      ],
+      "monthly_traffic": 390081,
+      "ahrefs_dr": 57,
+      "moz_da": 35,
+      "language": "English",
+      "price": 10989,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 511
+    }
+  ]
+}

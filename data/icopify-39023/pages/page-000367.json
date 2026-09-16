@@ -1,0 +1,507 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=367",
+  "scraped_at": "2026-08-27T13:50:53.281Z",
+  "rows": [
+    {
+      "website_id": "44881",
+      "website": "www.speedwaydigest.com",
+      "website_url": "https://speedwaydigest.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 42859,
+      "ahrefs_dr": 55,
+      "moz_da": 50,
+      "language": "English",
+      "price": 1488.51,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Oct 2023",
+      "source_page": 367
+    },
+    {
+      "website_id": "71535",
+      "website": "www.huru.ai",
+      "website_url": "https://huru.ai",
+      "categories": [
+        "Career and Employment",
+        "Education"
+      ],
+      "monthly_traffic": 34624,
+      "ahrefs_dr": 39,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1488.51,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "90663",
+      "website": "www.rumbie.co",
+      "website_url": "https://rumbie.co/",
+      "categories": [
+        "Beauty",
+        "Culture",
+        "Fashion"
+      ],
+      "monthly_traffic": 204259,
+      "ahrefs_dr": 63,
+      "moz_da": 78,
+      "language": "English",
+      "price": 1488.51,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Dec 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "67621",
+      "website": "www.miamilivingmagazine....",
+      "website_url": "https://www.miamilivingmagazine.com",
+      "categories": [
+        "General",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 25208,
+      "ahrefs_dr": 65,
+      "moz_da": 40,
+      "language": "English",
+      "price": 1493.51,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "04 Dec 2024",
+      "source_page": 367
+    },
+    {
+      "website_id": "68562",
+      "website": "www.efirstmagazine.com",
+      "website_url": "http://efirstmagazine.com",
+      "categories": [
+        "Lifestyle",
+        "News and Media"
+      ],
+      "monthly_traffic": 1746,
+      "ahrefs_dr": 1,
+      "moz_da": 33,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "18 Dec 2024",
+      "source_page": 367
+    },
+    {
+      "website_id": "68763",
+      "website": "www.iguides.org",
+      "website_url": "http://iguides.org/",
+      "categories": [
+        "Animals and Pets",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 6337,
+      "ahrefs_dr": 31,
+      "moz_da": 35,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "23 Dec 2024",
+      "source_page": 367
+    },
+    {
+      "website_id": "69207",
+      "website": "www.liquid-news.com",
+      "website_url": "https://liquid-news.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1206,
+      "ahrefs_dr": 27,
+      "moz_da": 24,
+      "language": "German",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Dec 2024",
+      "source_page": 367
+    },
+    {
+      "website_id": "69462",
+      "website": "www.mioriente.com",
+      "website_url": "https://mioriente.com/",
+      "categories": [
+        "Culture",
+        "Education",
+        "Sports"
+      ],
+      "monthly_traffic": 337022,
+      "ahrefs_dr": 38,
+      "moz_da": 43,
+      "language": "Spanish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Jan 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "70083",
+      "website": "www.lansingcitypulse.com",
+      "website_url": "https://www.lansingcitypulse.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 38519,
+      "ahrefs_dr": 64,
+      "moz_da": 58,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "15 Jan 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "70941",
+      "website": "www.sprintzeal.com",
+      "website_url": "https://www.sprintzeal.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 128618,
+      "ahrefs_dr": 58,
+      "moz_da": 41,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Jan 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71295",
+      "website": "www.mydoodlepuppy.com",
+      "website_url": "https://www.mydoodlepuppy.com/",
+      "categories": [
+        "Animals and Pets"
+      ],
+      "monthly_traffic": 33002,
+      "ahrefs_dr": 41,
+      "moz_da": 24,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71346",
+      "website": "www.sidewalkdog.com",
+      "website_url": "https://www.sidewalkdog.com/",
+      "categories": [
+        "Animals and Pets"
+      ],
+      "monthly_traffic": 6295,
+      "ahrefs_dr": 71,
+      "moz_da": 45,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "03 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71568",
+      "website": "www.animenew.com.br",
+      "website_url": "https://animenew.com.br/",
+      "categories": [
+        "Games",
+        "Movies",
+        "Sports"
+      ],
+      "monthly_traffic": 275670,
+      "ahrefs_dr": 35,
+      "moz_da": 39,
+      "language": "Portuguese",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71675",
+      "website": "www.gretour.com",
+      "website_url": "https://gretour.com/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 9654,
+      "ahrefs_dr": 17,
+      "moz_da": 27,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71720",
+      "website": "www.flashnews.gr",
+      "website_url": "https://flashnews.gr/",
+      "categories": [
+        "Agriculture",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1007488,
+      "ahrefs_dr": 51,
+      "moz_da": 56,
+      "language": "Greek",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71740",
+      "website": "www.grudziadz365.pl",
+      "website_url": "https://grudziadz365.pl/",
+      "categories": [
+        "Business",
+        "Culture"
+      ],
+      "monthly_traffic": 27983,
+      "ahrefs_dr": 34,
+      "moz_da": 28,
+      "language": "Polish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "11 days",
+      "added_on": "11 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "71851",
+      "website": "www.swiatwyscigow.pl",
+      "website_url": "https://swiatwyscigow.pl/",
+      "categories": [
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 42999,
+      "ahrefs_dr": 29,
+      "moz_da": 35,
+      "language": "Polish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "10 days",
+      "added_on": "13 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72117",
+      "website": "www.harianbhirawa.co.id",
+      "website_url": "https://harianbhirawa.co.id/",
+      "categories": [
+        "Education",
+        "Sports"
+      ],
+      "monthly_traffic": 24238,
+      "ahrefs_dr": 41,
+      "moz_da": 38,
+      "language": "Indonesian",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "11 days",
+      "added_on": "17 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72263",
+      "website": "www.scrapingdog.com",
+      "website_url": "https://www.scrapingdog.com/",
+      "categories": [
+        "Business",
+        "Computers",
+        "Internet"
+      ],
+      "monthly_traffic": 137252,
+      "ahrefs_dr": 60,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "18 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72265",
+      "website": "www.godreamcast.com",
+      "website_url": "https://godreamcast.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 42753,
+      "ahrefs_dr": 55,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "18 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72347",
+      "website": "www.eldiaonline.com",
+      "website_url": "https://eldiaonline.com",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 225065,
+      "ahrefs_dr": 41,
+      "moz_da": 57,
+      "language": "Spanish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "18 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72356",
+      "website": "www.r2820.com",
+      "website_url": "https://r2820.com",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 117847,
+      "ahrefs_dr": 25,
+      "moz_da": 39,
+      "language": "Spanish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "18 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72851",
+      "website": "www.gamerstyle.com.mx",
+      "website_url": "https://gamerstyle.com.mx",
+      "categories": [
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 8036,
+      "ahrefs_dr": 17,
+      "moz_da": 34,
+      "language": "Spanish",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Feb 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "72943",
+      "website": "www.diariodoturismo.com....",
+      "website_url": "http://diariodoturismo.com.br/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 67686,
+      "ahrefs_dr": 51,
+      "moz_da": 49,
+      "language": "Portuguese",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "01 Mar 2025",
+      "source_page": 367
+    },
+    {
+      "website_id": "73042",
+      "website": "www.mmbmagazine.co.uk",
+      "website_url": "https://mmbmagazine.co.uk/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 2938,
+      "ahrefs_dr": 24,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "04 Mar 2025",
+      "source_page": 367
+    }
+  ]
+}

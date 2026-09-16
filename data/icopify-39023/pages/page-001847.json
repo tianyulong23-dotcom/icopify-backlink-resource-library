@@ -1,0 +1,504 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1847",
+  "scraped_at": "2026-08-27T14:17:33.220Z",
+  "rows": [
+    {
+      "website_id": "22196",
+      "website": "www.rpmrush.com",
+      "website_url": "https://rpmrush.com/",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 41,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "12 Nov 2022",
+      "source_page": 1847
+    },
+    {
+      "website_id": "23420",
+      "website": "www.pennysaviour.com",
+      "website_url": "https://pennysaviour.com",
+      "categories": [
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 39,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "30 Nov 2022",
+      "source_page": 1847
+    },
+    {
+      "website_id": "24285",
+      "website": "www.Yttags.com",
+      "website_url": "https://Yttags.com",
+      "categories": [
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 54,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 Dec 2022",
+      "source_page": 1847
+    },
+    {
+      "website_id": "26234",
+      "website": "www.tindog.co",
+      "website_url": "http://tindog.co/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 43,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "07 Jan 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "27648",
+      "website": "www.sennik.club",
+      "website_url": "https://sennik.club/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "24 Jan 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "31838",
+      "website": "www.Milanocittastato.it",
+      "website_url": "https://Milanocittastato.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 40,
+      "language": "Italian",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "08 Mar 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "31980",
+      "website": "www.Reggiosera.it",
+      "website_url": "https://Reggiosera.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 50,
+      "language": "Italian",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "09 Mar 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "32212",
+      "website": "www.amazinginteriordesig...",
+      "website_url": "https://www.amazinginteriordesign.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 59,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "10 Mar 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "32489",
+      "website": "www.travelsuniverse.com",
+      "website_url": "https://travelsuniverse.com",
+      "categories": [
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 54,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "12 Mar 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "33905",
+      "website": "www.techstarlink.com",
+      "website_url": "https://techstarlink.com",
+      "categories": [
+        "Computers",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 19,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "01 Apr 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "35899",
+      "website": "www.canaljustica.jor.br",
+      "website_url": "https://canaljustica.jor.br",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 35,
+      "language": "Portuguese",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 May 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "35938",
+      "website": "www.zimmorningpost.com",
+      "website_url": "https://zimmorningpost.com/",
+      "categories": [
+        "Business",
+        "Sports",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 32,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "18 May 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "36010",
+      "website": "www.mycodebit.com",
+      "website_url": "https://mycodebit.com/",
+      "categories": [
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 22,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "36907",
+      "website": "www.computersaga.in",
+      "website_url": "https://computersaga.in/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "03 Jun 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "37832",
+      "website": "www.gyanvaan.com",
+      "website_url": "https://gyanvaan.com/",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 52,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Jun 2023",
+      "source_page": 1847
+    },
+    {
+      "website_id": "71",
+      "website": "www.investrecords.com",
+      "website_url": "https://www.investrecords.com/",
+      "categories": [
+        "Business",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 60,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Feb 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "232",
+      "website": "www.cooldigital.photogra...",
+      "website_url": "https://cooldigital.photography/",
+      "categories": [
+        "Entertainment",
+        "Home and Family",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 30,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 Feb 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "627",
+      "website": "www.bloggingtriggers.com",
+      "website_url": "https://www.bloggingtriggers.com",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 56,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "26 Mar 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "777",
+      "website": "www.carztune.com",
+      "website_url": "https://www.carztune.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 39,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Apr 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "1835",
+      "website": "www.utah.travel",
+      "website_url": "https://www.utah.travel/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 37,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "19 Sep 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "1855",
+      "website": "www.screenpush.com",
+      "website_url": "https://www.screenpush.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 66,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "19 Sep 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "2037",
+      "website": "www.iamnotthebabysitter....",
+      "website_url": "https://www.iamnotthebabysitter.com/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 45,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "21 Sep 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "2254",
+      "website": "www.casinosapproved.com",
+      "website_url": "https://www.casinosapproved.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 52,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "2256",
+      "website": "www.gamextag.com",
+      "website_url": "https://www.gamextag.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 31,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1847
+    },
+    {
+      "website_id": "2257",
+      "website": "www.reloadgamestudio.com",
+      "website_url": "https://www.reloadgamestudio.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 41,
+      "language": "English",
+      "price": 999,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1847
+    }
+  ]
+}

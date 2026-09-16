@@ -1,0 +1,498 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1542",
+  "scraped_at": "2026-08-27T14:11:55.970Z",
+  "rows": [
+    {
+      "website_id": "16075",
+      "website": "www.illuzia.net",
+      "website_url": "https://illuzia.net/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 44,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16076",
+      "website": "www.lpqueen.com",
+      "website_url": "https://lpqueen.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 45,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16077",
+      "website": "www.wheretheyounglearnto...",
+      "website_url": "https://wheretheyounglearntofly.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 41,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16079",
+      "website": "www.hunbaba.com",
+      "website_url": "https://hunbaba.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 44,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16080",
+      "website": "www.ohitsjustperfect.com",
+      "website_url": "https://ohitsjustperfect.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 50,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16084",
+      "website": "www.crelegant.com",
+      "website_url": "https://crelegant.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 56,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "28 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16138",
+      "website": "www.startupcradles.com",
+      "website_url": "https://startupcradles.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 44,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "29 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16139",
+      "website": "www.prozholding.com",
+      "website_url": "https://prozholding.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 45,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "29 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16211",
+      "website": "www.baba-trading.com",
+      "website_url": "https://baba-trading.com/",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 41,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16233",
+      "website": "www.scottsloans.co.uk",
+      "website_url": "https://scottsloans.co.uk/",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 42,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16234",
+      "website": "www.stock360dm.com",
+      "website_url": "https://stock360dm.com/",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16240",
+      "website": "www.doctorsstudio.org",
+      "website_url": "https://doctorsstudio.org/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 39,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16241",
+      "website": "www.health-disease.org",
+      "website_url": "https://www.health-disease.org/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16242",
+      "website": "www.insulinfree.org",
+      "website_url": "https://insulinfree.org/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 41,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16243",
+      "website": "www.natural-remedies-nur...",
+      "website_url": "https://natural-remedies-nurse.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16244",
+      "website": "www.24meds.biz",
+      "website_url": "https://24meds.biz/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 42,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16245",
+      "website": "www.acemaxsblog.com",
+      "website_url": "https://acemaxsblog.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16246",
+      "website": "www.bbcworldservicetrust...",
+      "website_url": "https://bbcworldservicetrust.org/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 40,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16247",
+      "website": "www.bloodchronicles.net",
+      "website_url": "https://bloodchronicles.net/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 42,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16248",
+      "website": "www.breakingbio.org",
+      "website_url": "https://breakingbio.org/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16249",
+      "website": "www.egmedicine.com",
+      "website_url": "https://www.egmedicine.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16250",
+      "website": "www.under-news.com",
+      "website_url": "https://under-news.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 41,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16251",
+      "website": "www.oldnutrition.com",
+      "website_url": "https://oldnutrition.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 53,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16252",
+      "website": "www.healthycareus.com",
+      "website_url": "https://healthycareus.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 54,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    },
+    {
+      "website_id": "16261",
+      "website": "www.rainingdreams.org",
+      "website_url": "https://rainingdreams.org/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 42,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1542
+    }
+  ]
+}

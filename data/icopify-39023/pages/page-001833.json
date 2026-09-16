@@ -1,0 +1,513 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1833",
+  "scraped_at": "2026-08-27T14:17:18.316Z",
+  "rows": [
+    {
+      "website_id": "6792",
+      "website": "www.timehacked.com",
+      "website_url": "https://www.timehacked.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 59,
+      "language": "English",
+      "price": 809.19,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "6793",
+      "website": "www.boomingworld.com",
+      "website_url": "https://www.boomingworld.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 59,
+      "language": "English",
+      "price": 809.19,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "15 Nov 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "7067",
+      "website": "www.sportingfree.com",
+      "website_url": "https://www.sportingfree.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 61,
+      "language": "English",
+      "price": 809.19,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 Nov 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "8059",
+      "website": "www.puprel.com",
+      "website_url": "https://www.puprel.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 59,
+      "language": "English",
+      "price": 809.19,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "10 Jan 2022",
+      "source_page": 1833
+    },
+    {
+      "website_id": "1221",
+      "website": "www.nursingexercise.com",
+      "website_url": "http://www.nursingexercise.com/",
+      "categories": [
+        "For Women",
+        "Health",
+        "Public Service"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 23,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 Sep 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "2145",
+      "website": "www.erikchristianjohnson...",
+      "website_url": "https://www.erikchristianjohnson.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 33,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "22 Sep 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3036",
+      "website": "www.greendiary.com",
+      "website_url": "https://www.greendiary.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 53,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "29 Sep 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3243",
+      "website": "www.coolthingsland.com",
+      "website_url": "https://www.coolthingsland.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 53,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3244",
+      "website": "www.buyersvalley.com",
+      "website_url": "https://www.buyersvalley.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 56,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3408",
+      "website": "www.urbannaturale.com",
+      "website_url": "https://www.urbannaturale.com/",
+      "categories": [
+        "Food",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 34,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "05 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3498",
+      "website": "www.corotool.com",
+      "website_url": "https://www.corotool.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 60,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "06 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3514",
+      "website": "www.renovicco.com",
+      "website_url": "https://www.renovicco.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 58,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "06 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3516",
+      "website": "www.mojotu.com",
+      "website_url": "https://www.mojotu.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 54,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "06 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3541",
+      "website": "www.magazinepanda.com",
+      "website_url": "https://www.magazinepanda.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 59,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "06 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3902",
+      "website": "www.wodshire.com",
+      "website_url": "https://www.wodshire.com/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 54,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3905",
+      "website": "www.riskymantra.com",
+      "website_url": "https://www.riskymantra.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 53,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3907",
+      "website": "www.wikihacked.com",
+      "website_url": "https://www.wikihacked.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 53,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3918",
+      "website": "www.yaslee.com",
+      "website_url": "https://www.yaslee.com/",
+      "categories": [
+        "Gadgets",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 58,
+      "moz_da": 54,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3929",
+      "website": "www.pobrix.com",
+      "website_url": "https://www.pobrix.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 54,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3931",
+      "website": "www.rokce.com",
+      "website_url": "https://www.rokce.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 56,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3932",
+      "website": "www.gorzl.com",
+      "website_url": "https://www.gorzl.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 55,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3933",
+      "website": "www.spinchil.com",
+      "website_url": "https://www.spinchil.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 57,
+      "moz_da": 58,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "3935",
+      "website": "www.newzticker.com",
+      "website_url": "https://www.newzticker.com/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 56,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "09 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "4577",
+      "website": "www.financesage.net",
+      "website_url": "https://www.financesage.net/",
+      "categories": [
+        "Entertainment",
+        "Politics",
+        "Public Service"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 26,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "15 Oct 2021",
+      "source_page": 1833
+    },
+    {
+      "website_id": "4638",
+      "website": "www.dailymagazine.co.uk",
+      "website_url": "https://www.dailymagazine.co.uk/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 60,
+      "moz_da": 58,
+      "language": "English",
+      "price": 819.18,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 Oct 2021",
+      "source_page": 1833
+    }
+  ]
+}

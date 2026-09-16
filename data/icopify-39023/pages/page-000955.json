@@ -1,0 +1,496 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=955",
+  "scraped_at": "2026-08-27T14:01:21.380Z",
+  "rows": [
+    {
+      "website_id": "69444",
+      "website": "www.burstforum.com",
+      "website_url": "https://burstforum.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 52,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "69804",
+      "website": "www.lookingbuzz.com",
+      "website_url": "https://lookingbuzz.com",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 34,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "70177",
+      "website": "www.newlogicentertainmen...",
+      "website_url": "https://newlogicentertainment.com/",
+      "categories": [
+        "Business",
+        "Games",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "70479",
+      "website": "www.newsexplore.co.uk",
+      "website_url": "https://newsexplore.co.uk",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 32,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "70607",
+      "website": "www.updatedblogs.com",
+      "website_url": "https://updatedblogs.com",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 33,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "70799",
+      "website": "www.introducinglive.co.u...",
+      "website_url": "https://www.introducinglive.co.uk/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 37,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "26 Jan 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74620",
+      "website": "www.bottleshockmovie.com",
+      "website_url": "http://bottleshockmovie.com/",
+      "categories": [
+        "Business",
+        "Games",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74801",
+      "website": "www.spiderwebmastertools...",
+      "website_url": "http://spiderwebmastertools.com/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74802",
+      "website": "www.studyinassam.com",
+      "website_url": "http://studyinassam.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74804",
+      "website": "www.raipurbusiness.com",
+      "website_url": "http://raipurbusiness.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74806",
+      "website": "www.inexpensivecarinsura...",
+      "website_url": "http://inexpensivecarinsurance.us/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74809",
+      "website": "www.sisypheannews.com",
+      "website_url": "http://sisypheannews.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74810",
+      "website": "www.santawanta.com",
+      "website_url": "http://santawanta.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74813",
+      "website": "www.phono-mundial.com",
+      "website_url": "http://phono-mundial.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 56,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74820",
+      "website": "www.thecreativealliancee...",
+      "website_url": "http://thecreativeallianceexperience.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 54,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74840",
+      "website": "www.temtatouage.com",
+      "website_url": "https://temtatouage.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-ufabet-%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%99%e0%b8%b4%e0%b8%a2%e0%b8%a1%e0%b8%82%e0%b8%ad%e0%b8%87/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 52,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74841",
+      "website": "www.lastgreatliar.com",
+      "website_url": "http://lastgreatliar.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74846",
+      "website": "www.albanyautism.org",
+      "website_url": "http://albanyautism.org/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 56,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74847",
+      "website": "www.candycollectorsclub....",
+      "website_url": "http://candycollectorsclub.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74860",
+      "website": "www.statesidemovie.com",
+      "website_url": "http://statesidemovie.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74862",
+      "website": "www.scienceagainstpovert...",
+      "website_url": "http://scienceagainstpoverty.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74863",
+      "website": "www.hamzacyber.com",
+      "website_url": "http://hamzacyber.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74864",
+      "website": "www.waltzwiththedevilrpg...",
+      "website_url": "http://waltzwiththedevilrpg.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74865",
+      "website": "www.yokohama-centre.com",
+      "website_url": "http://yokohama-centre.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 54,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    },
+    {
+      "website_id": "74899",
+      "website": "www.nahomatsuno.com",
+      "website_url": "http://nahomatsuno.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 53,
+      "language": "English",
+      "price": 19.98,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Apr 2025",
+      "source_page": 955
+    }
+  ]
+}

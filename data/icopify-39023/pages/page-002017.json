@@ -1,0 +1,506 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=2017",
+  "scraped_at": "2026-08-27T14:20:48.720Z",
+  "rows": [
+    {
+      "website_id": "99197",
+      "website": "www.thinkingabouthealth....",
+      "website_url": "http://thinkingabouthealth.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99198",
+      "website": "www.healthy-mens.com",
+      "website_url": "http://healthy-mens.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 39,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99199",
+      "website": "www.workinghealthier.com",
+      "website_url": "http://workinghealthier.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 40,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99200",
+      "website": "www.selfcarers.com",
+      "website_url": "http://selfcarers.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 32,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99202",
+      "website": "www.yourwellness4life.co...",
+      "website_url": "http://yourwellness4life.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99203",
+      "website": "www.reachhealthylife.com",
+      "website_url": "http://reachhealthylife.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 51,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99204",
+      "website": "www.fostermeds.com",
+      "website_url": "http://fostermeds.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99206",
+      "website": "www.imondepression.com",
+      "website_url": "http://imondepression.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 40,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99253",
+      "website": "www.homesteadrescue.com",
+      "website_url": "http://homesteadrescue.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99254",
+      "website": "www.encantohouse.com",
+      "website_url": "http://encantohouse.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99255",
+      "website": "www.rienhouse.com",
+      "website_url": "http://rienhouse.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99257",
+      "website": "www.powerhousemix.com",
+      "website_url": "http://powerhousemix.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99264",
+      "website": "www.homingreality.com",
+      "website_url": "http://homingreality.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99265",
+      "website": "www.britelinehomes.com",
+      "website_url": "http://britelinehomes.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99272",
+      "website": "www.wewantfurniture.com",
+      "website_url": "http://wewantfurniture.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99274",
+      "website": "www.collectivehouseab.co...",
+      "website_url": "http://collectivehouseab.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99358",
+      "website": "www.sharetruewellness.co...",
+      "website_url": "http://sharetruewellness.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 43,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99360",
+      "website": "www.extrahealthzone.com",
+      "website_url": "http://extrahealthzone.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 40,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99363",
+      "website": "www.theallergista.com",
+      "website_url": "http://theallergista.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99364",
+      "website": "www.moretohealthy.com",
+      "website_url": "http://moretohealthy.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99365",
+      "website": "www.doctorespo.com",
+      "website_url": "http://doctorespo.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 40,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99373",
+      "website": "www.zaangels.com",
+      "website_url": "http://zaangels.com",
+      "categories": [
+        "For Men",
+        "For Women",
+        "Miscellaneous"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 39,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99382",
+      "website": "www.dottimes.co.uk",
+      "website_url": "https://dottimes.co.uk/",
+      "categories": [
+        "Business",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 40,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99398",
+      "website": "www.onelaunch.net",
+      "website_url": "https://onelaunch.net/",
+      "categories": [
+        "News and Media",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 39,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    },
+    {
+      "website_id": "99399",
+      "website": "www.homedecorad.com",
+      "website_url": "https://homedecorad.com/",
+      "categories": [
+        "News and Media",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "08 May 2026",
+      "source_page": 2017
+    }
+  ]
+}

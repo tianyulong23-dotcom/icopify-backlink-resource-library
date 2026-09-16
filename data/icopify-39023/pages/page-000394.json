@@ -1,0 +1,518 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=394",
+  "scraped_at": "2026-08-27T13:51:22.199Z",
+  "rows": [
+    {
+      "website_id": "58167",
+      "website": "www.mojblog.hr",
+      "website_url": "https://mojblog.hr/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 11483,
+      "ahrefs_dr": 15,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "04 Aug 2024",
+      "source_page": 394
+    },
+    {
+      "website_id": "58905",
+      "website": "www.ruegenbinz.de",
+      "website_url": "https://www.ruegenbinz.de/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 2103,
+      "ahrefs_dr": 34,
+      "moz_da": 25,
+      "language": "German",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2024",
+      "source_page": 394
+    },
+    {
+      "website_id": "59513",
+      "website": "www.drinkinggamezone.com",
+      "website_url": "https://drinkinggamezone.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 27226,
+      "ahrefs_dr": 31,
+      "moz_da": 45,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Aug 2024",
+      "source_page": 394
+    },
+    {
+      "website_id": "61218",
+      "website": "www.roman-emperors.org",
+      "website_url": "https://www.roman-emperors.org/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Travelling"
+      ],
+      "monthly_traffic": 6392,
+      "ahrefs_dr": 56,
+      "moz_da": 54,
+      "language": "French",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 394
+    },
+    {
+      "website_id": "64247",
+      "website": "www.crotoybaiedesomme.co...",
+      "website_url": "https://www.crotoybaiedesomme.com/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1845,
+      "ahrefs_dr": 36,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "21 Oct 2024",
+      "source_page": 394
+    },
+    {
+      "website_id": "77262",
+      "website": "www.saabplanet.com",
+      "website_url": "https://www.saabplanet.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Manufacturing"
+      ],
+      "monthly_traffic": 60797,
+      "ahrefs_dr": 51,
+      "moz_da": 45,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "30 Apr 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "78023",
+      "website": "www.radiosound95.it",
+      "website_url": "https://radiosound95.it",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 5301,
+      "ahrefs_dr": 21,
+      "moz_da": 29,
+      "language": "Italian",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "78603",
+      "website": "www.wadupnaija.com",
+      "website_url": "https://wadupnaija.com/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 1468,
+      "ahrefs_dr": 26,
+      "moz_da": 24,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "08 May 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "80354",
+      "website": "www.telefonguru.hu",
+      "website_url": "https://www.telefonguru.hu/",
+      "categories": [
+        "Gadgets",
+        "Mobile",
+        "Technology"
+      ],
+      "monthly_traffic": 163912,
+      "ahrefs_dr": 40,
+      "moz_da": 43,
+      "language": "Other",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Jun 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "80358",
+      "website": "www.librarius.hu",
+      "website_url": "https://librarius.hu/",
+      "categories": [
+        "Art",
+        "Movies",
+        "Music"
+      ],
+      "monthly_traffic": 35002,
+      "ahrefs_dr": 52,
+      "moz_da": 46,
+      "language": "Other",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Jun 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "80362",
+      "website": "www.webradio.hu",
+      "website_url": "https://webradio.hu/",
+      "categories": [
+        "Culture",
+        "News and Media",
+        "Science"
+      ],
+      "monthly_traffic": 26593,
+      "ahrefs_dr": 50,
+      "moz_da": 47,
+      "language": "Other",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Jun 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "81612",
+      "website": "www.vermoegenet.de",
+      "website_url": "http://vermoegenet.de/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 2177,
+      "ahrefs_dr": 33,
+      "moz_da": 34,
+      "language": "German",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "26 Jun 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "82251",
+      "website": "www.smartvirtualassistan...",
+      "website_url": "https://smartvirtualassistants.com/",
+      "categories": [
+        "Business",
+        "Career and Employment",
+        "Marketing"
+      ],
+      "monthly_traffic": 10844,
+      "ahrefs_dr": 34,
+      "moz_da": 24,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 Jul 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "84402",
+      "website": "www.horizonsunlimited.co...",
+      "website_url": "https://www.horizonsunlimited.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 66813,
+      "ahrefs_dr": 64,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "84876",
+      "website": "www.overstockdealz.com",
+      "website_url": "https://overstockdealz.com/",
+      "categories": [
+        "Computers",
+        "Education",
+        "Technology"
+      ],
+      "monthly_traffic": 1136,
+      "ahrefs_dr": 58,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "21 Aug 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "85315",
+      "website": "www.laverdaddevargas.com",
+      "website_url": "http://laverdaddevargas.com/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 24892,
+      "ahrefs_dr": 28,
+      "moz_da": 44,
+      "language": "Spanish",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "05 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "85346",
+      "website": "www.vinateliste.com",
+      "website_url": "http://vinateliste.com/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 2331,
+      "ahrefs_dr": 38,
+      "moz_da": 24,
+      "language": "French",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "07 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "85541",
+      "website": "www.estav.cz",
+      "website_url": "https://estav.cz",
+      "categories": [
+        "Environment",
+        "Fashion",
+        "Finance"
+      ],
+      "monthly_traffic": 79988,
+      "ahrefs_dr": 62,
+      "moz_da": 47,
+      "language": "Other",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "10 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "86235",
+      "website": "www.pufikhomes.com",
+      "website_url": "https://www.pufikhomes.com/en/",
+      "categories": [
+        "Photography"
+      ],
+      "monthly_traffic": 30982,
+      "ahrefs_dr": 42,
+      "moz_da": 42,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "24 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "86492",
+      "website": "www.themunim.com",
+      "website_url": "https://themunim.com/",
+      "categories": [
+        "Business",
+        "Software development",
+        "Web-development"
+      ],
+      "monthly_traffic": 46592,
+      "ahrefs_dr": 31,
+      "moz_da": 28,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "86494",
+      "website": "www.tooljet.ai",
+      "website_url": "https://www.tooljet.ai/",
+      "categories": [
+        "Business",
+        "Education",
+        "Web-development"
+      ],
+      "monthly_traffic": 4368,
+      "ahrefs_dr": 54,
+      "moz_da": 28,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "86633",
+      "website": "www.rezerv.co",
+      "website_url": "https://www.rezerv.co/",
+      "categories": [
+        "E-commerce",
+        "Software development",
+        "Web-development"
+      ],
+      "monthly_traffic": 587693,
+      "ahrefs_dr": 75,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "01 Oct 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "87453",
+      "website": "www.savjetnica.com",
+      "website_url": "https://www.savjetnica.com/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 18824,
+      "ahrefs_dr": 32,
+      "moz_da": 37,
+      "language": "Other",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "14 Oct 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "87506",
+      "website": "www.respeecher.com",
+      "website_url": "https://www.respeecher.com/",
+      "categories": [
+        "Education",
+        "Music",
+        "Technology"
+      ],
+      "monthly_traffic": 92493,
+      "ahrefs_dr": 68,
+      "moz_da": 52,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "15 Oct 2025",
+      "source_page": 394
+    },
+    {
+      "website_id": "87801",
+      "website": "www.nubiz.fr",
+      "website_url": "https://www.nubiz.fr/",
+      "categories": [
+        "Agriculture",
+        "Business",
+        "Books"
+      ],
+      "monthly_traffic": 3565,
+      "ahrefs_dr": 36,
+      "moz_da": 37,
+      "language": "French",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "21 Oct 2025",
+      "source_page": 394
+    }
+  ]
+}

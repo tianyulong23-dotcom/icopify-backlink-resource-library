@@ -1,0 +1,532 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1672",
+  "scraped_at": "2026-08-27T14:14:17.966Z",
+  "rows": [
+    {
+      "website_id": "7487",
+      "website": "www.spews.org",
+      "website_url": "https://www.spews.org/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 42,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7489",
+      "website": "www.wunwun.com",
+      "website_url": "https://www.wunwun.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7490",
+      "website": "www.princearthurherald.c...",
+      "website_url": "https://www.princearthurherald.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 43,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "20 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7499",
+      "website": "www.nomadicchick.com",
+      "website_url": "https://www.nomadicchick.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 37,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7500",
+      "website": "www.iwritealot.com",
+      "website_url": "https://www.iwritealot.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 37,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7503",
+      "website": "www.aviewfromthecave.com",
+      "website_url": "https://www.aviewfromthecave.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 44,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7506",
+      "website": "www.biocaptions.in",
+      "website_url": "https://biocaptions.in/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 62,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7507",
+      "website": "www.mavericksinvitationa...",
+      "website_url": "https://www.mavericksinvitational.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 38,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7508",
+      "website": "www.carbondaleeclipse.co...",
+      "website_url": "https://www.carbondaleeclipse.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 40,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7511",
+      "website": "www.oneandco.com",
+      "website_url": "https://www.oneandco.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7512",
+      "website": "www.nhforge.org",
+      "website_url": "https://www.nhforge.org/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 43,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7513",
+      "website": "www.beautyarmy.com",
+      "website_url": "https://www.beautyarmy.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 40,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7519",
+      "website": "www.herorat.org",
+      "website_url": "https://www.herorat.org/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7520",
+      "website": "www.thriftycraftygirl.co...",
+      "website_url": "https://www.thriftycraftygirl.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 43,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7522",
+      "website": "www.viewfromabluemoon.co...",
+      "website_url": "https://www.viewfromabluemoon.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 37,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7524",
+      "website": "www.inboundwriter.com",
+      "website_url": "https://www.inboundwriter.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 38,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7525",
+      "website": "www.petnewsandviews.com",
+      "website_url": "https://www.petnewsandviews.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 38,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7526",
+      "website": "www.beekmanbeergarden.co...",
+      "website_url": "https://www.beekmanbeergarden.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 36,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7527",
+      "website": "www.thesonicsboom.com",
+      "website_url": "https://www.thesonicsboom.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7529",
+      "website": "www.iliketotallyloveit.c...",
+      "website_url": "https://www.iliketotallyloveit.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 34,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7531",
+      "website": "www.focusmanifesto.com",
+      "website_url": "https://www.focusmanifesto.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 37,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7533",
+      "website": "www.brainfoggles.com",
+      "website_url": "https://www.brainfoggles.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 36,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7564",
+      "website": "www.sdgyoungleaders.org",
+      "website_url": "https://www.sdgyoungleaders.org/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 35,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7565",
+      "website": "www.feedyes.com",
+      "website_url": "https://www.feedyes.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 39,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Dec 2021",
+      "source_page": 1672
+    },
+    {
+      "website_id": "7566",
+      "website": "www.pacificvoyagers.org",
+      "website_url": "https://www.pacificvoyagers.org/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 36,
+      "language": "English",
+      "price": 299.7,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Dec 2021",
+      "source_page": 1672
+    }
+  ]
+}

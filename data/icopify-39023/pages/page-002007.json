@@ -1,0 +1,482 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=2007",
+  "scraped_at": "2026-08-27T14:20:38.416Z",
+  "rows": [
+    {
+      "website_id": "98091",
+      "website": "www.judicialtrial.com",
+      "website_url": "http://judicialtrial.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98093",
+      "website": "www.lawesu.com",
+      "website_url": "http://lawesu.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98094",
+      "website": "www.lawsfrequent.com",
+      "website_url": "http://lawsfrequent.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98095",
+      "website": "www.outlawslax.com",
+      "website_url": "http://outlawslax.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98096",
+      "website": "www.lawsdepot.com",
+      "website_url": "http://lawsdepot.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98097",
+      "website": "www.binhamlegal.com",
+      "website_url": "http://binhamlegal.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 52,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98099",
+      "website": "www.lawstopedia.com",
+      "website_url": "http://lawstopedia.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 49,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98100",
+      "website": "www.eautoviews.com",
+      "website_url": "http://eautoviews.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98101",
+      "website": "www.autocineti.com",
+      "website_url": "http://autocineti.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98103",
+      "website": "www.theautodrives.com",
+      "website_url": "http://theautodrives.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98104",
+      "website": "www.lookingcars.com",
+      "website_url": "http://lookingcars.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98105",
+      "website": "www.diverauto.com",
+      "website_url": "http://diverauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98107",
+      "website": "www.autolandcar.com",
+      "website_url": "http://autolandcar.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98108",
+      "website": "www.ragautos.com",
+      "website_url": "http://ragautos.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98110",
+      "website": "www.kingsunauto.com",
+      "website_url": "http://kingsunauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98112",
+      "website": "www.deanwheels.com",
+      "website_url": "http://deanwheels.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98113",
+      "website": "www.autoenigma.com",
+      "website_url": "http://autoenigma.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98114",
+      "website": "www.autoxtremer.com",
+      "website_url": "http://autoxtremer.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98116",
+      "website": "www.automanns.com",
+      "website_url": "http://automanns.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98118",
+      "website": "www.rebauto.com",
+      "website_url": "http://rebauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98119",
+      "website": "www.heakauto.com",
+      "website_url": "http://heakauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98120",
+      "website": "www.rifauto.com",
+      "website_url": "http://rifauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98121",
+      "website": "www.covemotoring.com",
+      "website_url": "http://covemotoring.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98122",
+      "website": "www.autoprodam.com",
+      "website_url": "http://autoprodam.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    },
+    {
+      "website_id": "98124",
+      "website": "www.lumeiauto.com",
+      "website_url": "http://lumeiauto.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 2007
+    }
+  ]
+}

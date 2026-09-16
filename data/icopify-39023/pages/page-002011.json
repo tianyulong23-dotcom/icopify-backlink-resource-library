@@ -1,0 +1,518 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=2011",
+  "scraped_at": "2026-08-27T14:20:42.522Z",
+  "rows": [
+    {
+      "website_id": "98511",
+      "website": "www.travelnity.com",
+      "website_url": "http://travelnity.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 38,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98512",
+      "website": "www.rcitravelandtours.co...",
+      "website_url": "http://rcitravelandtours.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 39,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98516",
+      "website": "www.leantravelers.com",
+      "website_url": "http://leantravelers.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98518",
+      "website": "www.travelworldvip.com",
+      "website_url": "http://travelworldvip.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 30,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98520",
+      "website": "www.yourtopicsmultiplest...",
+      "website_url": "https://yourtopicsmultiplestoriess.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 43,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98522",
+      "website": "www.ahealthypace.com",
+      "website_url": "http://ahealthypace.com",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98523",
+      "website": "www.holyhealthnut.com",
+      "website_url": "http://holyhealthnut.com",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98524",
+      "website": "www.rusehealth.com",
+      "website_url": "http://rusehealth.com",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98525",
+      "website": "www.fitost.com",
+      "website_url": "http://fitost.com",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98593",
+      "website": "www.worthinsights.com",
+      "website_url": "https://worthinsights.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Books"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 57,
+      "moz_da": 43,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98672",
+      "website": "www.trendingtimes.co.uk",
+      "website_url": "https://www.trendingtimes.co.uk/innove-master-any-skill-with-deep-practice-focused-drilling-true-memorization/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98792",
+      "website": "www.healthifyfeed.com",
+      "website_url": "http://healthifyfeed.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98793",
+      "website": "www.twahealth.com",
+      "website_url": "http://twahealth.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98795",
+      "website": "www.homerentla.com",
+      "website_url": "http://homerentla.com",
+      "categories": [
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98796",
+      "website": "www.healthytalkie.com",
+      "website_url": "http://healthytalkie.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98797",
+      "website": "www.healthbennies.com",
+      "website_url": "http://healthbennies.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98798",
+      "website": "www.getstayhealthy.com",
+      "website_url": "http://getstayhealthy.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98799",
+      "website": "www.pyournutrition.com",
+      "website_url": "http://pyournutrition.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 50,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98800",
+      "website": "www.healthygirlth.com",
+      "website_url": "http://healthygirlth.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 49,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98804",
+      "website": "www.walsnutrition.com",
+      "website_url": "http://walsnutrition.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 49,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98805",
+      "website": "www.drivemehealthy.com",
+      "website_url": "http://drivemehealthy.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 48,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98806",
+      "website": "www.bhealthylife.com",
+      "website_url": "http://bhealthylife.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 47,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98807",
+      "website": "www.smartboardhome.com",
+      "website_url": "http://smartboardhome.com",
+      "categories": [
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98808",
+      "website": "www.healthandeasylife.co...",
+      "website_url": "http://healthandeasylife.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 47,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    },
+    {
+      "website_id": "98809",
+      "website": "www.mymostlyhealthylife....",
+      "website_url": "http://mymostlyhealthylife.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 47,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 May 2026",
+      "source_page": 2011
+    }
+  ]
+}

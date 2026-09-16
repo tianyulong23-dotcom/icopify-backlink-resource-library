@@ -1,0 +1,504 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1566",
+  "scraped_at": "2026-08-27T14:12:22.205Z",
+  "rows": [
+    {
+      "website_id": "59134",
+      "website": "www.max-bayer.de",
+      "website_url": "https://max-bayer.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59135",
+      "website": "www.haase-schreibwaren.d...",
+      "website_url": "https://haase-schreibwaren.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59136",
+      "website": "www.lebenimkontxt.de",
+      "website_url": "https://lebenimkontxt.de/",
+      "categories": [
+        "Real Estate",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 52,
+      "moz_da": 56,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59137",
+      "website": "www.baumschule-fritzgrim...",
+      "website_url": "https://baumschule-fritzgrimm.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59138",
+      "website": "www.oldtimer-luenen.de",
+      "website_url": "https://oldtimer-luenen.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 61,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59141",
+      "website": "www.anklam-dental.de",
+      "website_url": "https://anklam-dental.de/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 49,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59142",
+      "website": "www.davi-ehrler.de",
+      "website_url": "https://davi-ehrler.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 58,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59143",
+      "website": "www.autopfandhaus-nord.d...",
+      "website_url": "https://autopfandhaus-nord.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 51,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59144",
+      "website": "www.fuerstentumbraunschw...",
+      "website_url": "https://fuerstentumbraunschweig.de/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59145",
+      "website": "www.ratgeber-olympia.de",
+      "website_url": "https://ratgeber-olympia.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 48,
+      "moz_da": 62,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59146",
+      "website": "www.rheda-altstadt.de",
+      "website_url": "https://rheda-altstadt.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59148",
+      "website": "www.restaurant-puck.de",
+      "website_url": "https://restaurant-puck.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 61,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59149",
+      "website": "www.juttalotz-hentschel....",
+      "website_url": "https://juttalotz-hentschel.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59150",
+      "website": "www.fdp-vellmar.de",
+      "website_url": "https://fdp-vellmar.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59151",
+      "website": "www.willkommen-in-schilk...",
+      "website_url": "https://willkommen-in-schilksee.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 63,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59153",
+      "website": "www.g-hr-consult.de",
+      "website_url": "https://g-hr-consult.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 60,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59154",
+      "website": "www.sgssr-online.de",
+      "website_url": "https://sgssr-online.de/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 58,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59155",
+      "website": "www.physio-sinnig.de",
+      "website_url": "https://physio-sinnig.de/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59156",
+      "website": "www.liberale-gesellschaf...",
+      "website_url": "https://liberale-gesellschaft.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 56,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59158",
+      "website": "www.nachtcafe-germershei...",
+      "website_url": "https://nachtcafe-germersheim.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59159",
+      "website": "www.restaurant-kolpingha...",
+      "website_url": "https://restaurant-kolpinghaus-wanne.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 64,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59160",
+      "website": "www.stralsunder-taxi.de",
+      "website_url": "https://stralsunder-taxi.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 61,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59161",
+      "website": "www.esprit-badsalzuflen....",
+      "website_url": "https://esprit-badsalzuflen.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 49,
+      "moz_da": 63,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59162",
+      "website": "www.baubiologie-saarlorl...",
+      "website_url": "https://baubiologie-saarlorlux.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 58,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    },
+    {
+      "website_id": "59164",
+      "website": "www.westfalenhandball.de",
+      "website_url": "https://westfalenhandball.de/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 59,
+      "language": "German",
+      "price": 199.8,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1566
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1044",
+  "scraped_at": "2026-08-27T14:02:53.688Z",
+  "rows": [
+    {
+      "website_id": "56627",
+      "website": "www.techylas.com",
+      "website_url": "https://techylas.com/",
+      "categories": [
+        "Agriculture",
+        "Business",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56657",
+      "website": "www.theearthglobe.com",
+      "website_url": "https://theearthglobe.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 34,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56692",
+      "website": "www.tickerplanet.com",
+      "website_url": "http://tickerplanet.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56693",
+      "website": "www.alteredglobe.com",
+      "website_url": "http://alteredglobe.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56694",
+      "website": "www.worldtoast.com",
+      "website_url": "http://worldtoast.com/",
+      "categories": [
+        "Education",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56696",
+      "website": "www.oblivionreport.com",
+      "website_url": "https://oblivionreport.com/",
+      "categories": [
+        "Fashion",
+        "Science",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56698",
+      "website": "www.theyawner.com",
+      "website_url": "https://theyawner.com/",
+      "categories": [
+        "Real Estate",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 36,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56699",
+      "website": "www.elitefinity.com",
+      "website_url": "https://elitefinity.com/",
+      "categories": [
+        "Lifestyle",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56700",
+      "website": "www.lavishvillage.com",
+      "website_url": "https://lavishvillage.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56702",
+      "website": "www.prestigefox.com",
+      "website_url": "https://prestigefox.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56703",
+      "website": "www.mondaypoint.com",
+      "website_url": "https://mondaypoint.com/",
+      "categories": [
+        "Lifestyle",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56706",
+      "website": "www.dailycentury.com",
+      "website_url": "https://dailycentury.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56707",
+      "website": "www.everdigest.com",
+      "website_url": "https://everdigest.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56709",
+      "website": "www.tangiblepost.com",
+      "website_url": "https://tangiblepost.com/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 36,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56710",
+      "website": "www.jiyanb.com",
+      "website_url": "http://jiyanb.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56713",
+      "website": "www.curatetalk.com",
+      "website_url": "https://curatetalk.com/",
+      "categories": [
+        "Fashion",
+        "Finance",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56714",
+      "website": "www.deeperearth.com",
+      "website_url": "https://deeperearth.com/",
+      "categories": [
+        "Food",
+        "Sports",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56715",
+      "website": "www.yellowtribune.com",
+      "website_url": "https://yellowtribune.com/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56717",
+      "website": "www.metajargon.com",
+      "website_url": "https://metajargon.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56718",
+      "website": "www.stumbleer.com",
+      "website_url": "https://stumbleer.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56719",
+      "website": "www.revisille.com",
+      "website_url": "https://revisille.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56720",
+      "website": "www.vividzine.com",
+      "website_url": "https://vividzine.com/",
+      "categories": [
+        "Art",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56721",
+      "website": "www.mainstreamme.com",
+      "website_url": "https://mainstreamme.com/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 36,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56722",
+      "website": "www.samefeed.com",
+      "website_url": "https://samefeed.com/",
+      "categories": [
+        "Automobiles",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    },
+    {
+      "website_id": "56723",
+      "website": "www.honestfreak.com",
+      "website_url": "https://honestfreak.com/",
+      "categories": [
+        "Entertainment",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 38,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "10 Jul 2024",
+      "source_page": 1044
+    }
+  ]
+}

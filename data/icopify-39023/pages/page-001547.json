@@ -1,0 +1,511 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1547",
+  "scraped_at": "2026-08-27T14:12:01.338Z",
+  "rows": [
+    {
+      "website_id": "4133",
+      "website": "www.marketing-paradise.c...",
+      "website_url": "https://www.marketing-paradise.com",
+      "categories": [
+        "Computers",
+        "General",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4134",
+      "website": "www.mobilemondaymelb.com",
+      "website_url": "https://www.mobilemondaymelb.com",
+      "categories": [
+        "Gadgets",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 57,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4135",
+      "website": "www.temporaryhitpoints.c...",
+      "website_url": "https://www.temporaryhitpoints.com",
+      "categories": [
+        "Games",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4136",
+      "website": "www.thedvdwars.com",
+      "website_url": "https://www.thedvdwars.com",
+      "categories": [
+        "General",
+        "Music",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 59,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4137",
+      "website": "www.apasaja.us",
+      "website_url": "https://www.apasaja.us",
+      "categories": [
+        "Entertainment",
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 60,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4138",
+      "website": "www.attraveltour.com",
+      "website_url": "https://www.attraveltour.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 61,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4139",
+      "website": "www.cjtraveltours.com",
+      "website_url": "https://www.cjtraveltours.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 61,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4140",
+      "website": "www.favorites-hotels.com",
+      "website_url": "https://www.favorites-hotels.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 57,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4141",
+      "website": "www.globetravelholidays....",
+      "website_url": "https://www.globetravelholidays.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 62,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4142",
+      "website": "www.halongluxurytour.com",
+      "website_url": "https://www.halongluxurytour.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4143",
+      "website": "www.hotelvancouverairpor...",
+      "website_url": "https://www.hotelvancouverairport.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 60,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4144",
+      "website": "www.i-can-travel.com",
+      "website_url": "https://www.i-can-travel.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4146",
+      "website": "www.surfcitysup.com",
+      "website_url": "https://www.surfcitysup.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4147",
+      "website": "www.traveltourplanning.c...",
+      "website_url": "https://www.traveltourplanning.com",
+      "categories": [
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 61,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4148",
+      "website": "www.bridal-wedding-gowns...",
+      "website_url": "https://www.bridal-wedding-gowns.com",
+      "categories": [
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4149",
+      "website": "www.luxbagstar.com",
+      "website_url": "https://www.luxbagstar.com",
+      "categories": [
+        "Beauty",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 60,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4150",
+      "website": "www.luxjewelrystars.com",
+      "website_url": "https://www.luxjewelrystars.com",
+      "categories": [
+        "Beauty",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 58,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4164",
+      "website": "www.butlerdispatch.com",
+      "website_url": "https://www.butlerdispatch.com",
+      "categories": [
+        "Business",
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 43,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4224",
+      "website": "www.hillcountrybreakingn...",
+      "website_url": "https://www.hillcountrybreakingnews.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4225",
+      "website": "www.kagay-an.com",
+      "website_url": "https://www.kagay-an.com",
+      "categories": [
+        "General",
+        "Health",
+        "Science"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 61,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4892",
+      "website": "www.healthtips365.com",
+      "website_url": "https://www.healthtips365.com/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "20 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "4900",
+      "website": "www.2createabody.com",
+      "website_url": "http://www.2createabody.com/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 66,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "20 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "5721",
+      "website": "www.infosharingspace.com",
+      "website_url": "https://www.infosharingspace.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 54,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "29 Oct 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "6010",
+      "website": "www.szahomen.com",
+      "website_url": "http://www.szahomen.com/",
+      "categories": [
+        "Environment",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 70,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "05 Nov 2021",
+      "source_page": 1547
+    },
+    {
+      "website_id": "6095",
+      "website": "www.buymelaughs.com",
+      "website_url": "https://www.buymelaughs.com",
+      "categories": [
+        "General",
+        "Lifestyle",
+        "Transport"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 57,
+      "language": "English",
+      "price": 189.81,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Nov 2021",
+      "source_page": 1547
+    }
+  ]
+}

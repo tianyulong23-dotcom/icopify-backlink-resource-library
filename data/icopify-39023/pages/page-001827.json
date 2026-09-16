@@ -1,0 +1,515 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1827",
+  "scraped_at": "2026-08-27T14:17:11.675Z",
+  "rows": [
+    {
+      "website_id": "70176",
+      "website": "www.hlffitness.com",
+      "website_url": "https://www.hlffitness.com/",
+      "categories": [
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 51,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "16 Jan 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "71390",
+      "website": "www.techmillion.co.uk",
+      "website_url": "https://techmillion.co.uk/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 34,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "04 Feb 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "71508",
+      "website": "www.captionslibrary.com",
+      "website_url": "https://captionslibrary.com/",
+      "categories": [
+        "Business",
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 44,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 Feb 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "72692",
+      "website": "www.tiblor.com",
+      "website_url": "https://tiblor.com",
+      "categories": [
+        "Business",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 43,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "25 Feb 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "72805",
+      "website": "www.cuddl.com",
+      "website_url": "https://cuddl.com",
+      "categories": [
+        "For Women",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 51,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "26 Feb 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "73122",
+      "website": "www.nextgenday.com",
+      "website_url": "http://nextgenday.com",
+      "categories": [
+        "Computers",
+        "E-commerce",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 53,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "05 Mar 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "74657",
+      "website": "www.negosentro.net",
+      "website_url": "https://negosentro.net",
+      "categories": [
+        "Business",
+        "Miscellaneous",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 40,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "05 Apr 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "75971",
+      "website": "www.chanoine.fr",
+      "website_url": "https://www.chanoine.fr",
+      "categories": [
+        "Automobiles",
+        "For Men"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 32,
+      "language": "French",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "22 Apr 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "76743",
+      "website": "www.contractorsfromhell....",
+      "website_url": "https://contractorsfromhell.com/",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 23,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "16920",
+      "website": "www.fincyte.com",
+      "website_url": "http://www.fincyte.com/",
+      "categories": [
+        "Business",
+        "Gadgets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 34,
+      "language": "English",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "12 Aug 2022",
+      "source_page": 1827
+    },
+    {
+      "website_id": "5935",
+      "website": "www.latestgadget.co",
+      "website_url": "https://www.latestgadget.co/",
+      "categories": [
+        "Education",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 46,
+      "language": "English",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Nov 2021",
+      "source_page": 1827
+    },
+    {
+      "website_id": "50614",
+      "website": "www.aimofbusiness.com",
+      "website_url": "https://aimofbusiness.com/",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 54,
+      "language": "English",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "06 Mar 2024",
+      "source_page": 1827
+    },
+    {
+      "website_id": "78502",
+      "website": "www.sportsdecontact.fr",
+      "website_url": "https://sportsdecontact.fr",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 24,
+      "language": "French",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "07 May 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "87221",
+      "website": "www.cuisineblog.fr",
+      "website_url": "https://cuisineblog.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 46,
+      "language": "French",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "87222",
+      "website": "www.teva-italie.fr",
+      "website_url": "https://teva-italie.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 26,
+      "language": "French",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "87345",
+      "website": "www.etre-heureux-en-coup...",
+      "website_url": "https://etre-heureux-en-couple.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 26,
+      "language": "French",
+      "price": 769.23,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "12 Oct 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "7022",
+      "website": "www.gardensnursery.com",
+      "website_url": "https://www.gardensnursery.com/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 62,
+      "language": "English",
+      "price": 779.22,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "18 Nov 2021",
+      "source_page": 1827
+    },
+    {
+      "website_id": "6643",
+      "website": "www.thefutureofink.com",
+      "website_url": "https://www.thefutureofink.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 58,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "12 Nov 2021",
+      "source_page": 1827
+    },
+    {
+      "website_id": "81818",
+      "website": "www.ukrchannel.com",
+      "website_url": "http://ukrchannel.com/",
+      "categories": [
+        "Business",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 56,
+      "language": "Ukrainian",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "28 Jun 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "85286",
+      "website": "www.warisanlighting.com",
+      "website_url": "https://warisanlighting.com",
+      "categories": [
+        "Construction and Repairs",
+        "E-commerce",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 30,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "04 Sep 2025",
+      "source_page": 1827
+    },
+    {
+      "website_id": "17815",
+      "website": "www.enterpriseig.com",
+      "website_url": "https://www.enterpriseig.com/",
+      "categories": [
+        "Business",
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 56,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "05 Sep 2022",
+      "source_page": 1827
+    },
+    {
+      "website_id": "20152",
+      "website": "www.freshershangout.com",
+      "website_url": "https://www.freshershangout.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "08 Oct 2022",
+      "source_page": 1827
+    },
+    {
+      "website_id": "47525",
+      "website": "www.photographyprojectio...",
+      "website_url": "https://photographyprojections.com/",
+      "categories": [
+        "Photography",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 57,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "28 Dec 2023",
+      "source_page": 1827
+    },
+    {
+      "website_id": "47562",
+      "website": "www.businessknowledge.pk",
+      "website_url": "https://businessknowledge.pk/",
+      "categories": [
+        "Business",
+        "Internet",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 57,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "29 Dec 2023",
+      "source_page": 1827
+    },
+    {
+      "website_id": "28688",
+      "website": "www.fillertierlist.com",
+      "website_url": "https://fillertierlist.com/",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 60,
+      "language": "English",
+      "price": 789.21,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Feb 2023",
+      "source_page": 1827
+    }
+  ]
+}

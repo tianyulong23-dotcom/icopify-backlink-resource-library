@@ -1,0 +1,523 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=735",
+  "scraped_at": "2026-08-27T13:57:24.121Z",
+  "rows": [
+    {
+      "website_id": "39134",
+      "website": "www.drhomey.com",
+      "website_url": "https://drhomey.com/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 27,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "09 Jul 2023",
+      "source_page": 735
+    },
+    {
+      "website_id": "4213",
+      "website": "www.webdesignwi.com.au",
+      "website_url": "https://www.webdesignwi.com.au",
+      "categories": [
+        "General",
+        "Mobile",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 61,
+      "language": "English",
+      "price": 699.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 735
+    },
+    {
+      "website_id": "8627",
+      "website": "www.emptyengine.com",
+      "website_url": "https://emptyengine.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 56,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Jan 2022",
+      "source_page": 735
+    },
+    {
+      "website_id": "9204",
+      "website": "www.techpaper.co.uk",
+      "website_url": "https://techpaper.co.uk/",
+      "categories": [
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 53,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "14 Feb 2022",
+      "source_page": 735
+    },
+    {
+      "website_id": "22339",
+      "website": "www.sitewiseapp.com",
+      "website_url": "https://sitewiseapp.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 55,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Nov 2022",
+      "source_page": 735
+    },
+    {
+      "website_id": "55790",
+      "website": "www.cliptrixindia.com",
+      "website_url": "https://cliptrixindia.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 33,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Jun 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "55808",
+      "website": "www.usatimenews.co.uk",
+      "website_url": "https://usatimenews.co.uk/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 31,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Jun 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "58965",
+      "website": "www.bristollisting.co.uk",
+      "website_url": "https://bristollisting.co.uk",
+      "categories": [
+        "Art",
+        "Business",
+        "Books"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Aug 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "59036",
+      "website": "www.fielddaychallenge.co...",
+      "website_url": "https://fielddaychallenge.com",
+      "categories": [
+        "Games",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "14 Aug 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "59037",
+      "website": "www.tierradelfrio.com",
+      "website_url": "https://tierradelfrio.com",
+      "categories": [
+        "Food",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 39,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 Aug 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "59105",
+      "website": "www.techkhive.com",
+      "website_url": "https://techkhive.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 34,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "60324",
+      "website": "www.blogmagnets.com",
+      "website_url": "https://blogmagnets.com/elevate-your-youtube-presence-harnessing-the-power-of-specialized-smm-panels/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 38,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "60373",
+      "website": "www.truedigiweb.com",
+      "website_url": "https://truedigiweb.com/",
+      "categories": [
+        "Education",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "60455",
+      "website": "www.gpforme.com",
+      "website_url": "https://gpforme.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 53,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "60922",
+      "website": "www.ifunnyy.net",
+      "website_url": "https://ifunnyy.net",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 46,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "60939",
+      "website": "www.studypooly.net",
+      "website_url": "https://studypooly.net",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 46,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "61259",
+      "website": "www.mtfee.net",
+      "website_url": "https://mtfee.net",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 47,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "18 Sep 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "62791",
+      "website": "www.theoneseehub.com",
+      "website_url": "https://theoneseehub.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 38,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "62825",
+      "website": "www.2happyhealthylife.co...",
+      "website_url": "https://2happyhealthylife.com/",
+      "categories": [
+        "Food",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "62873",
+      "website": "www.healthvizone.com",
+      "website_url": "https://healthvizone.com/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "63000",
+      "website": "www.medicpatrons.com",
+      "website_url": "https://medicpatrons.com/",
+      "categories": [
+        "Health",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 39,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "05 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "63262",
+      "website": "www.webservicesni.com",
+      "website_url": "https://webservicesni.com/",
+      "categories": [
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "10 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "63268",
+      "website": "www.reliable-firm.com",
+      "website_url": "https://reliable-firm.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "10 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "63583",
+      "website": "www.thriveshoppingcart.c...",
+      "website_url": "https://thriveshoppingcart.com/",
+      "categories": [
+        "Beauty",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Oct 2024",
+      "source_page": 735
+    },
+    {
+      "website_id": "63715",
+      "website": "www.skytraveljet.com",
+      "website_url": "https://skytraveljet.com/",
+      "categories": [
+        "Automobiles",
+        "Places",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9.99,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Oct 2024",
+      "source_page": 735
+    }
+  ]
+}

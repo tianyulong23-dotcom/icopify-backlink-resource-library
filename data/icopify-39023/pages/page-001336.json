@@ -1,0 +1,489 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1336",
+  "scraped_at": "2026-08-27T14:08:09.808Z",
+  "rows": [
+    {
+      "website_id": "16942",
+      "website": "www.stylecluse.com",
+      "website_url": "https://stylecluse.com/",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "12 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16954",
+      "website": "www.restofolies.ca",
+      "website_url": "https://restofolies.ca/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16955",
+      "website": "www.sunsushi.ca",
+      "website_url": "https://sunsushi.ca/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16956",
+      "website": "www.thefoodnews.xyz",
+      "website_url": "https://thefoodnews.xyz/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16962",
+      "website": "www.angoogletrend.com",
+      "website_url": "https://angoogletrend.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16967",
+      "website": "www.factsnfigs.com",
+      "website_url": "https://factsnfigs.com/",
+      "categories": [
+        "Agriculture",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 58,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "16983",
+      "website": "www.wonderstube.com",
+      "website_url": "https://www.wonderstube.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 27,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17050",
+      "website": "www.kirei-kenkou.com",
+      "website_url": "https://www.kirei-kenkou.com",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17051",
+      "website": "www.ctgilles.net",
+      "website_url": "https://www.ctgilles.net",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17052",
+      "website": "www.southbynorth.net",
+      "website_url": "https://southbynorth.net",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17053",
+      "website": "www.hotboxvaporizers.com",
+      "website_url": "https://hotboxvaporizers.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17054",
+      "website": "www.manggadget.com",
+      "website_url": "https://manggadget.com",
+      "categories": [
+        "Gadgets",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17055",
+      "website": "www.vyralize.com",
+      "website_url": "https://www.vyralize.com",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 58,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17063",
+      "website": "www.philadelphiaeaglesje...",
+      "website_url": "https://www.philadelphiaeaglesjersey.us",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17069",
+      "website": "www.americanspost.net",
+      "website_url": "https://americanspost.net/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17070",
+      "website": "www.postleaks.com",
+      "website_url": "https://postleaks.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17072",
+      "website": "www.lapsaplapsap.com",
+      "website_url": "https://lapsaplapsap.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17101",
+      "website": "www.beatsbydrdreheadphon...",
+      "website_url": "https://www.beatsbydrdreheadphones.us",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17102",
+      "website": "www.jaladdudes.com",
+      "website_url": "https://jaladdudes.com",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17107",
+      "website": "www.unityyoganyc.com",
+      "website_url": "https://www.unityyoganyc.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17109",
+      "website": "www.greenbaypackersjerse...",
+      "website_url": "https://www.greenbaypackersjersey.us",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17110",
+      "website": "www.abtakbihar.com",
+      "website_url": "https://abtakbihar.com",
+      "categories": [
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17120",
+      "website": "www.aflnrlfootytipping.c...",
+      "website_url": "https://aflnrlfootytipping.com.au/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 52,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17121",
+      "website": "www.sportsdaily.us",
+      "website_url": "https://sportsdaily.us/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    },
+    {
+      "website_id": "17124",
+      "website": "www.info-sys-tech.com",
+      "website_url": "https://info-sys-tech.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Aug 2022",
+      "source_page": 1336
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "raw_rows": 51612,
+  "unique_rows": 49742,
+  "duplicates_removed": 1870,
+  "source_pages": 2059,
+  "missing_values": {
+    "website": 6,
+    "categories": 22,
+    "monthly_traffic": 23,
+    "ahrefs_dr": 305,
+    "moz_da": 23,
+    "language": 53,
+    "price": 298
+  },
+  "top_languages": {
+    "English": 43379,
+    "French": 1489,
+    "German": 909,
+    "Spanish": 607,
+    "Portuguese": 428,
+    "Other": 408,
+    "Italian": 393,
+    "Ukrainian": 390,
+    "Dutch": 252,
+    "Indonesian": 227,
+    "Romanian": 195,
+    "Polish": 157,
+    "Arabic": 154,
+    "Russian": 129,
+    "Global": 115,
+    "Turkish": 81,
+    "Global / English": 62,
+    "Unknown": 53,
+    "Greek": 49,
+    "Hindi": 42
+  },
+  "imports": [
+    {
+      "imported_at": "2026-08-31T02:21:17.367Z",
+      "inserted": 298,
+      "skipped_existing": 157,
+      "source_bundle": "resource-library-migration-20260728",
+      "source_bundle_hash": "e6d85694f23b85b95440c17747842499f92c0ac8830f989eec9fac4fda4b6376",
+      "source_rows": 455,
+      "source_thread_id": "019efc68-33e8-73c2-93c6-902b33530fc1"
+    }
+  ]
+}

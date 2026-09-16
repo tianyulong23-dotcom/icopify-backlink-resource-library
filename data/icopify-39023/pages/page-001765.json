@@ -1,0 +1,495 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1765",
+  "scraped_at": "2026-08-27T14:16:04.882Z",
+  "rows": [
+    {
+      "website_id": "79304",
+      "website": "www.chiliman.ro",
+      "website_url": "https://chiliman.ro",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 30,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 May 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "79305",
+      "website": "www.styx.ro",
+      "website_url": "https://styx.ro",
+      "categories": [
+        "Education",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 27,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 May 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "79623",
+      "website": "www.greatestjournal.com",
+      "website_url": "https://greatestjournal.com",
+      "categories": [
+        "Fashion",
+        "Gadgets",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 37,
+      "moz_da": 48,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 May 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "80900",
+      "website": "www.leadmarketingtips.co...",
+      "website_url": "https://www.leadmarketingtips.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 44,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "81021",
+      "website": "www.commercereviews.com",
+      "website_url": "https://www.commercereviews.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 48,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "14 Jun 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "81521",
+      "website": "www.enchantmentsincnyc.c...",
+      "website_url": "http://enchantmentsincnyc.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 44,
+      "language": "English",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "24 Jun 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82325",
+      "website": "www.ziarultop.ro",
+      "website_url": "https://ziarultop.ro/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 31,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82329",
+      "website": "www.becool.ro",
+      "website_url": "https://becool.ro/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 24,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82330",
+      "website": "www.adacademy.ro",
+      "website_url": "https://www.adacademy.ro/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 25,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82331",
+      "website": "www.infopinia.ro",
+      "website_url": "https://infopinia.ro/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 23,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82332",
+      "website": "www.pressroom.ro",
+      "website_url": "https://pressroom.ro/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 25,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82333",
+      "website": "www.logon.ro",
+      "website_url": "https://logon.ro/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 23,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82334",
+      "website": "www.greenchannel.ro",
+      "website_url": "https://greenchannel.ro/",
+      "categories": [
+        "Environment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 31,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82335",
+      "website": "www.exploratorii.ro",
+      "website_url": "https://exploratorii.ro/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 27,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82336",
+      "website": "www.inhibitii.ro",
+      "website_url": "https://inhibitii.ro/",
+      "categories": [
+        "For Women"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 22,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82363",
+      "website": "www.suburbia.ro",
+      "website_url": "https://suburbia.ro/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 26,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82365",
+      "website": "www.rimel.ro",
+      "website_url": "https://rimel.ro/",
+      "categories": [
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 29,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82368",
+      "website": "www.musicmix.ro",
+      "website_url": "https://musicmix.ro/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 28,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82370",
+      "website": "www.zonainterzisa.ro",
+      "website_url": "https://zonainterzisa.ro/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 24,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82372",
+      "website": "www.chezmarie.ro",
+      "website_url": "https://chezmarie.ro/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 26,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82373",
+      "website": "www.sokant.ro",
+      "website_url": "https://sokant.ro/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 33,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82374",
+      "website": "www.indygen.ro",
+      "website_url": "https://indygen.ro/",
+      "categories": [
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 31,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82377",
+      "website": "www.press-mania.ro",
+      "website_url": "https://press-mania.ro/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 26,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82381",
+      "website": "www.olivo.ro",
+      "website_url": "https://olivo.ro/",
+      "categories": [
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 28,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    },
+    {
+      "website_id": "82383",
+      "website": "www.severpress.ro",
+      "website_url": "https://severpress.ro/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 22,
+      "language": "Romanian",
+      "price": 499.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jul 2025",
+      "source_page": 1765
+    }
+  ]
+}

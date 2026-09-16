@@ -1,0 +1,500 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1800",
+  "scraped_at": "2026-08-27T14:16:42.015Z",
+  "rows": [
+    {
+      "website_id": "11085",
+      "website": "www.sav35.fr",
+      "website_url": "https://www.sav35.fr",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 21,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11087",
+      "website": "www.sdn-rennes.org",
+      "website_url": "https://www.sdn-rennes.org",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11088",
+      "website": "www.culture-bretagne.org",
+      "website_url": "https://www.culture-bretagne.org",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11091",
+      "website": "www.2moiselles-happy-loo...",
+      "website_url": "https://www.2moiselles-happy-lookeuses.com",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 22,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11093",
+      "website": "www.jennifer-garner.org",
+      "website_url": "https://www.jennifer-garner.org",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 19,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11096",
+      "website": "www.passezlinfo.fr",
+      "website_url": "https://www.passezlinfo.fr",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11098",
+      "website": "www.francoeur.org",
+      "website_url": "https://www.francoeur.org",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 24,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11104",
+      "website": "www.ukrtravel.net",
+      "website_url": "https://www.ukrtravel.net",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 24,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11105",
+      "website": "www.santezen.fr",
+      "website_url": "https://www.santezen.fr",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 18,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11108",
+      "website": "www.santeradieuse.org",
+      "website_url": "https://santeradieuse.org",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 20,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11109",
+      "website": "www.makeupme.fr",
+      "website_url": "https://www.makeupme.fr",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 24,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11110",
+      "website": "www.alafrancaisetoujours...",
+      "website_url": "https://alafrancaisetoujourschic.fr",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 20,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11114",
+      "website": "www.rennes-en-commun-202...",
+      "website_url": "https://rennes-en-commun-2020.fr",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 30,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11117",
+      "website": "www.pingoo.org",
+      "website_url": "https://www.pingoo.org",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 42,
+      "moz_da": 31,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11118",
+      "website": "www.bignews.org",
+      "website_url": "https://www.bignews.org",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 30,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11119",
+      "website": "www.binnews.info",
+      "website_url": "https://www.binnews.info",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 31,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11120",
+      "website": "www.mi-blog.net",
+      "website_url": "https://mi-blog.net",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 30,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11121",
+      "website": "www.rennes1720.fr",
+      "website_url": "https://rennes1720.fr",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11122",
+      "website": "www.misslink.net",
+      "website_url": "https://www.misslink.net",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11123",
+      "website": "www.cherry-deco.com",
+      "website_url": "https://www.cherry-deco.com",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11124",
+      "website": "www.blog-mademoisellec.n...",
+      "website_url": "https://www.blog-mademoisellec.net",
+      "categories": [
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 23,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11126",
+      "website": "www.diboo.net",
+      "website_url": "https://www.diboo.net",
+      "categories": [
+        "For Kids",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 30,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11127",
+      "website": "www.g-immobilier.fr",
+      "website_url": "https://www.g-immobilier.fr",
+      "categories": [
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11130",
+      "website": "www.blospot.fr",
+      "website_url": "https://blospot.fr",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    },
+    {
+      "website_id": "11131",
+      "website": "www.75cl.info",
+      "website_url": "https://www.75cl.info",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 34,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 1800
+    }
+  ]
+}

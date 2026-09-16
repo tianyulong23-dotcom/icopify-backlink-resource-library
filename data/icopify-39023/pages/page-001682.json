@@ -1,0 +1,520 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1682",
+  "scraped_at": "2026-08-27T14:14:29.096Z",
+  "rows": [
+    {
+      "website_id": "71388",
+      "website": "www.thekatynews.co.uk",
+      "website_url": "https://thekatynews.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 36,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "04 Feb 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "71506",
+      "website": "www.celebforum.org",
+      "website_url": "https://celebforum.org",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 34,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 Feb 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "72804",
+      "website": "www.toptechpost.com",
+      "website_url": "https://toptechpost.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 42,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "26 Feb 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "56295",
+      "website": "www.allmarketnews.co.uk",
+      "website_url": "https://allmarketnews.co.uk/",
+      "categories": [
+        "General",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 37,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Jun 2024",
+      "source_page": 1682
+    },
+    {
+      "website_id": "59195",
+      "website": "www.thehookweb.com",
+      "website_url": "https://thehookweb.com/",
+      "categories": [
+        "Entertainment",
+        "Nature",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 19,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Aug 2024",
+      "source_page": 1682
+    },
+    {
+      "website_id": "59895",
+      "website": "www.ulcuprazol.com",
+      "website_url": "https://ulcuprazol.com/",
+      "categories": [
+        "Home and Family",
+        "Marketing",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 35,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "26 Aug 2024",
+      "source_page": 1682
+    },
+    {
+      "website_id": "59989",
+      "website": "www.techboltify.com",
+      "website_url": "https://techboltify.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 36,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Aug 2024",
+      "source_page": 1682
+    },
+    {
+      "website_id": "64861",
+      "website": "www.electrodomesticossil...",
+      "website_url": "https://www.electrodomesticossilenciosos.com/",
+      "categories": [
+        "Agriculture",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 18,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "31 Oct 2024",
+      "source_page": 1682
+    },
+    {
+      "website_id": "10732",
+      "website": "www.maqalh.net",
+      "website_url": "https://maqalh.net",
+      "categories": [
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 60,
+      "language": "Arabic",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "25 Mar 2022",
+      "source_page": 1682
+    },
+    {
+      "website_id": "11826",
+      "website": "www.thebusinessgoals.com",
+      "website_url": "https://www.thebusinessgoals.com",
+      "categories": [
+        "Business",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 57,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "22 Apr 2022",
+      "source_page": 1682
+    },
+    {
+      "website_id": "12641",
+      "website": "www.cdhpl.com",
+      "website_url": "https://cdhpl.com",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 70,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "17 May 2022",
+      "source_page": 1682
+    },
+    {
+      "website_id": "13605",
+      "website": "www.apyellowpages.com",
+      "website_url": "https://apyellowpages.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 58,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Jun 2022",
+      "source_page": 1682
+    },
+    {
+      "website_id": "79888",
+      "website": "www.strandshint.co.uk",
+      "website_url": "https://strandshint.co.uk/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 34,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "24 May 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "84296",
+      "website": "www.kolomyia24.com.ua",
+      "website_url": "https://kolomyia24.com.ua/",
+      "categories": [
+        "Law",
+        "News and Media",
+        "Society"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 63,
+      "moz_da": 36,
+      "language": "Ukrainian",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "08 Aug 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "85183",
+      "website": "www.qatariscoop.com",
+      "website_url": "https://qatariscoop.com/",
+      "categories": [
+        "Business",
+        "Law",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 34,
+      "language": "English",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "29 Aug 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "87415",
+      "website": "www.1001tunisie.com",
+      "website_url": "https://1001tunisie.com/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 27,
+      "language": "French",
+      "price": 319.68,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Oct 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "81765",
+      "website": "www.billiard-sport.com.u...",
+      "website_url": "http://billiard-sport.com.ua/",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 22,
+      "language": "Ukrainian",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Jun 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "82219",
+      "website": "www.apollium.fr",
+      "website_url": "https://www.apollium.fr/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 27,
+      "language": "French",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Jul 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86462",
+      "website": "www.biotouch.hu",
+      "website_url": "https://biotouch.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 36,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86463",
+      "website": "www.szuloforum.hu",
+      "website_url": "https://szuloforum.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 55,
+      "language": "English",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86464",
+      "website": "www.jogzona.hu",
+      "website_url": "https://jogzona.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 42,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86465",
+      "website": "www.fejlesztemagyerekem....",
+      "website_url": "https://fejlesztemagyerekem.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 43,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86466",
+      "website": "www.beyondbudapest.hu",
+      "website_url": "https://beyondbudapest.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 41,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86469",
+      "website": "www.skillful.hu",
+      "website_url": "https://skillful.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 37,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    },
+    {
+      "website_id": "86471",
+      "website": "www.csereprogram.hu",
+      "website_url": "https://csereprogram.hu/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 43,
+      "language": "Other",
+      "price": 329.67,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "27 Sep 2025",
+      "source_page": 1682
+    }
+  ]
+}

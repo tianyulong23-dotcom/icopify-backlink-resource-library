@@ -1,0 +1,516 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=504",
+  "scraped_at": "2026-08-27T13:53:21.057Z",
+  "rows": [
+    {
+      "website_id": "85995",
+      "website": "www.kyivpost.com",
+      "website_url": "https://www.kyivpost.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 2226346,
+      "ahrefs_dr": 77,
+      "moz_da": 73,
+      "language": "English",
+      "price": 8391.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "86035",
+      "website": "www.daveockop.com",
+      "website_url": "https://www.daveockop.com/",
+      "categories": [
+        "Marketing",
+        "Sports",
+        "Other"
+      ],
+      "monthly_traffic": 1104986,
+      "ahrefs_dr": 39,
+      "moz_da": 63,
+      "language": "English",
+      "price": 8391.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "20 Sep 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "88343",
+      "website": "www.aquarioland.com",
+      "website_url": "https://www.aquarioland.com",
+      "categories": [
+        "Animals and Pets",
+        "Environment",
+        "Leisure and Hobbies"
+      ],
+      "monthly_traffic": 1199,
+      "ahrefs_dr": 31,
+      "moz_da": 25,
+      "language": "French",
+      "price": 8391.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "76811",
+      "website": "www.for9a.com",
+      "website_url": "https://www.for9a.com/",
+      "categories": [
+        "Education",
+        "Other"
+      ],
+      "monthly_traffic": 674485,
+      "ahrefs_dr": 55,
+      "moz_da": 38,
+      "language": "Arabic",
+      "price": 8391.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "25 Apr 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "88351",
+      "website": "www.cityzeum.com",
+      "website_url": "https://www.cityzeum.com",
+      "categories": [
+        "Places",
+        "Travelling"
+      ],
+      "monthly_traffic": 64129,
+      "ahrefs_dr": 56,
+      "moz_da": 58,
+      "language": "French",
+      "price": 8411.58,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "76603",
+      "website": "www.citymom.nl",
+      "website_url": "https://citymom.nl/",
+      "categories": [
+        "For Kids",
+        "Lifestyle",
+        "Travelling"
+      ],
+      "monthly_traffic": 4634,
+      "ahrefs_dr": 43,
+      "moz_da": 32,
+      "language": "Dutch",
+      "price": 8431.56,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "8807",
+      "website": "www.forzaitalianfootball...",
+      "website_url": "https://forzaitalianfootball.com/",
+      "categories": [
+        "Games",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 10740,
+      "ahrefs_dr": 46,
+      "moz_da": 64,
+      "language": "English",
+      "price": 8481.51,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Jan 2022",
+      "source_page": 504
+    },
+    {
+      "website_id": "83956",
+      "website": "www.wonderwall.com",
+      "website_url": "https://www.wonderwall.com/",
+      "categories": [
+        "E-commerce",
+        "Finance",
+        "Internet"
+      ],
+      "monthly_traffic": 176891,
+      "ahrefs_dr": 60,
+      "moz_da": 76,
+      "language": "English",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "30 Jul 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "88312",
+      "website": "www.playtv.fr",
+      "website_url": "https://playtv.fr",
+      "categories": [
+        "Entertainment",
+        "Internet",
+        "News and Media"
+      ],
+      "monthly_traffic": 244908,
+      "ahrefs_dr": 52,
+      "moz_da": 55,
+      "language": "French",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "29508",
+      "website": "www.holmesdale.net",
+      "website_url": "http://holmesdale.net",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 108062,
+      "ahrefs_dr": 31,
+      "moz_da": 54,
+      "language": "English",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "08 Feb 2023",
+      "source_page": 504
+    },
+    {
+      "website_id": "57725",
+      "website": "www.sharecast.com",
+      "website_url": "https://www.sharecast.com/",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 238651,
+      "ahrefs_dr": 58,
+      "moz_da": 58,
+      "language": "English",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "30 Jul 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "66012",
+      "website": "www.economictimes.indiat...",
+      "website_url": "https://economictimes.indiatimes.com",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 19452069,
+      "ahrefs_dr": 92,
+      "moz_da": 94,
+      "language": "English",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "15 Nov 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "72171",
+      "website": "www.game2gether.de",
+      "website_url": "https://game2gether.de/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 46062,
+      "ahrefs_dr": 39,
+      "moz_da": 40,
+      "language": "German",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "17 Feb 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "76528",
+      "website": "www.ocweekly.com",
+      "website_url": "https://ocweekly.com/",
+      "categories": [
+        "Entertainment",
+        "Food",
+        "Music"
+      ],
+      "monthly_traffic": 60129,
+      "ahrefs_dr": 74,
+      "moz_da": 74,
+      "language": "English",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "54369",
+      "website": "www.5min.at",
+      "website_url": "https://www.5min.at/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 6262553,
+      "ahrefs_dr": 65,
+      "moz_da": 48,
+      "language": "German",
+      "price": 8491.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "29 May 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "76423",
+      "website": "www.betekenisvan.nl",
+      "website_url": "https://betekenisvan.nl/",
+      "categories": [
+        "Education",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1509,
+      "ahrefs_dr": 41,
+      "moz_da": 36,
+      "language": "Dutch",
+      "price": 8531.46,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "23 Apr 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "76725",
+      "website": "www.fintastico.com",
+      "website_url": "https://fintastico.com/",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 35868,
+      "ahrefs_dr": 41,
+      "moz_da": 38,
+      "language": "Italian",
+      "price": 8691.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "85996",
+      "website": "www.scotsman.com",
+      "website_url": "https://www.scotsman.com/",
+      "categories": [
+        "Business",
+        "Food",
+        "News and Media"
+      ],
+      "monthly_traffic": 3796917,
+      "ahrefs_dr": 84,
+      "moz_da": 90,
+      "language": "English",
+      "price": 8691.3,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "88458",
+      "website": "www.vivienna.it",
+      "website_url": "https://www.vivienna.it",
+      "categories": [
+        "Fashion",
+        "For Women",
+        "Shopping"
+      ],
+      "monthly_traffic": 74345,
+      "ahrefs_dr": 43,
+      "moz_da": 45,
+      "language": "Italian",
+      "price": 8691.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "56538",
+      "website": "www.okmzansi.co.za",
+      "website_url": "http://okmzansi.co.za/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 3432,
+      "ahrefs_dr": 18,
+      "moz_da": 49,
+      "language": "English",
+      "price": 8691.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Jul 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "21083",
+      "website": "www.eastbaytimes.com",
+      "website_url": "http://eastbaytimes.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 853052,
+      "ahrefs_dr": 78,
+      "moz_da": 79,
+      "language": "English",
+      "price": 8741.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2022",
+      "source_page": 504
+    },
+    {
+      "website_id": "48244",
+      "website": "www.cryptoslate.com",
+      "website_url": "https://cryptoslate.com",
+      "categories": [
+        "Business",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 528668,
+      "ahrefs_dr": 79,
+      "moz_da": 62,
+      "language": "English",
+      "price": 8741.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "17 Jan 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "59760",
+      "website": "www.ansage.org",
+      "website_url": "https://ansage.org/",
+      "categories": [
+        "Law",
+        "Politics",
+        "Sports"
+      ],
+      "monthly_traffic": 214567,
+      "ahrefs_dr": 40,
+      "moz_da": 37,
+      "language": "German",
+      "price": 8791.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "24 Aug 2024",
+      "source_page": 504
+    },
+    {
+      "website_id": "86001",
+      "website": "www.portsmouth.co.uk",
+      "website_url": "https://www.portsmouth.co.uk/",
+      "categories": [
+        "Food",
+        "Home and Family",
+        "News and Media"
+      ],
+      "monthly_traffic": 2503482,
+      "ahrefs_dr": 73,
+      "moz_da": 71,
+      "language": "English",
+      "price": 8791.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2025",
+      "source_page": 504
+    },
+    {
+      "website_id": "86003",
+      "website": "www.yorkshireeveningpost...",
+      "website_url": "https://www.yorkshireeveningpost.co.uk/",
+      "categories": [
+        "Food",
+        "Home and Family",
+        "News and Media"
+      ],
+      "monthly_traffic": 1341253,
+      "ahrefs_dr": 74,
+      "moz_da": 80,
+      "language": "English",
+      "price": 8791.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "15 days",
+      "added_on": "19 Sep 2025",
+      "source_page": 504
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=271",
+  "scraped_at": "2026-08-27T13:49:09.216Z",
+  "rows": [
+    {
+      "website_id": "11183",
+      "website": "www.glorianet.org",
+      "website_url": "https://www.glorianet.org",
+      "categories": [
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 7031,
+      "ahrefs_dr": 31,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 271
+    },
+    {
+      "website_id": "11184",
+      "website": "www.datta.fr",
+      "website_url": "https://www.datta.fr",
+      "categories": [
+        "Computers",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 2740,
+      "ahrefs_dr": 42,
+      "moz_da": 34,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "06 Apr 2022",
+      "source_page": 271
+    },
+    {
+      "website_id": "82211",
+      "website": "www.spinexmusic.com",
+      "website_url": "https://spinexmusic.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 9660,
+      "ahrefs_dr": 32,
+      "moz_da": 61,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Jul 2025",
+      "source_page": 271
+    },
+    {
+      "website_id": "87572",
+      "website": "www.foreignerds.com",
+      "website_url": "https://foreignerds.com/",
+      "categories": [
+        "Animals and Pets",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 3664,
+      "ahrefs_dr": 32,
+      "moz_da": 25,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Oct 2025",
+      "source_page": 271
+    },
+    {
+      "website_id": "90814",
+      "website": "www.onxmaps.com",
+      "website_url": "https://www.onxmaps.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 3451556,
+      "ahrefs_dr": 77,
+      "moz_da": 53,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "17 Dec 2025",
+      "source_page": 271
+    },
+    {
+      "website_id": "1239",
+      "website": "www.voiture-valk.fr",
+      "website_url": "https://www.voiture-valk.fr",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1061,
+      "ahrefs_dr": 38,
+      "moz_da": 23,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1240",
+      "website": "www.team-auto-passion.co...",
+      "website_url": "https://www.team-auto-passion.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1670,
+      "ahrefs_dr": 37,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1242",
+      "website": "www.lepatrimoscope.com",
+      "website_url": "https://www.lepatrimoscope.com",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 2226,
+      "ahrefs_dr": 39,
+      "moz_da": 27,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1243",
+      "website": "www.invistita.fr",
+      "website_url": "https://www.invistita.fr",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 2387,
+      "ahrefs_dr": 36,
+      "moz_da": 26,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1244",
+      "website": "www.franceimmo.net",
+      "website_url": "https://www.franceimmo.net",
+      "categories": [
+        "Real Estate"
+      ],
+      "monthly_traffic": 3121,
+      "ahrefs_dr": 38,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1253",
+      "website": "www.blog-du-net.net",
+      "website_url": "https://www.blog-du-net.net",
+      "categories": [
+        "Computers",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 3282,
+      "ahrefs_dr": 44,
+      "moz_da": 26,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1254",
+      "website": "www.digitalbreizh.net",
+      "website_url": "https://www.digitalbreizh.net",
+      "categories": [
+        "Computers",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 2366,
+      "ahrefs_dr": 32,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "08 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1513",
+      "website": "www.xter.fr",
+      "website_url": "https://www.xter.fr",
+      "categories": [
+        "Computers",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 2315,
+      "ahrefs_dr": 33,
+      "moz_da": 23,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1518",
+      "website": "www.cileo-habitat.fr",
+      "website_url": "https://www.cileo-habitat.fr",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 2781,
+      "ahrefs_dr": 35,
+      "moz_da": 24,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1519",
+      "website": "www.pole-amenagement-mai...",
+      "website_url": "https://www.pole-amenagement-maison.fr",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1623,
+      "ahrefs_dr": 35,
+      "moz_da": 23,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1520",
+      "website": "www.quartierbricole.be",
+      "website_url": "https://www.quartierbricole.be",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 3905,
+      "ahrefs_dr": 34,
+      "moz_da": 25,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1522",
+      "website": "www.lagazettedeconstanti...",
+      "website_url": "https://www.lagazettedeconstantine.com",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1400,
+      "ahrefs_dr": 33,
+      "moz_da": 26,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1527",
+      "website": "www.cc-guingamp.fr",
+      "website_url": "https://www.cc-guingamp.fr",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1749,
+      "ahrefs_dr": 39,
+      "moz_da": 35,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "1528",
+      "website": "www.fuveau.fr",
+      "website_url": "https://www.fuveau.fr",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 2433,
+      "ahrefs_dr": 42,
+      "moz_da": 31,
+      "language": "French",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "13 Sep 2021",
+      "source_page": 271
+    },
+    {
+      "website_id": "27058",
+      "website": "www.md-eksperiment.org",
+      "website_url": "https://md-eksperiment.org/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 298391,
+      "ahrefs_dr": 53,
+      "moz_da": 43,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "14 Jan 2023",
+      "source_page": 271
+    },
+    {
+      "website_id": "44719",
+      "website": "www.gadgetskool.com",
+      "website_url": "https://www.gadgetskool.com/",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Technology"
+      ],
+      "monthly_traffic": 2030,
+      "ahrefs_dr": 10,
+      "moz_da": 20,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "24 Oct 2023",
+      "source_page": 271
+    },
+    {
+      "website_id": "58256",
+      "website": "www.deerpearlflowers.com",
+      "website_url": "https://www.deerpearlflowers.com/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1579,
+      "ahrefs_dr": 44,
+      "moz_da": 51,
+      "language": "English",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "06 Aug 2024",
+      "source_page": 271
+    },
+    {
+      "website_id": "66833",
+      "website": "www.plazanueva.com",
+      "website_url": "https://www.plazanueva.com",
+      "categories": [
+        "E-commerce",
+        "News and Media",
+        "Web-development"
+      ],
+      "monthly_traffic": 43925,
+      "ahrefs_dr": 38,
+      "moz_da": 39,
+      "language": "Spanish",
+      "price": 609.39,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "25 Nov 2024",
+      "source_page": 271
+    },
+    {
+      "website_id": "88411",
+      "website": "www.allianceentreprendre...",
+      "website_url": "https://www.allianceentreprendre.com",
+      "categories": [
+        "Business",
+        "Career and Employment",
+        "Startups"
+      ],
+      "monthly_traffic": 4124,
+      "ahrefs_dr": 36,
+      "moz_da": 31,
+      "language": "French",
+      "price": 616.88,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 271
+    },
+    {
+      "website_id": "87359",
+      "website": "www.duchien.fr",
+      "website_url": "https://duchien.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1361,
+      "ahrefs_dr": 27,
+      "moz_da": 17,
+      "language": "French",
+      "price": 619.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "12 Oct 2025",
+      "source_page": 271
+    }
+  ]
+}

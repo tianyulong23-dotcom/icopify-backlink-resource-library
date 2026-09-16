@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1620",
+  "scraped_at": "2026-08-27T14:13:21.657Z",
+  "rows": [
+    {
+      "website_id": "29756",
+      "website": "www.techgadgettime.com",
+      "website_url": "https://techgadgettime.com",
+      "categories": [
+        "Gadgets",
+        "Programming",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29761",
+      "website": "www.newssofar.com",
+      "website_url": "https://newssofar.com/",
+      "categories": [
+        "Health",
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29762",
+      "website": "www.nationnewstime.com",
+      "website_url": "https://nationnewstime.com/",
+      "categories": [
+        "General",
+        "Health",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29763",
+      "website": "www.latestnewscast.com",
+      "website_url": "https://latestnewscast.com/",
+      "categories": [
+        "General",
+        "Health",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29764",
+      "website": "www.presentdaynews.com",
+      "website_url": "https://presentdaynews.com/",
+      "categories": [
+        "Health",
+        "Home and Family",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29765",
+      "website": "www.minibignews.com",
+      "website_url": "https://minibignews.com/",
+      "categories": [
+        "Health",
+        "Lifestyle",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 32,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "29780",
+      "website": "www.udianinfo.com",
+      "website_url": "https://www.udianinfo.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 53,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "11 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "30238",
+      "website": "www.musicobserver.com",
+      "website_url": "https://musicobserver.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 41,
+      "moz_da": 55,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "30241",
+      "website": "www.famoustimes.com",
+      "website_url": "https://famoustimes.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 59,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "15 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "30301",
+      "website": "www.gentlewit.com",
+      "website_url": "https://gentlewit.com/",
+      "categories": [
+        "Lifestyle",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 34,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "30322",
+      "website": "www.influencerdaily.com",
+      "website_url": "https://influencerdaily.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 58,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "30925",
+      "website": "www.allonmoney.com",
+      "website_url": "https://www.allonmoney.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 21,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "25 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "31024",
+      "website": "www.smuggbugg.com",
+      "website_url": "https://smuggbugg.com",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 58,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "27 Feb 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "31252",
+      "website": "www.dezayno.com",
+      "website_url": "https://dezayno.com/",
+      "categories": [
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 61,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 Mar 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "35258",
+      "website": "www.chineseviagra-fromch...",
+      "website_url": "https://www.chineseviagra-fromchina.com/",
+      "categories": [
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 57,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "28 Apr 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "36272",
+      "website": "www.lesprivatutbk.com",
+      "website_url": "https://lesprivatutbk.com",
+      "categories": [
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 54,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "24 May 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "36306",
+      "website": "www.exzorders.com",
+      "website_url": "https://exzorders.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 31,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "24 May 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "36580",
+      "website": "www.alkalinehealthnews.c...",
+      "website_url": "https://alkalinehealthnews.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 64,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 May 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "37019",
+      "website": "www.hydnews.net",
+      "website_url": "https://hydnews.net/",
+      "categories": [
+        "Business",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 63,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "05 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "37073",
+      "website": "www.supertechcity.com",
+      "website_url": "https://supertechcity.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Mobile"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 43,
+      "moz_da": 57,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "07 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "37175",
+      "website": "www.mewsdaily.com",
+      "website_url": "https://mewsdaily.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 56,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "37986",
+      "website": "www.infospreee.com",
+      "website_url": "https://infospreee.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "37997",
+      "website": "www.businesblogs.com",
+      "website_url": "https://businesblogs.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 58,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "38114",
+      "website": "www.channel6newsonline.c...",
+      "website_url": "https://channel6newsonline.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 45,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "19 Jun 2023",
+      "source_page": 1620
+    },
+    {
+      "website_id": "38570",
+      "website": "www.wefinder24.com",
+      "website_url": "https://www.wefinder24.com/",
+      "categories": [
+        "Agriculture",
+        "Education",
+        "Politics"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 52,
+      "language": "English",
+      "price": 249.75,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "28 Jun 2023",
+      "source_page": 1620
+    }
+  ]
+}

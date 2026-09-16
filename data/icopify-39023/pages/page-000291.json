@@ -1,0 +1,522 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=291",
+  "scraped_at": "2026-08-27T13:49:30.285Z",
+  "rows": [
+    {
+      "website_id": "88659",
+      "website": "www.touchedinc.com",
+      "website_url": "https://touchedinc.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 7037,
+      "ahrefs_dr": 15,
+      "moz_da": 41,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 291
+    },
+    {
+      "website_id": "56269",
+      "website": "www.howandwhys.com",
+      "website_url": "https://www.howandwhys.com",
+      "categories": [
+        "Health",
+        "Lifestyle",
+        "Miscellaneous"
+      ],
+      "monthly_traffic": 56148,
+      "ahrefs_dr": 38,
+      "moz_da": 40,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Jun 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "56339",
+      "website": "www.jameswebbdiscovery.c...",
+      "website_url": "https://www.jameswebbdiscovery.com",
+      "categories": [
+        "Education",
+        "Nature",
+        "Science"
+      ],
+      "monthly_traffic": 8010,
+      "ahrefs_dr": 52,
+      "moz_da": 26,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 Jun 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "59284",
+      "website": "www.elportaluco.com",
+      "website_url": "https://elportaluco.com",
+      "categories": [
+        "Business",
+        "Travelling",
+        "Other"
+      ],
+      "monthly_traffic": 1415,
+      "ahrefs_dr": 28,
+      "moz_da": 35,
+      "language": "Spanish",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "17 Aug 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "59323",
+      "website": "www.unusualplaces.org",
+      "website_url": "https://unusualplaces.org/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 14306,
+      "ahrefs_dr": 44,
+      "moz_da": 53,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "18 Aug 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "59723",
+      "website": "www.michiganmamanews.com",
+      "website_url": "http://michiganmamanews.com",
+      "categories": [
+        "Art",
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 9951,
+      "ahrefs_dr": 54,
+      "moz_da": 33,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "24 Aug 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "59794",
+      "website": "www.linuxsecurity.com",
+      "website_url": "https://linuxsecurity.com/",
+      "categories": [
+        "Software development",
+        "Web-development",
+        "Other"
+      ],
+      "monthly_traffic": 97159,
+      "ahrefs_dr": 71,
+      "moz_da": 51,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "25 Aug 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "59984",
+      "website": "www.okjatt.co.in",
+      "website_url": "https://okjatt.co.in/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 18666,
+      "ahrefs_dr": 50,
+      "moz_da": 44,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "28 Aug 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "63061",
+      "website": "www.basketnews.com",
+      "website_url": "http://basketnews.com",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 5191507,
+      "ahrefs_dr": 58,
+      "moz_da": 58,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 Oct 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "63273",
+      "website": "www.sportsadda.co.uk",
+      "website_url": "https://sportsadda.co.uk/",
+      "categories": [
+        "Education",
+        "Games",
+        "Sports"
+      ],
+      "monthly_traffic": 1317,
+      "ahrefs_dr": 48,
+      "moz_da": 34,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "10 Oct 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "64400",
+      "website": "www.crainou.ro",
+      "website_url": "https://www.crainou.ro/",
+      "categories": [
+        "News and Media",
+        "Politics",
+        "Sports"
+      ],
+      "monthly_traffic": 12080,
+      "ahrefs_dr": 43,
+      "moz_da": 39,
+      "language": "Romanian",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "65221",
+      "website": "www.thamehub.co.uk",
+      "website_url": "http://thamehub.co.uk",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 5658,
+      "ahrefs_dr": 20,
+      "moz_da": 26,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Nov 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "65885",
+      "website": "www.melodyjacob.com",
+      "website_url": "https://www.melodyjacob.com/",
+      "categories": [
+        "Business",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 4467,
+      "ahrefs_dr": 35,
+      "moz_da": 27,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "12 Nov 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "66007",
+      "website": "www.xvcuritiba.com.br",
+      "website_url": "https://xvcuritiba.com.br/",
+      "categories": [
+        "Business",
+        "Culture",
+        "Sports"
+      ],
+      "monthly_traffic": 73316,
+      "ahrefs_dr": 36,
+      "moz_da": 40,
+      "language": "Portuguese",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2024",
+      "source_page": 291
+    },
+    {
+      "website_id": "13778",
+      "website": "www.techbuzzinfo.com",
+      "website_url": "https://www.techbuzzinfo.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1538,
+      "ahrefs_dr": 34,
+      "moz_da": 56,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Jun 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "13864",
+      "website": "www.newsinamerica.com",
+      "website_url": "https://newsinamerica.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Other"
+      ],
+      "monthly_traffic": 30018,
+      "ahrefs_dr": 50,
+      "moz_da": 47,
+      "language": "Spanish",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Jun 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "14985",
+      "website": "www.lindagoeseast.com",
+      "website_url": "https://lindagoeseast.com/",
+      "categories": [
+        "Culture",
+        "Photography",
+        "Travelling"
+      ],
+      "monthly_traffic": 16289,
+      "ahrefs_dr": 23,
+      "moz_da": 36,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "05 Jul 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "15810",
+      "website": "www.gadgetgram.com",
+      "website_url": "https://www.gadgetgram.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 5790,
+      "ahrefs_dr": 45,
+      "moz_da": 33,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "22 Jul 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "17038",
+      "website": "www.educationnewshub.co....",
+      "website_url": "https://educationnewshub.co.ke/",
+      "categories": [
+        "Books",
+        "Education",
+        "Web-development"
+      ],
+      "monthly_traffic": 87896,
+      "ahrefs_dr": 24,
+      "moz_da": 45,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "14 Aug 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "17416",
+      "website": "www.enjoytravellife.com",
+      "website_url": "https://enjoytravellife.com/",
+      "categories": [
+        "Food",
+        "Travelling"
+      ],
+      "monthly_traffic": 2085,
+      "ahrefs_dr": 39,
+      "moz_da": 29,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "26 Aug 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "18458",
+      "website": "www.freaktofit.com",
+      "website_url": "https://freaktofit.com/",
+      "categories": [
+        "Food",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 3236,
+      "ahrefs_dr": 20,
+      "moz_da": 64,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Sep 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "18636",
+      "website": "www.etashee.com",
+      "website_url": "https://www.etashee.com/blog/contact-us/",
+      "categories": [
+        "Culture",
+        "Fashion",
+        "Games"
+      ],
+      "monthly_traffic": 1353,
+      "ahrefs_dr": 11,
+      "moz_da": 28,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "20 Sep 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "19303",
+      "website": "www.holrmagazine.com",
+      "website_url": "https://holrmagazine.com/",
+      "categories": [
+        "Culture",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 28503,
+      "ahrefs_dr": 60,
+      "moz_da": 59,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Sep 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "20227",
+      "website": "www.tutorcity.sg",
+      "website_url": "http://www.tutorcity.sg/",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 12183,
+      "ahrefs_dr": 48,
+      "moz_da": 41,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "09 Oct 2022",
+      "source_page": 291
+    },
+    {
+      "website_id": "295",
+      "website": "www.gogagah.com",
+      "website_url": "https://www.gogagah.com",
+      "categories": [
+        "Gadgets",
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 1248,
+      "ahrefs_dr": 5,
+      "moz_da": 63,
+      "language": "English",
+      "price": 749.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Feb 2021",
+      "source_page": 291
+    }
+  ]
+}

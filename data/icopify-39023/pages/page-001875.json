@@ -1,0 +1,514 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1875",
+  "scraped_at": "2026-08-27T14:18:06.060Z",
+  "rows": [
+    {
+      "website_id": "77550",
+      "website": "www.classicinlines.com",
+      "website_url": "https://classicinlines.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "78460",
+      "website": "www.queuepost.com",
+      "website_url": "https://queuepost.com",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 55,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "78463",
+      "website": "www.inspiredwinds.com",
+      "website_url": "https://inspiredwinds.com",
+      "categories": [
+        "Business",
+        "Computers",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 55,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "78464",
+      "website": "www.footballtoast.com",
+      "website_url": "https://footballtoast.com",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "78534",
+      "website": "www.247sportsnews.net",
+      "website_url": "https://247sportsnews.net",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 34,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "78829",
+      "website": "www.russianembassy.net",
+      "website_url": "https://russianembassy.net",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "4105",
+      "website": "www.wowtechub.com",
+      "website_url": "https://www.wowtechub.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 48,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1875
+    },
+    {
+      "website_id": "5632",
+      "website": "www.techyeyes.com",
+      "website_url": "https://www.techyeyes.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 44,
+      "moz_da": 63,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2021",
+      "source_page": 1875
+    },
+    {
+      "website_id": "5663",
+      "website": "www.phootoscelebrities.c...",
+      "website_url": "https://www.phootoscelebrities.com/",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 46,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "29 Oct 2021",
+      "source_page": 1875
+    },
+    {
+      "website_id": "5839",
+      "website": "www.howtowiki.net",
+      "website_url": "https://www.howtowiki.net/",
+      "categories": [
+        "Finance",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 60,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "01 Nov 2021",
+      "source_page": 1875
+    },
+    {
+      "website_id": "8709",
+      "website": "www.breakinglatest.news",
+      "website_url": "https://www.breakinglatest.news/",
+      "categories": [
+        "Business",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 58,
+      "moz_da": 67,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1875
+    },
+    {
+      "website_id": "8732",
+      "website": "www.germanic.news",
+      "website_url": "https://germanic.news/",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 36,
+      "moz_da": 27,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1875
+    },
+    {
+      "website_id": "9599",
+      "website": "www.techstormy.com",
+      "website_url": "https://techstormy.com",
+      "categories": [
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 55,
+      "language": "English",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "03 Mar 2022",
+      "source_page": 1875
+    },
+    {
+      "website_id": "9989",
+      "website": "www.bateolibre.com",
+      "website_url": "https://bateolibre.com/",
+      "categories": [
+        "Business",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 57,
+      "language": "Spanish",
+      "price": 1508.49,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "07 Mar 2022",
+      "source_page": 1875
+    },
+    {
+      "website_id": "87376",
+      "website": "www.envirolex.fr",
+      "website_url": "https://www.envirolex.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1528.47,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Oct 2025",
+      "source_page": 1875
+    },
+    {
+      "website_id": "31768",
+      "website": "www.SassiLive.it",
+      "website_url": "https://SassiLive.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 56,
+      "moz_da": 44,
+      "language": "Italian",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "08 Mar 2023",
+      "source_page": 1875
+    },
+    {
+      "website_id": "32654",
+      "website": "www.jewishbusinessnews.c...",
+      "website_url": "https://jewishbusinessnews.com/",
+      "categories": [
+        "Business",
+        "Culture",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 57,
+      "moz_da": 61,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "14 Mar 2023",
+      "source_page": 1875
+    },
+    {
+      "website_id": "35925",
+      "website": "www.zajimavaevropa.cz",
+      "website_url": "https://zajimavaevropa.cz/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 21,
+      "language": "Other",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "17 May 2023",
+      "source_page": 1875
+    },
+    {
+      "website_id": "41635",
+      "website": "www.getgadgets.in",
+      "website_url": "https://getgadgets.in/",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 60,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "17 Aug 2023",
+      "source_page": 1875
+    },
+    {
+      "website_id": "51092",
+      "website": "www.thesustainablepost.c...",
+      "website_url": "https://www.thesustainablepost.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 64,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Mar 2024",
+      "source_page": 1875
+    },
+    {
+      "website_id": "53748",
+      "website": "www.significadodossonhos...",
+      "website_url": "https://www.significadodossonhos.inf.br/",
+      "categories": [
+        "Health",
+        "Society",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 27,
+      "language": "Portuguese",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "18 May 2024",
+      "source_page": 1875
+    },
+    {
+      "website_id": "17837",
+      "website": "www.newsfounded.com",
+      "website_url": "https://newsfounded.com/",
+      "categories": [
+        "Entertainment",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 38,
+      "moz_da": 41,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "06 Sep 2022",
+      "source_page": 1875
+    },
+    {
+      "website_id": "57563",
+      "website": "www.startupsmaker.com",
+      "website_url": "http://startupsmaker.com/",
+      "categories": [
+        "Business",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 43,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "27 Jul 2024",
+      "source_page": 1875
+    },
+    {
+      "website_id": "58645",
+      "website": "www.supremas.com.br",
+      "website_url": "https://supremas.com.br",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 36,
+      "language": "Portuguese",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2024",
+      "source_page": 1875
+    },
+    {
+      "website_id": "60649",
+      "website": "www.jak-zalozit-sro-a-po...",
+      "website_url": "https://www.jak-zalozit-sro-a-podnikat.cz",
+      "categories": [
+        "Business",
+        "Finance",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 21,
+      "language": "Other",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "07 Sep 2024",
+      "source_page": 1875
+    }
+  ]
+}

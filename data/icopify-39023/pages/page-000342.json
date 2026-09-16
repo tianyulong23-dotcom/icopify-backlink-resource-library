@@ -1,0 +1,513 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=342",
+  "scraped_at": "2026-08-27T13:50:26.381Z",
+  "rows": [
+    {
+      "website_id": "76252",
+      "website": "www.fefa.fr",
+      "website_url": "https://fefa.fr/",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1419,
+      "ahrefs_dr": 44,
+      "moz_da": 31,
+      "language": "French",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "23 Apr 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "76254",
+      "website": "www.scconseil.fr",
+      "website_url": "https://scconseil.fr/",
+      "categories": [
+        "Business",
+        "Law",
+        "Marketing"
+      ],
+      "monthly_traffic": 5675,
+      "ahrefs_dr": 44,
+      "moz_da": 24,
+      "language": "French",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "23 Apr 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "76425",
+      "website": "www.blognews.nl",
+      "website_url": "https://blognews.nl/",
+      "categories": [
+        "Food",
+        "Health",
+        "Travelling"
+      ],
+      "monthly_traffic": 2723,
+      "ahrefs_dr": 53,
+      "moz_da": 40,
+      "language": "Dutch",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Apr 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "76524",
+      "website": "www.strangenessandcharm....",
+      "website_url": "https://strangenessandcharm.co.uk/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 2328,
+      "ahrefs_dr": 16,
+      "moz_da": 29,
+      "language": "English",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "79111",
+      "website": "www.striana.fr",
+      "website_url": "https://striana.fr",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "News and Media"
+      ],
+      "monthly_traffic": 3552,
+      "ahrefs_dr": 32,
+      "moz_da": 21,
+      "language": "French",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84906",
+      "website": "www.istanbulses.com",
+      "website_url": "https://www.istanbulses.com/",
+      "categories": [
+        "Agriculture",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 4630,
+      "ahrefs_dr": 30,
+      "moz_da": 24,
+      "language": "Turkish",
+      "price": 1188.81,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "22 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "77327",
+      "website": "www.jurnalul.ro",
+      "website_url": "https://jurnalul.ro",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1452380,
+      "ahrefs_dr": 70,
+      "moz_da": 61,
+      "language": "Romanian",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "01 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "77337",
+      "website": "www.lesexpertsdelapruden...",
+      "website_url": "https://lesexpertsdelaprudence.fr",
+      "categories": [
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 2658,
+      "ahrefs_dr": 22,
+      "moz_da": 35,
+      "language": "French",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "01 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "78886",
+      "website": "www.citybiz.co",
+      "website_url": "http://citybiz.co/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 242720,
+      "ahrefs_dr": 77,
+      "moz_da": 49,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "80099",
+      "website": "www.amomentwithfranca.co...",
+      "website_url": "https://www.amomentwithfranca.com",
+      "categories": [
+        "Fashion",
+        "Food",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 7461,
+      "ahrefs_dr": 29,
+      "moz_da": 35,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "28 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "80321",
+      "website": "www.trackobit.com",
+      "website_url": "https://trackobit.com/",
+      "categories": [
+        "Gadgets",
+        "Hardware development"
+      ],
+      "monthly_traffic": 51660,
+      "ahrefs_dr": 65,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "31 May 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "81103",
+      "website": "www.prakashinfotech.com",
+      "website_url": "https://prakashinfotech.com/",
+      "categories": [
+        "Marketing"
+      ],
+      "monthly_traffic": 5724,
+      "ahrefs_dr": 39,
+      "moz_da": 32,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Jun 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "82542",
+      "website": "www.finanzversteher.de",
+      "website_url": "https://www.finanzversteher.de/",
+      "categories": [
+        "Web-development",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1289,
+      "ahrefs_dr": 29,
+      "moz_da": 26,
+      "language": "German",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Jul 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "83314",
+      "website": "www.randylemmon.com",
+      "website_url": "https://randylemmon.com",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 7979,
+      "ahrefs_dr": 58,
+      "moz_da": 76,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Jul 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "83315",
+      "website": "www.cinematiccentral.com",
+      "website_url": "https://cinematiccentral.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1574,
+      "ahrefs_dr": 26,
+      "moz_da": 43,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "21 Jul 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84023",
+      "website": "www.sharonalbrightdds.co...",
+      "website_url": "https://www.sharonalbrightdds.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 3573,
+      "ahrefs_dr": 25,
+      "moz_da": 32,
+      "language": "English",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "31 Jul 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84070",
+      "website": "www.munichname.eu",
+      "website_url": "https://munichname.eu/de",
+      "categories": [
+        "Culture"
+      ],
+      "monthly_traffic": 1622,
+      "ahrefs_dr": 28,
+      "moz_da": 15,
+      "language": "German",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "01 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84073",
+      "website": "www.gazeta1.com",
+      "website_url": "https://www.gazeta1.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 36026,
+      "ahrefs_dr": 34,
+      "moz_da": 38,
+      "language": "Ukrainian",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "01 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84506",
+      "website": "www.yeniadimgazetesi.com",
+      "website_url": "https://www.yeniadimgazetesi.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Entertainment"
+      ],
+      "monthly_traffic": 115082,
+      "ahrefs_dr": 30,
+      "moz_da": 26,
+      "language": "Turkish",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84507",
+      "website": "www.tekirdagyenihaber.co...",
+      "website_url": "https://tekirdagyenihaber.com/",
+      "categories": [
+        "Education",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 19219,
+      "ahrefs_dr": 26,
+      "moz_da": 30,
+      "language": "Turkish",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "13 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84517",
+      "website": "www.fenit.nl",
+      "website_url": "https://www.fenit.nl/",
+      "categories": [
+        "General",
+        "Internet",
+        "Technology"
+      ],
+      "monthly_traffic": 3293,
+      "ahrefs_dr": 30,
+      "moz_da": 26,
+      "language": "Dutch",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "14 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84519",
+      "website": "www.tabletguide.nl",
+      "website_url": "http://tabletguide.nl",
+      "categories": [
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 1653,
+      "ahrefs_dr": 28,
+      "moz_da": 46,
+      "language": "Dutch",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "14 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84628",
+      "website": "www.tarsusakdeniz.com",
+      "website_url": "https://www.tarsusakdeniz.com/",
+      "categories": [
+        "Agriculture",
+        "Business",
+        "Beauty"
+      ],
+      "monthly_traffic": 9118,
+      "ahrefs_dr": 14,
+      "moz_da": 28,
+      "language": "Turkish",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "17 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84629",
+      "website": "www.spordepor.com",
+      "website_url": "https://www.spordepor.com/",
+      "categories": [
+        "Fashion",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 6998,
+      "ahrefs_dr": 19,
+      "moz_da": 24,
+      "language": "Turkish",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "17 Aug 2025",
+      "source_page": 342
+    },
+    {
+      "website_id": "84630",
+      "website": "www.sanliurfaolay.com",
+      "website_url": "https://www.sanliurfaolay.com/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Law"
+      ],
+      "monthly_traffic": 3526,
+      "ahrefs_dr": 33,
+      "moz_da": 26,
+      "language": "Turkish",
+      "price": 1198.8,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "17 Aug 2025",
+      "source_page": 342
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1496",
+  "scraped_at": "2026-08-27T14:11:02.525Z",
+  "rows": [
+    {
+      "website_id": "73343",
+      "website": "www.findgadget.my.id",
+      "website_url": "https://findgadget.my.id",
+      "categories": [
+        "Gadgets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73344",
+      "website": "www.healthyimmune.my.id",
+      "website_url": "https://healthyimmune.my.id",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73345",
+      "website": "www.healthypet.my.id",
+      "website_url": "https://healthypet.my.id",
+      "categories": [
+        "Animals and Pets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73346",
+      "website": "www.hotelowner.my.id",
+      "website_url": "https://hotelowner.my.id",
+      "categories": [
+        "Business",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73348",
+      "website": "www.houseforus.my.id",
+      "website_url": "https://houseforus.my.id",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73349",
+      "website": "www.importanteducation.m...",
+      "website_url": "https://importanteducation.my.id",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73350",
+      "website": "www.importancehealth.my....",
+      "website_url": "https://importancehealth.my.id",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73351",
+      "website": "www.hotelstar.my.id",
+      "website_url": "https://hotelstar.my.id",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73352",
+      "website": "www.hotelstaff.my.id",
+      "website_url": "https://hotelstaff.my.id",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73353",
+      "website": "www.lawattorney.my.id",
+      "website_url": "https://lawattorney.my.id",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73354",
+      "website": "www.managementcareer.my....",
+      "website_url": "https://managementcareer.my.id",
+      "categories": [
+        "Career and Employment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73357",
+      "website": "www.nowshopping.my.id",
+      "website_url": "https://nowshopping.my.id",
+      "categories": [
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73358",
+      "website": "www.petscage.my.id",
+      "website_url": "https://petscage.my.id",
+      "categories": [
+        "Animals and Pets"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73359",
+      "website": "www.photographyshoot.my....",
+      "website_url": "https://photographyshoot.my.id",
+      "categories": [
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73361",
+      "website": "www.sprecherspub.com",
+      "website_url": "http://sprecherspub.com",
+      "categories": [
+        "Fashion",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 39,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73362",
+      "website": "www.sellinghome.my.id",
+      "website_url": "https://sellinghome.my.id",
+      "categories": [
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73363",
+      "website": "www.shoppingonline.my.id",
+      "website_url": "https://shoppingonline.my.id",
+      "categories": [
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 39,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73364",
+      "website": "www.staffbusiness.my.id",
+      "website_url": "https://staffbusiness.my.id",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73365",
+      "website": "www.store-sport.my.id",
+      "website_url": "https://store-sport.my.id",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73366",
+      "website": "www.techinovate.my.id",
+      "website_url": "https://techinovate.my.id",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73367",
+      "website": "www.tournamentsport.my.i...",
+      "website_url": "https://tournamentsport.my.id",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73368",
+      "website": "www.autoblogs.my.id",
+      "website_url": "https://autoblogs.my.id",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73369",
+      "website": "www.breakfastbeforefood....",
+      "website_url": "https://breakfastbeforefood.my.id",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 40,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73370",
+      "website": "www.canvasart.my.id",
+      "website_url": "https://canvasart.my.id",
+      "categories": [
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 41,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2025",
+      "source_page": 1496
+    },
+    {
+      "website_id": "73506",
+      "website": "www.currishine.com",
+      "website_url": "https://currishine.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 34,
+      "language": "English",
+      "price": 149.85,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "13 Mar 2025",
+      "source_page": 1496
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1024",
+  "scraped_at": "2026-08-27T14:02:31.340Z",
+  "rows": [
+    {
+      "website_id": "25829",
+      "website": "www.sillyfantasy.com",
+      "website_url": "http://sillyfantasy.com",
+      "categories": [
+        "Agriculture",
+        "Automobiles",
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25830",
+      "website": "www.thetechoreo.com",
+      "website_url": "https://thetechoreo.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 46,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25835",
+      "website": "www.infozla.com",
+      "website_url": "https://infozla.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25853",
+      "website": "www.diplomarket.org",
+      "website_url": "https://diplomarket.org/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 63,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25858",
+      "website": "www.consult-exp.com",
+      "website_url": "https://www.consult-exp.com/",
+      "categories": [
+        "Business",
+        "Books",
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 37,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25872",
+      "website": "www.whatnews2day.com",
+      "website_url": "http://whatnews2day.com",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25873",
+      "website": "www.newsvinehub.com",
+      "website_url": "https://newsvinehub.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25874",
+      "website": "www.usabusinessideas.org",
+      "website_url": "https://usabusinessideas.org/",
+      "categories": [
+        "Food",
+        "Travelling",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 58,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25877",
+      "website": "www.businessideas24.com",
+      "website_url": "https://businessideas24.com/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 57,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25879",
+      "website": "www.geekshub.net",
+      "website_url": "https://geekshub.net/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 58,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25922",
+      "website": "www.kenhphanphoiduanchun...",
+      "website_url": "https://kenhphanphoiduanchungcu.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25928",
+      "website": "www.taifacebookjavamienp...",
+      "website_url": "https://taifacebookjavamienphi.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25929",
+      "website": "www.tailinemienphi.xyz",
+      "website_url": "https://tailinemienphi.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25944",
+      "website": "www.amexbusiness.xyz",
+      "website_url": "https://amexbusiness.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25947",
+      "website": "www.hsbcbusiness.xyz",
+      "website_url": "https://hsbcbusiness.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25948",
+      "website": "www.avastbusiness.xyz",
+      "website_url": "https://avastbusiness.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25951",
+      "website": "www.businessgrants.xyz",
+      "website_url": "https://businessgrants.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25952",
+      "website": "www.businessformal.xyz",
+      "website_url": "https://businessformal.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25953",
+      "website": "www.tmobilebusiness.xyz",
+      "website_url": "https://tmobilebusiness.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25956",
+      "website": "www.linkedinbusiness.xyz",
+      "website_url": "https://linkedinbusiness.xyz",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25958",
+      "website": "www.bloomberg.my.id",
+      "website_url": "https://bloomberg.my.id",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25963",
+      "website": "www.artsy.my.id",
+      "website_url": "https://artsy.my.id",
+      "categories": [
+        "Art",
+        "Music",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25964",
+      "website": "www.artnews.my.id",
+      "website_url": "https://artnews.my.id",
+      "categories": [
+        "Art",
+        "Music",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25965",
+      "website": "www.artfcity.my.id",
+      "website_url": "https://artfcity.my.id",
+      "categories": [
+        "Art",
+        "Music",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    },
+    {
+      "website_id": "25966",
+      "website": "www.artforum.my.id",
+      "website_url": "https://artforum.my.id",
+      "categories": [
+        "Business",
+        "Movies",
+        "Photography"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1024
+    }
+  ]
+}

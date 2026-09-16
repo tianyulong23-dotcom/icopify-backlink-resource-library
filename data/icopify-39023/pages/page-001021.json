@@ -1,0 +1,530 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1021",
+  "scraped_at": "2026-08-27T14:02:29.296Z",
+  "rows": [
+    {
+      "website_id": "24803",
+      "website": "www.uniquedeesign.com",
+      "website_url": "https://uniquedeesign.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24804",
+      "website": "www.webyoudo.com",
+      "website_url": "https://webyoudo.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24812",
+      "website": "www.seowebook.com",
+      "website_url": "https://seowebook.com",
+      "categories": [
+        "General",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24816",
+      "website": "www.bestadvantedge.com",
+      "website_url": "https://bestadvantedge.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 52,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24817",
+      "website": "www.thegpswaypoints.com",
+      "website_url": "https://thegpswaypoints.com",
+      "categories": [
+        "General",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 51,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24821",
+      "website": "www.miniboom.net",
+      "website_url": "https://miniboom.net",
+      "categories": [
+        "General",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24822",
+      "website": "www.hyperlaxmedia.com",
+      "website_url": "https://hyperlaxmedia.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24824",
+      "website": "www.myworldmarkstory.com",
+      "website_url": "https://myworldmarkstory.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 46,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24825",
+      "website": "www.worldplaners.com",
+      "website_url": "https://worldplaners.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 44,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24833",
+      "website": "www.thecrownweb.com",
+      "website_url": "https://thecrownweb.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 45,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24834",
+      "website": "www.fastnewshub.net",
+      "website_url": "https://fastnewshub.net",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 43,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24847",
+      "website": "www.thewebdevs.net",
+      "website_url": "https://thewebdevs.net",
+      "categories": [
+        "General",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24850",
+      "website": "www.thebrandastute.com",
+      "website_url": "https://thebrandastute.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24851",
+      "website": "www.usefularticle.xyz",
+      "website_url": "https://usefularticle.xyz",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24853",
+      "website": "www.webdes.info",
+      "website_url": "https://webdes.info",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24858",
+      "website": "www.cashbackhut.com",
+      "website_url": "https://cashbackhut.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 51,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24893",
+      "website": "www.youcampusonline.com",
+      "website_url": "https://youcampusonline.com",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 55,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24904",
+      "website": "www.foodloversmad.com",
+      "website_url": "https://foodloversmad.com",
+      "categories": [
+        "Business",
+        "Food",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "24937",
+      "website": "www.implantveneers.co.uk",
+      "website_url": "https://implantveneers.co.uk",
+      "categories": [
+        "Business",
+        "General",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25073",
+      "website": "www.techmagazines.co",
+      "website_url": "https://techmagazines.co/",
+      "categories": [
+        "Fashion",
+        "Food",
+        "For Kids"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 56,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25074",
+      "website": "www.technologistes.com",
+      "website_url": "https://technologistes.com/",
+      "categories": [
+        "Fashion",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 58,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25075",
+      "website": "www.newsviral.org",
+      "website_url": "https://newsviral.org/",
+      "categories": [
+        "Fashion",
+        "General",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 58,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25213",
+      "website": "www.world-newz.net",
+      "website_url": "https://world-newz.net/",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 53,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25214",
+      "website": "www.worldtopics.co.uk",
+      "website_url": "https://worldtopics.co.uk",
+      "categories": [
+        "Business",
+        "General",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Dec 2022",
+      "source_page": 1021
+    },
+    {
+      "website_id": "25215",
+      "website": "www.eburtnews.com",
+      "website_url": "https://eburtnews.com",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 49.95,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Dec 2022",
+      "source_page": 1021
+    }
+  ]
+}

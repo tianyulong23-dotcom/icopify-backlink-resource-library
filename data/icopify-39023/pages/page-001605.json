@@ -1,0 +1,528 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1605",
+  "scraped_at": "2026-08-27T14:13:06.350Z",
+  "rows": [
+    {
+      "website_id": "78004",
+      "website": "www.ilearningglobal.biz",
+      "website_url": "https://ilearningglobal.biz",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 52,
+      "language": "English",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78430",
+      "website": "www.glossinvest.com",
+      "website_url": "https://glossinvest.com",
+      "categories": [
+        "Finance",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78431",
+      "website": "www.money-time.net",
+      "website_url": "https://money-time.net",
+      "categories": [
+        "Finance",
+        "Real Estate",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78432",
+      "website": "www.financejournal.info",
+      "website_url": "https://financejournal.info",
+      "categories": [
+        "Finance",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78433",
+      "website": "www.newwebdev.net",
+      "website_url": "https://newwebdev.net",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78434",
+      "website": "www.frenchgeek.net",
+      "website_url": "https://frenchgeek.net",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78435",
+      "website": "www.luna-web.com",
+      "website_url": "https://luna-web.com",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78436",
+      "website": "www.techaway.info",
+      "website_url": "https://techaway.info",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78437",
+      "website": "www.domtech.info",
+      "website_url": "https://domtech.info",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78438",
+      "website": "www.techrobo.org",
+      "website_url": "https://techrobo.org",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78439",
+      "website": "www.technipro.info",
+      "website_url": "https://technipro.info",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78440",
+      "website": "www.future-tech.pro",
+      "website_url": "https://future-tech.pro",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78441",
+      "website": "www.abmhealth.com",
+      "website_url": "https://abmhealth.com",
+      "categories": [
+        "Beauty",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 58,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78442",
+      "website": "www.lasantederetour.com",
+      "website_url": "https://lasantederetour.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78443",
+      "website": "www.soinetsante.com",
+      "website_url": "https://soinetsante.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78444",
+      "website": "www.moselle-nature.com",
+      "website_url": "https://moselle-nature.com",
+      "categories": [
+        "For Kids",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78445",
+      "website": "www.naturelactif.com",
+      "website_url": "https://naturelactif.com",
+      "categories": [
+        "Food",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78446",
+      "website": "www.kiemassage.com",
+      "website_url": "https://kiemassage.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78447",
+      "website": "www.sweets-massage.com",
+      "website_url": "https://sweets-massage.com",
+      "categories": [
+        "Beauty",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78456",
+      "website": "www.berramode.com",
+      "website_url": "https://berramode.com",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "For Kids"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78457",
+      "website": "www.beauteblanche.com",
+      "website_url": "https://beauteblanche.com",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78459",
+      "website": "www.atlantatravelmag.com",
+      "website_url": "https://atlantatravelmag.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 55,
+      "language": "French",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78474",
+      "website": "www.pureapkmod.com",
+      "website_url": "https://pureapkmod.com",
+      "categories": [
+        "Entertainment",
+        "Gadgets",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 58,
+      "language": "English",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78475",
+      "website": "www.spiceupyourblog.com",
+      "website_url": "https://spiceupyourblog.com",
+      "categories": [
+        "Gadgets",
+        "Games",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 39,
+      "language": "English",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    },
+    {
+      "website_id": "78486",
+      "website": "www.famaz.pl",
+      "website_url": "https://famaz.pl",
+      "categories": [
+        "Construction and Repairs",
+        "Environment",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 54,
+      "language": "Polish",
+      "price": 239.76,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 May 2025",
+      "source_page": 1605
+    }
+  ]
+}

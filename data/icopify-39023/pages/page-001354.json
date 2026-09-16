@@ -1,0 +1,530 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1354",
+  "scraped_at": "2026-08-27T14:08:28.022Z",
+  "rows": [
+    {
+      "website_id": "49323",
+      "website": "www.actorwish.com",
+      "website_url": "https://actorwish.com/",
+      "categories": [
+        "Business",
+        "News and Media",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 49,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "31 Jan 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49362",
+      "website": "www.globalinvestmentwatc...",
+      "website_url": "https://globalinvestmentwatch.com/",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 27,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49390",
+      "website": "www.curlyweb.net",
+      "website_url": "https://curlyweb.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49392",
+      "website": "www.calmaweb.org",
+      "website_url": "https://calmaweb.org",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49393",
+      "website": "www.lusaweb.org",
+      "website_url": "https://lusaweb.org",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49405",
+      "website": "www.hebdofrance.com",
+      "website_url": "https://hebdofrance.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49411",
+      "website": "www.francenews.info",
+      "website_url": "https://francenews.info",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49414",
+      "website": "www.libertywebs.net",
+      "website_url": "https://libertywebs.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49415",
+      "website": "www.jebweb.net",
+      "website_url": "https://jebweb.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49419",
+      "website": "www.localbizfinder.net",
+      "website_url": "https://localbizfinder.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49420",
+      "website": "www.altworks.net",
+      "website_url": "https://altworks.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 46,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49421",
+      "website": "www.pam-news.com",
+      "website_url": "https://pam-news.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 47,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49422",
+      "website": "www.press-online.info",
+      "website_url": "https://press-online.info",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 45,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49423",
+      "website": "www.kp-press.net",
+      "website_url": "https://kp-press.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 46,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49424",
+      "website": "www.dalidablog.com",
+      "website_url": "https://dalidablog.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 46,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49425",
+      "website": "www.le-point.net",
+      "website_url": "https://le-point.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 48,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49426",
+      "website": "www.press-pass.info",
+      "website_url": "https://press-pass.info",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 47,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49427",
+      "website": "www.tobublog.com",
+      "website_url": "https://tobublog.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 47,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49428",
+      "website": "www.emeryblog.com",
+      "website_url": "https://emeryblog.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 44,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49429",
+      "website": "www.routila.com",
+      "website_url": "https://routila.com",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 45,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49430",
+      "website": "www.france-annonces.net",
+      "website_url": "https://france-annonces.net",
+      "categories": [
+        "Internet",
+        "News and Media",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 46,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49438",
+      "website": "www.blogmaison.net",
+      "website_url": "https://blogmaison.net",
+      "categories": [
+        "Construction and Repairs",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49450",
+      "website": "www.voyage5continents.co...",
+      "website_url": "https://voyage5continents.com",
+      "categories": [
+        "Culture",
+        "Nature",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49452",
+      "website": "www.travelling-web.com",
+      "website_url": "https://travelling-web.com",
+      "categories": [
+        "Culture",
+        "Nature",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 55,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    },
+    {
+      "website_id": "49453",
+      "website": "www.voyage-en-solidaire....",
+      "website_url": "https://voyage-en-solidaire.com",
+      "categories": [
+        "Culture",
+        "Nature",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 56,
+      "language": "French",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "02 Feb 2024",
+      "source_page": 1354
+    }
+  ]
+}

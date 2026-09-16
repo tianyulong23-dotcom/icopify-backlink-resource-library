@@ -1,0 +1,519 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1878",
+  "scraped_at": "2026-08-27T14:18:08.464Z",
+  "rows": [
+    {
+      "website_id": "10072",
+      "website": "www.galagov.tv",
+      "website_url": "https://galagov.tv/",
+      "categories": [
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 31,
+      "language": "Ukrainian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10073",
+      "website": "www.heraldoffashion.com",
+      "website_url": "https://heraldoffashion.com/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10074",
+      "website": "www.lameziainstrada.com",
+      "website_url": "https://www.lameziainstrada.com/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 34,
+      "language": "Italian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10077",
+      "website": "www.toscanacalcio.net",
+      "website_url": "https://www.toscanacalcio.net/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 41,
+      "language": "Italian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10078",
+      "website": "www.gentedelasafor.com",
+      "website_url": "https://gentedelasafor.com/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 34,
+      "language": "Spanish",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10079",
+      "website": "www.breageeknews.fr",
+      "website_url": "https://www.breageeknews.fr/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 28,
+      "language": "French",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10083",
+      "website": "www.persiadigest.com",
+      "website_url": "https://persiadigest.com/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 33,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10084",
+      "website": "www.randrlife.co.uk",
+      "website_url": "https://www.randrlife.co.uk/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 16,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "10088",
+      "website": "www.poderygloria.net",
+      "website_url": "https://poderygloria.net/",
+      "categories": [
+        "Entertainment",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 30,
+      "language": "Turkish",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Mar 2022",
+      "source_page": 1878
+    },
+    {
+      "website_id": "81971",
+      "website": "www.rdw-kenteken.nl",
+      "website_url": "https://rdw-kenteken.nl/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 23,
+      "language": "Dutch",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "82533",
+      "website": "www.awayandabroad.de",
+      "website_url": "https://awayandabroad.de/",
+      "categories": [
+        "Animals and Pets",
+        "Art",
+        "For Kids"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 39,
+      "language": "German",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "08 Jul 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "82714",
+      "website": "www.meinetipps.ch",
+      "website_url": "https://www.meinetipps.ch",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "12 Jul 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "82716",
+      "website": "www.expertentipps24.de",
+      "website_url": "https://www.expertentipps24.de",
+      "categories": [
+        "Mobile"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "12 Jul 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "83403",
+      "website": "www.smallbusinessmagazin...",
+      "website_url": "https://smallbusinessmagazine.co.uk/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 41,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "23 Jul 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "86731",
+      "website": "www.jkshayari.com",
+      "website_url": "https://jkshayari.com/",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 60,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "03 Oct 2025",
+      "source_page": 1878
+    },
+    {
+      "website_id": "44357",
+      "website": "www.laudee.com",
+      "website_url": "https://laudee.com/",
+      "categories": [
+        "Art",
+        "Beauty",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 59,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Oct 2023",
+      "source_page": 1878
+    },
+    {
+      "website_id": "45575",
+      "website": "www.elitenews.uk",
+      "website_url": "https://elitenews.uk/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 15,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "10 days",
+      "added_on": "17 Nov 2023",
+      "source_page": 1878
+    },
+    {
+      "website_id": "49350",
+      "website": "www.ironratetoday.com",
+      "website_url": "https://ironratetoday.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 56,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "7 days",
+      "added_on": "01 Feb 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "50010",
+      "website": "www.fest-und-feiern.de",
+      "website_url": "https://fest-und-feiern.de/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 19,
+      "language": "German",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "20 Feb 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "52078",
+      "website": "www.touch-cric.com",
+      "website_url": "http://touch-cric.com/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 67,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "07 Apr 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "56997",
+      "website": "www.football37.dk",
+      "website_url": "https://www.football37.dk/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 28,
+      "language": "Other",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 Jul 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "57928",
+      "website": "www.fintechzoom.cc",
+      "website_url": "https://fintechzoom.cc/",
+      "categories": [
+        "Finance",
+        "Real Estate",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "01 Aug 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "58639",
+      "website": "www.jovemparceiro.com.br",
+      "website_url": "https://jovemparceiro.com.br",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 40,
+      "language": "Portuguese",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "58640",
+      "website": "www.jornalenoticias.com....",
+      "website_url": "https://jornalenoticias.com.br",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 33,
+      "language": "Portuguese",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2024",
+      "source_page": 1878
+    },
+    {
+      "website_id": "58641",
+      "website": "www.girosertao.com.br",
+      "website_url": "https://girosertao.com.br",
+      "categories": [
+        "Entertainment",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 33,
+      "language": "Portuguese",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "10 Aug 2024",
+      "source_page": 1878
+    }
+  ]
+}

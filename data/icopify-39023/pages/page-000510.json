@@ -1,0 +1,515 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=510",
+  "scraped_at": "2026-08-27T13:53:28.451Z",
+  "rows": [
+    {
+      "website_id": "85709",
+      "website": "www.infor.pl",
+      "website_url": "https://www.infor.pl/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Career and Employment"
+      ],
+      "monthly_traffic": 4043722,
+      "ahrefs_dr": 80,
+      "moz_da": 62,
+      "language": "Polish",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Sep 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "85860",
+      "website": "www.cuisinefiend.com",
+      "website_url": "https://www.cuisinefiend.com",
+      "categories": [
+        "Food",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 49531,
+      "ahrefs_dr": 26,
+      "moz_da": 37,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Sep 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "24006",
+      "website": "www.techopedia.com",
+      "website_url": "https://www.techopedia.com/",
+      "categories": [
+        "Business",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 45995,
+      "ahrefs_dr": 87,
+      "moz_da": 75,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "10 Dec 2022",
+      "source_page": 510
+    },
+    {
+      "website_id": "34178",
+      "website": "www.mensjournal.com",
+      "website_url": "https://www.mensjournal.com/",
+      "categories": [
+        "General",
+        "Health",
+        "All Niches"
+      ],
+      "monthly_traffic": 15495042,
+      "ahrefs_dr": 84,
+      "moz_da": 86,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Apr 2023",
+      "source_page": 510
+    },
+    {
+      "website_id": "34236",
+      "website": "www.raconteur.net",
+      "website_url": "https://www.raconteur.net/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 95291,
+      "ahrefs_dr": 80,
+      "moz_da": 66,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "07 Apr 2023",
+      "source_page": 510
+    },
+    {
+      "website_id": "36998",
+      "website": "www.webretailer.com",
+      "website_url": "https://www.webretailer.com/",
+      "categories": [
+        "Business",
+        "Real Estate",
+        "Technology"
+      ],
+      "monthly_traffic": 17242,
+      "ahrefs_dr": 69,
+      "moz_da": 51,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "04 Jun 2023",
+      "source_page": 510
+    },
+    {
+      "website_id": "5086",
+      "website": "www.ldplayer.net",
+      "website_url": "https://www.ldplayer.net/",
+      "categories": [
+        "Games",
+        "Mobile",
+        "Technology"
+      ],
+      "monthly_traffic": 6236534,
+      "ahrefs_dr": 77,
+      "moz_da": 55,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "23 Oct 2021",
+      "source_page": 510
+    },
+    {
+      "website_id": "7820",
+      "website": "www.saasgenius.com",
+      "website_url": "https://www.saasgenius.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 36783,
+      "ahrefs_dr": 58,
+      "moz_da": 40,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "27 Dec 2021",
+      "source_page": 510
+    },
+    {
+      "website_id": "91506",
+      "website": "www.pressbanner.com",
+      "website_url": "https://pressbanner.com/",
+      "categories": [
+        "Lifestyle",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 64884,
+      "ahrefs_dr": 51,
+      "moz_da": 47,
+      "language": "English",
+      "price": 9990,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "19 Jan 2026",
+      "source_page": 510
+    },
+    {
+      "website_id": "76648",
+      "website": "www.ladylemonade.nl",
+      "website_url": "https://ladylemonade.nl/",
+      "categories": [
+        "Fashion",
+        "Food",
+        "General"
+      ],
+      "monthly_traffic": 124114,
+      "ahrefs_dr": 49,
+      "moz_da": 39,
+      "language": "Dutch",
+      "price": 10009.98,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "88364",
+      "website": "www.gpomag.fr",
+      "website_url": "https://www.gpomag.fr",
+      "categories": [
+        "Art",
+        "Culture",
+        "Music"
+      ],
+      "monthly_traffic": 10027,
+      "ahrefs_dr": 66,
+      "moz_da": 40,
+      "language": "French",
+      "price": 10069.92,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "56539",
+      "website": "www.sahiphopmag.co.za",
+      "website_url": "http://sahiphopmag.co.za/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 42794,
+      "ahrefs_dr": 27,
+      "moz_da": 51,
+      "language": "English",
+      "price": 10139.85,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "06 Jul 2024",
+      "source_page": 510
+    },
+    {
+      "website_id": "56574",
+      "website": "www.startupmag.co.za",
+      "website_url": "http://startupmag.co.za/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 5157,
+      "ahrefs_dr": 42,
+      "moz_da": 29,
+      "language": "English",
+      "price": 10139.85,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "07 Jul 2024",
+      "source_page": 510
+    },
+    {
+      "website_id": "65059",
+      "website": "www.galoremag.com",
+      "website_url": "https://galoremag.com/",
+      "categories": [
+        "Entertainment",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 60778,
+      "ahrefs_dr": 68,
+      "moz_da": 77,
+      "language": "English",
+      "price": 10189.8,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "03 Nov 2024",
+      "source_page": 510
+    },
+    {
+      "website_id": "87268",
+      "website": "www.etudestech.com",
+      "website_url": "https://etudestech.com/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 7894,
+      "ahrefs_dr": 40,
+      "moz_da": 32,
+      "language": "English",
+      "price": 10289.7,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Oct 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "84633",
+      "website": "www.voyageons-autrement....",
+      "website_url": "https://www.voyageons-autrement.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 13353,
+      "ahrefs_dr": 57,
+      "moz_da": 49,
+      "language": "French",
+      "price": 10329.66,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Aug 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "63885",
+      "website": "www.spreekbuis.nl",
+      "website_url": "https://www.spreekbuis.nl/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 326273,
+      "ahrefs_dr": 51,
+      "moz_da": 41,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "16 Oct 2024",
+      "source_page": 510
+    },
+    {
+      "website_id": "72426",
+      "website": "www.fhm.nl",
+      "website_url": "https://fhm.nl/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 276660,
+      "ahrefs_dr": 58,
+      "moz_da": 51,
+      "language": "English",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "20 Feb 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "74482",
+      "website": "www.playsense.nl",
+      "website_url": "https://playsense.nl",
+      "categories": [
+        "Games",
+        "Internet",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 854944,
+      "ahrefs_dr": 78,
+      "moz_da": 37,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "03 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76587",
+      "website": "www.allesoverfilm.nl",
+      "website_url": "https://allesoverfilm.nl/",
+      "categories": [
+        "Entertainment",
+        "Gadgets"
+      ],
+      "monthly_traffic": 12085,
+      "ahrefs_dr": 28,
+      "moz_da": 29,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76624",
+      "website": "www.festileaks.com",
+      "website_url": "https://festileaks.com/",
+      "categories": [
+        "Music"
+      ],
+      "monthly_traffic": 1067562,
+      "ahrefs_dr": 45,
+      "moz_da": 46,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76630",
+      "website": "www.focusmagazine.nl",
+      "website_url": "https://focusmagazine.nl/",
+      "categories": [
+        "Art",
+        "Entertainment",
+        "Gadgets"
+      ],
+      "monthly_traffic": 8354,
+      "ahrefs_dr": 48,
+      "moz_da": 30,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76640",
+      "website": "www.happyinshape.nl",
+      "website_url": "https://happyinshape.nl/",
+      "categories": [
+        "Entertainment",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 14467,
+      "ahrefs_dr": 33,
+      "moz_da": 39,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76641",
+      "website": "www.hcc.nl",
+      "website_url": "https://hcc.nl/",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 57951,
+      "ahrefs_dr": 59,
+      "moz_da": 47,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    },
+    {
+      "website_id": "76650",
+      "website": "www.makeover.nl",
+      "website_url": "https://makeover.nl/",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 39850,
+      "ahrefs_dr": 36,
+      "moz_da": 30,
+      "language": "Dutch",
+      "price": 10389.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "24 Apr 2025",
+      "source_page": 510
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=385",
+  "scraped_at": "2026-08-27T13:51:13.352Z",
+  "rows": [
+    {
+      "website_id": "88220",
+      "website": "www.vins-gastronomie.com",
+      "website_url": "https://www.vins-gastronomie.com",
+      "categories": [
+        "Food",
+        "Travelling"
+      ],
+      "monthly_traffic": 9346,
+      "ahrefs_dr": 40,
+      "moz_da": 30,
+      "language": "French",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "88251",
+      "website": "www.adprip.fr",
+      "website_url": "https://www.adprip.fr",
+      "categories": [
+        "Business",
+        "Marketing"
+      ],
+      "monthly_traffic": 5711,
+      "ahrefs_dr": 33,
+      "moz_da": 36,
+      "language": "French",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "88420",
+      "website": "www.justeo.fr",
+      "website_url": "https://justeo.fr",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "Home and Family"
+      ],
+      "monthly_traffic": 53391,
+      "ahrefs_dr": 31,
+      "moz_da": 37,
+      "language": "French",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "88572",
+      "website": "www.hello-maman.com",
+      "website_url": "https://www.hello-maman.com",
+      "categories": [
+        "Education",
+        "Home and Family",
+        "Society"
+      ],
+      "monthly_traffic": 2089,
+      "ahrefs_dr": 31,
+      "moz_da": 25,
+      "language": "French",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "25911",
+      "website": "www.techrrival.com",
+      "website_url": "https://www.techrrival.com/",
+      "categories": [
+        "Public Service",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 3055,
+      "ahrefs_dr": 30,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "03 Jan 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "89066",
+      "website": "www.leadsbridge.com",
+      "website_url": "https://leadsbridge.com/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 146174,
+      "ahrefs_dr": 76,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1645.85,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "01 Nov 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "23456",
+      "website": "www.accountingcapital.co...",
+      "website_url": "https://accountingcapital.com",
+      "categories": [
+        "Finance"
+      ],
+      "monthly_traffic": 15461,
+      "ahrefs_dr": 28,
+      "moz_da": 60,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "01 Dec 2022",
+      "source_page": 385
+    },
+    {
+      "website_id": "27699",
+      "website": "www.optnation.com",
+      "website_url": "https://www.optnation.com/",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Technology"
+      ],
+      "monthly_traffic": 26804,
+      "ahrefs_dr": 37,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "24 Jan 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "28401",
+      "website": "www.tech-ish.com",
+      "website_url": "https://tech-ish.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 40367,
+      "ahrefs_dr": 51,
+      "moz_da": 42,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "30 Jan 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "34482",
+      "website": "www.europeangaming.eu",
+      "website_url": "https://europeangaming.eu/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 273906,
+      "ahrefs_dr": 73,
+      "moz_da": 48,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "12 Apr 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "34852",
+      "website": "www.portalagrochile.cl",
+      "website_url": "https://www.portalagrochile.cl/",
+      "categories": [
+        "Agriculture"
+      ],
+      "monthly_traffic": 6921,
+      "ahrefs_dr": 41,
+      "moz_da": 41,
+      "language": "Spanish",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "5 days",
+      "added_on": "20 Apr 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "35768",
+      "website": "www.wpsticky.com",
+      "website_url": "https://wpsticky.com",
+      "categories": [
+        "Web-development"
+      ],
+      "monthly_traffic": 6532,
+      "ahrefs_dr": 58,
+      "moz_da": 61,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 May 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "39462",
+      "website": "www.greencarguide.co.uk",
+      "website_url": "https://www.greencarguide.co.uk",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 95331,
+      "ahrefs_dr": 43,
+      "moz_da": 39,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "12 Jul 2023",
+      "source_page": 385
+    },
+    {
+      "website_id": "3053",
+      "website": "www.heatfeed.com",
+      "website_url": "https://www.heatfeed.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 18495,
+      "ahrefs_dr": 24,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "29 Sep 2021",
+      "source_page": 385
+    },
+    {
+      "website_id": "55802",
+      "website": "www.xoxoday.com",
+      "website_url": "https://www.xoxoday.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Other"
+      ],
+      "monthly_traffic": 456073,
+      "ahrefs_dr": 76,
+      "moz_da": 49,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "19 Jun 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "58171",
+      "website": "www.forbesindia.com",
+      "website_url": "https://www.forbesindia.com/",
+      "categories": [
+        "Business",
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 512340,
+      "ahrefs_dr": 81,
+      "moz_da": 79,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Aug 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "59034",
+      "website": "www.modena2000.it",
+      "website_url": "https://www.modena2000.it",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Fashion"
+      ],
+      "monthly_traffic": 2290,
+      "ahrefs_dr": 41,
+      "moz_da": 41,
+      "language": "Italian",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "14 Aug 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "59273",
+      "website": "www.bologna2000.com",
+      "website_url": "http://bologna2000.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 2495,
+      "ahrefs_dr": 44,
+      "moz_da": 38,
+      "language": "Italian",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "17 Aug 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "65119",
+      "website": "www.roborace.com",
+      "website_url": "https://roborace.com/",
+      "categories": [
+        "Automobiles",
+        "For Men",
+        "Transport"
+      ],
+      "monthly_traffic": 4031,
+      "ahrefs_dr": 49,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "04 Nov 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "66003",
+      "website": "www.sistemampa.com.br",
+      "website_url": "https://www.sistemampa.com.br/",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 168084,
+      "ahrefs_dr": 32,
+      "moz_da": 42,
+      "language": "Portuguese",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "15 Nov 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "80098",
+      "website": "www.elfielato.es",
+      "website_url": "https://www.elfielato.es",
+      "categories": [
+        "Lifestyle",
+        "News and Media",
+        "Sports"
+      ],
+      "monthly_traffic": 49559,
+      "ahrefs_dr": 42,
+      "moz_da": 39,
+      "language": "Spanish",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "28 May 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "85460",
+      "website": "www.wphtaccess.com",
+      "website_url": "https://wphtaccess.com/",
+      "categories": [
+        "E-commerce",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 4828,
+      "ahrefs_dr": 36,
+      "moz_da": 62,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "09 Sep 2025",
+      "source_page": 385
+    },
+    {
+      "website_id": "50862",
+      "website": "www.leaders-in-law.com",
+      "website_url": "https://leaders-in-law.com",
+      "categories": [
+        "Law"
+      ],
+      "monthly_traffic": 59865,
+      "ahrefs_dr": 54,
+      "moz_da": 31,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "11 Mar 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "51345",
+      "website": "www.theinsaneapp.com",
+      "website_url": "https://www.theinsaneapp.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 148022,
+      "ahrefs_dr": 50,
+      "moz_da": 40,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "21 Mar 2024",
+      "source_page": 385
+    },
+    {
+      "website_id": "45299",
+      "website": "www.info-auto-moto.fr",
+      "website_url": "https://www.info-auto-moto.fr/",
+      "categories": [
+        "Automobiles",
+        "Transport"
+      ],
+      "monthly_traffic": 7907,
+      "ahrefs_dr": 43,
+      "moz_da": 39,
+      "language": "French",
+      "price": 1658.34,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "10 Nov 2023",
+      "source_page": 385
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1209",
+  "scraped_at": "2026-08-27T14:05:53.706Z",
+  "rows": [
+    {
+      "website_id": "12663",
+      "website": "www.premiosprincipe.com",
+      "website_url": "https://www.premiosprincipe.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 60,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12665",
+      "website": "www.sardaunamagazine.com",
+      "website_url": "https://www.sardaunamagazine.com",
+      "categories": [
+        "Business",
+        "General",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 64,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12666",
+      "website": "www.gardella-gmbh.com",
+      "website_url": "https://gardella-gmbh.com/",
+      "categories": [
+        "Business",
+        "General",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 66,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12669",
+      "website": "www.guadalajaracinemafes...",
+      "website_url": "https://guadalajaracinemafest09.com/",
+      "categories": [
+        "Business",
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 59,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12677",
+      "website": "www.noticiasgrandelisboa...",
+      "website_url": "https://www.noticiasgrandelisboa.com",
+      "categories": [
+        "Business",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12679",
+      "website": "www.mustereklerimiz.org",
+      "website_url": "https://mustereklerimiz.org/",
+      "categories": [
+        "Business",
+        "General",
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 62,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12740",
+      "website": "www.businestech.com",
+      "website_url": "https://businestech.com",
+      "categories": [
+        "Business",
+        "Education",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 53,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "20 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12748",
+      "website": "www.digiscrapaddicts.com",
+      "website_url": "https://www.digiscrapaddicts.com/",
+      "categories": [
+        "Beauty",
+        "For Women",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 61,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12758",
+      "website": "www.salamancaendirecto.c...",
+      "website_url": "https://salamancaendirecto.com/",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 60,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12760",
+      "website": "www.parthenonsupermarket...",
+      "website_url": "https://www.parthenonsupermarket.com",
+      "categories": [
+        "Business",
+        "E-commerce",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "20 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12877",
+      "website": "www.fandecomix.com",
+      "website_url": "https://www.fandecomix.com/",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 58,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12879",
+      "website": "www.value-design.net",
+      "website_url": "https://value-design.net",
+      "categories": [
+        "Automobiles",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 63,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12912",
+      "website": "www.moleschino.org",
+      "website_url": "https://www.moleschino.org/",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 63,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12916",
+      "website": "www.homemadevaporizers.i...",
+      "website_url": "https://homemadevaporizers.info",
+      "categories": [
+        "Business",
+        "Home and Family",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 56,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12954",
+      "website": "www.zakkamart.net",
+      "website_url": "https://zakkamart.net/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 58,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12956",
+      "website": "www.fashion-forum.org",
+      "website_url": "https://www.fashion-forum.org/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 63,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12957",
+      "website": "www.freecelebritygraphic...",
+      "website_url": "https://www.freecelebritygraphics.com",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 63,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12959",
+      "website": "www.starspage.net",
+      "website_url": "https://www.starspage.net/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 65,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12960",
+      "website": "www.zekov.net",
+      "website_url": "https://www.zekov.net",
+      "categories": [
+        "Automobiles",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12962",
+      "website": "www.imikimi.org",
+      "website_url": "https://imikimi.org/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 64,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12963",
+      "website": "www.trollpage.net",
+      "website_url": "https://trollpage.net/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12967",
+      "website": "www.elifestylefashion.or...",
+      "website_url": "https://elifestylefashion.org/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 65,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12970",
+      "website": "www.lifestyletrendglobal...",
+      "website_url": "https://lifestyletrendglobal.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 60,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12972",
+      "website": "www.trandingfashion.com",
+      "website_url": "https://trandingfashion.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 61,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    },
+    {
+      "website_id": "12973",
+      "website": "www.shoppingthought.com",
+      "website_url": "https://shoppingthought.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Shopping"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 60,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "22 May 2022",
+      "source_page": 1209
+    }
+  ]
+}

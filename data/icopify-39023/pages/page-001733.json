@@ -1,0 +1,503 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1733",
+  "scraped_at": "2026-08-27T14:15:28.140Z",
+  "rows": [
+    {
+      "website_id": "14313",
+      "website": "www.humidgarden.com",
+      "website_url": "https://www.humidgarden.com",
+      "categories": [
+        "Agriculture",
+        "Leisure and Hobbies"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 16,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "19 Jun 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "14627",
+      "website": "www.wpalkane.com",
+      "website_url": "https://wpalkane.com/",
+      "categories": [
+        "Business",
+        "Beauty"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 39,
+      "moz_da": 23,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "25 Jun 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "14780",
+      "website": "www.abcyapi.net",
+      "website_url": "https://abcyapi.net/",
+      "categories": [
+        "Construction and Repairs",
+        "Hardware development",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 56,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "30 Jun 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15071",
+      "website": "www.yourartpages.com",
+      "website_url": "https://yourartpages.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 45,
+      "moz_da": 68,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "07 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15608",
+      "website": "www.theweekendgateway.co...",
+      "website_url": "https://www.theweekendgateway.com/",
+      "categories": [
+        "Food",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 9,
+      "moz_da": 53,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "19 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15725",
+      "website": "www.collagedormparty.co....",
+      "website_url": "https://collagedormparty.co.uk/",
+      "categories": [
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 54,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "21 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15762",
+      "website": "www.dukinsider.com",
+      "website_url": "https://www.dukinsider.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "22 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15882",
+      "website": "www.techchary.com",
+      "website_url": "https://techchary.com/",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 46,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "24 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "15915",
+      "website": "www.liferule34.com",
+      "website_url": "https://liferule34.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 24,
+      "moz_da": 54,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "25 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16220",
+      "website": "www.gizmoconcept.com",
+      "website_url": "https://www.gizmoconcept.com/",
+      "categories": [
+        "General",
+        "Technology",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 62,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "31 Jul 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16302",
+      "website": "www.thepowerofsilence.co",
+      "website_url": "https://thepowerofsilence.co/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 53,
+      "moz_da": 48,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "01 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16357",
+      "website": "www.vzcollective.com",
+      "website_url": "https://vzcollective.com/",
+      "categories": [
+        "Education",
+        "Gadgets",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16358",
+      "website": "www.pocketranger.com",
+      "website_url": "https://www.pocketranger.com/",
+      "categories": [
+        "General",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "02 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16479",
+      "website": "www.heartfulnews.co.uk",
+      "website_url": "https://www.heartfulnews.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16480",
+      "website": "www.ctinews.co.uk",
+      "website_url": "https://ctinews.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16481",
+      "website": "www.clnews.co.uk",
+      "website_url": "https://clnews.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16482",
+      "website": "www.newsmarkpr.co.uk",
+      "website_url": "https://newsmarkpr.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 59,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16484",
+      "website": "www.h4ymedia.co.uk",
+      "website_url": "https://www.h4ymedia.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16486",
+      "website": "www.scv.org.uk",
+      "website_url": "https://scv.org.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16497",
+      "website": "www.activeyounews.co.uk",
+      "website_url": "https://activeyounews.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16498",
+      "website": "www.mycommunitymagazine....",
+      "website_url": "https://mycommunitymagazine.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 57,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16500",
+      "website": "www.mayb2day.co.uk",
+      "website_url": "https://www.mayb2day.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16502",
+      "website": "www.pioneernewslimited.c...",
+      "website_url": "https://pioneernewslimited.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16503",
+      "website": "www.newsukmcd.co.uk",
+      "website_url": "https://newsukmcd.co.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 59,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    },
+    {
+      "website_id": "16504",
+      "website": "www.mapping.org.uk",
+      "website_url": "https://mapping.org.uk/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 60,
+      "language": "English",
+      "price": 399.6,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "03 Aug 2022",
+      "source_page": 1733
+    }
+  ]
+}

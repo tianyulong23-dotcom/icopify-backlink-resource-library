@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=348",
+  "scraped_at": "2026-08-27T13:50:31.332Z",
+  "rows": [
+    {
+      "website_id": "2585",
+      "website": "www.momdoesreviews.com",
+      "website_url": "https://www.momdoesreviews.com/",
+      "categories": [
+        "Business",
+        "Food",
+        "Places"
+      ],
+      "monthly_traffic": 21818,
+      "ahrefs_dr": 54,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1218.78,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "25 Sep 2021",
+      "source_page": 348
+    },
+    {
+      "website_id": "57747",
+      "website": "www.arablocal.com",
+      "website_url": "http://arablocal.com/",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 79365,
+      "ahrefs_dr": 37,
+      "moz_da": 53,
+      "language": "English",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "30 Jul 2024",
+      "source_page": 348
+    },
+    {
+      "website_id": "65495",
+      "website": "www.magazynkobiet.pl",
+      "website_url": "https://magazynkobiet.pl/",
+      "categories": [
+        "Culture",
+        "Fashion",
+        "News and Media"
+      ],
+      "monthly_traffic": 2966,
+      "ahrefs_dr": 38,
+      "moz_da": 33,
+      "language": "Polish",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "09 Nov 2024",
+      "source_page": 348
+    },
+    {
+      "website_id": "43507",
+      "website": "www.tecnoempresa.mx",
+      "website_url": "https://tecnoempresa.mx",
+      "categories": [
+        "Games",
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 13601,
+      "ahrefs_dr": 38,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "26 Sep 2023",
+      "source_page": 348
+    },
+    {
+      "website_id": "77080",
+      "website": "www.ricci-art.net",
+      "website_url": "https://ricci-art.net",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Marketing"
+      ],
+      "monthly_traffic": 1269,
+      "ahrefs_dr": 32,
+      "moz_da": 30,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77092",
+      "website": "www.francemedicale.net",
+      "website_url": "https://francemedicale.net",
+      "categories": [
+        "For Women",
+        "Health"
+      ],
+      "monthly_traffic": 2459,
+      "ahrefs_dr": 37,
+      "moz_da": 19,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77095",
+      "website": "www.rennes-blog.org",
+      "website_url": "https://rennes-blog.org",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 3520,
+      "ahrefs_dr": 34,
+      "moz_da": 32,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77125",
+      "website": "www.ecovoyages.net",
+      "website_url": "https://ecovoyages.net",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1213,
+      "ahrefs_dr": 36,
+      "moz_da": 26,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77126",
+      "website": "www.monsieursimon.fr",
+      "website_url": "https://monsieursimon.fr",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1740,
+      "ahrefs_dr": 34,
+      "moz_da": 30,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77130",
+      "website": "www.mitxdesigntech.org",
+      "website_url": "https://mitxdesigntech.org",
+      "categories": [
+        "Computers",
+        "Gadgets",
+        "Marketing"
+      ],
+      "monthly_traffic": 1012,
+      "ahrefs_dr": 29,
+      "moz_da": 23,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77131",
+      "website": "www.pole-immo.fr",
+      "website_url": "https://pole-immo.fr",
+      "categories": [
+        "Finance",
+        "Real Estate",
+        "Other"
+      ],
+      "monthly_traffic": 3853,
+      "ahrefs_dr": 37,
+      "moz_da": 22,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77132",
+      "website": "www.club-voyageur.fr",
+      "website_url": "https://club-voyageur.fr",
+      "categories": [
+        "Travelling",
+        "Transport"
+      ],
+      "monthly_traffic": 1487,
+      "ahrefs_dr": 37,
+      "moz_da": 23,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77136",
+      "website": "www.jeunesvoyageurs.com",
+      "website_url": "https://jeunesvoyageurs.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1472,
+      "ahrefs_dr": 37,
+      "moz_da": 25,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77139",
+      "website": "www.retbutiko.net",
+      "website_url": "https://retbutiko.net",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1230,
+      "ahrefs_dr": 35,
+      "moz_da": 24,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77141",
+      "website": "www.vacanceo.net",
+      "website_url": "https://vacanceo.net",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1721,
+      "ahrefs_dr": 28,
+      "moz_da": 24,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77142",
+      "website": "www.natureetmateriaux.fr",
+      "website_url": "https://natureetmateriaux.fr",
+      "categories": [
+        "Gadgets",
+        "Real Estate",
+        "Other"
+      ],
+      "monthly_traffic": 6728,
+      "ahrefs_dr": 33,
+      "moz_da": 23,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77145",
+      "website": "www.azamivoyage.com",
+      "website_url": "https://azamivoyage.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1735,
+      "ahrefs_dr": 36,
+      "moz_da": 22,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77147",
+      "website": "www.dededanssonjardin.co...",
+      "website_url": "https://dededanssonjardin.com",
+      "categories": [
+        "Agriculture",
+        "Environment",
+        "Other"
+      ],
+      "monthly_traffic": 6236,
+      "ahrefs_dr": 31,
+      "moz_da": 21,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77148",
+      "website": "www.mes-petites-annonces...",
+      "website_url": "https://mes-petites-annonces.org",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1029,
+      "ahrefs_dr": 30,
+      "moz_da": 26,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77149",
+      "website": "www.direct-home.net",
+      "website_url": "https://direct-home.net",
+      "categories": [
+        "Gadgets",
+        "Real Estate",
+        "Other"
+      ],
+      "monthly_traffic": 1217,
+      "ahrefs_dr": 30,
+      "moz_da": 21,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77150",
+      "website": "www.quali-mode.fr",
+      "website_url": "https://quali-mode.fr",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1203,
+      "ahrefs_dr": 31,
+      "moz_da": 22,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "28 Apr 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77347",
+      "website": "www.spotcrea.fr",
+      "website_url": "https://spotcrea.fr",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 5986,
+      "ahrefs_dr": 31,
+      "moz_da": 29,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77348",
+      "website": "www.santequotidienne.com",
+      "website_url": "https://santequotidienne.com",
+      "categories": [
+        "For Women",
+        "Health"
+      ],
+      "monthly_traffic": 2120,
+      "ahrefs_dr": 36,
+      "moz_da": 26,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77349",
+      "website": "www.businessinfo.fr",
+      "website_url": "https://businessinfo.fr",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 3371,
+      "ahrefs_dr": 38,
+      "moz_da": 22,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 348
+    },
+    {
+      "website_id": "77350",
+      "website": "www.hucky.org",
+      "website_url": "https://hucky.org",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 3440,
+      "ahrefs_dr": 36,
+      "moz_da": 22,
+      "language": "French",
+      "price": 1228.77,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "01 May 2025",
+      "source_page": 348
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=573",
+  "scraped_at": "2026-08-27T13:54:31.293Z",
+  "rows": [
+    {
+      "website_id": "100541",
+      "website": "www.mulletuomo.it",
+      "website_url": "https://mulletuomo.it/",
+      "categories": [
+        "Beauty",
+        "Fashion",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 2252,
+      "ahrefs_dr": 55,
+      "moz_da": 46,
+      "language": "Italian",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "23 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100669",
+      "website": "www.eemskrant.nl",
+      "website_url": "https://www.eemskrant.nl/",
+      "categories": [
+        "News and Media",
+        "Politics",
+        "Sports"
+      ],
+      "monthly_traffic": 118247,
+      "ahrefs_dr": 54,
+      "moz_da": 36,
+      "language": "Dutch",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "27 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100749",
+      "website": "www.easygraders.com",
+      "website_url": "https://easygraders.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 4826,
+      "ahrefs_dr": 55,
+      "moz_da": 44,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100935",
+      "website": "www.digitalitnews.com",
+      "website_url": "https://digitalitnews.com/",
+      "categories": [
+        "News and Media",
+        "Science",
+        "Technology"
+      ],
+      "monthly_traffic": 7924,
+      "ahrefs_dr": 56,
+      "moz_da": 56,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "06 Jul 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "101033",
+      "website": "www.heavydutyjournal.com",
+      "website_url": "https://heavydutyjournal.com",
+      "categories": [
+        "Automobiles",
+        "Business",
+        "Transport"
+      ],
+      "monthly_traffic": 6166,
+      "ahrefs_dr": 37,
+      "moz_da": 26,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "16 Jul 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "101941",
+      "website": "www.pixflow.net",
+      "website_url": "https://pixflow.net/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 209097,
+      "ahrefs_dr": 77,
+      "moz_da": 49,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "18 Aug 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "101971",
+      "website": "www.collive.com",
+      "website_url": "https://collive.com",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 2978735,
+      "ahrefs_dr": 65,
+      "moz_da": 55,
+      "language": "English",
+      "price": 1498.5,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "24 Aug 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "99329",
+      "website": "www.urwatools.com",
+      "website_url": "https://www.urwatools.com/",
+      "categories": [
+        "Software development",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 253499,
+      "ahrefs_dr": 39,
+      "moz_da": 20,
+      "language": "English",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "7 days",
+      "added_on": "07 May 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100508",
+      "website": "www.leukvoormannen.nl",
+      "website_url": "https://leukvoormannen.nl/",
+      "categories": [
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1647,
+      "ahrefs_dr": 34,
+      "moz_da": 37,
+      "language": "Dutch",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "23 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100514",
+      "website": "www.camperlust.nl",
+      "website_url": "https://camperlust.nl/",
+      "categories": [
+        "Automobiles",
+        "Travelling"
+      ],
+      "monthly_traffic": 2096,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "Dutch",
+      "price": 1548.45,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "23 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "94313",
+      "website": "www.portraitreportage.de",
+      "website_url": "https://www.portraitreportage.de/",
+      "categories": [
+        "Photography"
+      ],
+      "monthly_traffic": 2544,
+      "ahrefs_dr": 28,
+      "moz_da": 24,
+      "language": "German",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "30 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "96580",
+      "website": "www.ukrmedia.com.ua",
+      "website_url": "https://ukrmedia.com.ua",
+      "categories": [
+        "Business",
+        "Finance",
+        "Technology"
+      ],
+      "monthly_traffic": 3833,
+      "ahrefs_dr": 72,
+      "moz_da": 41,
+      "language": "Ukrainian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "18 Apr 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100117",
+      "website": "www.notltd.co.uk",
+      "website_url": "https://notltd.co.uk/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Other"
+      ],
+      "monthly_traffic": 1801,
+      "ahrefs_dr": 71,
+      "moz_da": 44,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "02 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "100537",
+      "website": "www.projectmanagertempla...",
+      "website_url": "https://www.projectmanagertemplate.com",
+      "categories": [
+        "Programming",
+        "Software development",
+        "Technology"
+      ],
+      "monthly_traffic": 103354,
+      "ahrefs_dr": 38,
+      "moz_da": 33,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "23 Jun 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "92674",
+      "website": "www.copenhagenfashionsum...",
+      "website_url": "http://copenhagenfashionsummit.com/",
+      "categories": [
+        "Beauty",
+        "Culture",
+        "Fashion"
+      ],
+      "monthly_traffic": 39440,
+      "ahrefs_dr": 62,
+      "moz_da": 62,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "10 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "97299",
+      "website": "www.wploginlockdown.com",
+      "website_url": "https://wploginlockdown.com/",
+      "categories": [
+        "Software development",
+        "Technology",
+        "Web-development"
+      ],
+      "monthly_traffic": 16474,
+      "ahrefs_dr": 65,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "23 Apr 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "98531",
+      "website": "www.ilanzarote.net",
+      "website_url": "https://www.ilanzarote.net/",
+      "categories": [
+        "General",
+        "Internet",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 2229,
+      "ahrefs_dr": 21,
+      "moz_da": 28,
+      "language": "Spanish",
+      "price": 1668.33,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "01 May 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "94164",
+      "website": "www.repairedhomes.com",
+      "website_url": "https://repairedhomes.com/",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 2412,
+      "ahrefs_dr": 51,
+      "moz_da": 57,
+      "language": "English",
+      "price": 1688.31,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "98102",
+      "website": "www.solidarauto49.fr",
+      "website_url": "http://solidarauto49.fr/",
+      "categories": [
+        "Automobiles",
+        "Other"
+      ],
+      "monthly_traffic": 2624,
+      "ahrefs_dr": 28,
+      "moz_da": 28,
+      "language": "French",
+      "price": 1698.3,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "92986",
+      "website": "www.kanerika.com",
+      "website_url": "https://kanerika.com",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 96480,
+      "ahrefs_dr": 62,
+      "moz_da": 36,
+      "language": "English",
+      "price": 1778.22,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "13 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "92570",
+      "website": "www.softwarecurio.com",
+      "website_url": "https://www.softwarecurio.com/",
+      "categories": [
+        "Mobile"
+      ],
+      "monthly_traffic": 6618,
+      "ahrefs_dr": 72,
+      "moz_da": 59,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "07 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "94368",
+      "website": "www.serbianmonitor.com",
+      "website_url": "https://www.serbianmonitor.com/en",
+      "categories": [
+        "Games",
+        "Leisure and Hobbies",
+        "Marketing"
+      ],
+      "monthly_traffic": 28020,
+      "ahrefs_dr": 47,
+      "moz_da": 48,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "30 Mar 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "94510",
+      "website": "www.gomage.com",
+      "website_url": "https://www.gomage.com/blog/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 25711,
+      "ahrefs_dr": 54,
+      "moz_da": 40,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "01 Apr 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "98111",
+      "website": "www.uniclima.org",
+      "website_url": "http://uniclima.org/",
+      "categories": [
+        "Technology",
+        "Other"
+      ],
+      "monthly_traffic": 2428,
+      "ahrefs_dr": 29,
+      "moz_da": 42,
+      "language": "French",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "29 Apr 2026",
+      "source_page": 573
+    },
+    {
+      "website_id": "101960",
+      "website": "www.khaki-coyote.staticd...",
+      "website_url": "https://khaki-coyote.staticdomains.app",
+      "categories": [
+        "Marketing",
+        "Business",
+        "Technology"
+      ],
+      "monthly_traffic": 184000,
+      "ahrefs_dr": 61,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1798.2,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "23 Aug 2026",
+      "source_page": 573
+    }
+  ]
+}

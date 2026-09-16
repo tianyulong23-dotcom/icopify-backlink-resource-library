@@ -1,0 +1,512 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1786",
+  "scraped_at": "2026-08-27T14:16:27.448Z",
+  "rows": [
+    {
+      "website_id": "8610",
+      "website": "www.amedpost.com",
+      "website_url": "https://www.amedpost.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 35,
+      "language": "English",
+      "price": 579.42,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "1871",
+      "website": "www.nvsp.co.in",
+      "website_url": "https://www.nvsp.co.in/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 56,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "20 Sep 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "2781",
+      "website": "www.limitlessreferrals.i...",
+      "website_url": "https://www.limitlessreferrals.info/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 63,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "2784",
+      "website": "www.rigorfitness.com",
+      "website_url": "https://www.rigorfitness.com/",
+      "categories": [
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 64,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "3449",
+      "website": "www.techokie.com",
+      "website_url": "https://www.techokie.com/",
+      "categories": [
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 58,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "05 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4188",
+      "website": "www.arleseyfc.co.uk",
+      "website_url": "https://www.arleseyfc.co.uk",
+      "categories": [
+        "General",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 59,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4198",
+      "website": "www.yourdocmedical.co.uk",
+      "website_url": "https://www.yourdocmedical.co.uk",
+      "categories": [
+        "General",
+        "Health",
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 12,
+      "moz_da": 36,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4200",
+      "website": "www.farmdesigns.co.uk",
+      "website_url": "https://www.farmdesigns.co.uk",
+      "categories": [
+        "Construction and Repairs",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 10,
+      "moz_da": 31,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4202",
+      "website": "www.thetvlounge.co.uk",
+      "website_url": "https://www.thetvlounge.co.uk",
+      "categories": [
+        "Construction and Repairs",
+        "General",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 57,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4204",
+      "website": "www.insurancefacts.co.uk",
+      "website_url": "https://www.insurancefacts.co.uk",
+      "categories": [
+        "Finance",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 59,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4208",
+      "website": "www.kiosk78.co.uk",
+      "website_url": "https://www.kiosk78.co.uk",
+      "categories": [
+        "For Men",
+        "For Women",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 62,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4212",
+      "website": "www.detroit-electric.co....",
+      "website_url": "https://www.detroit-electric.co.uk",
+      "categories": [
+        "General",
+        "Software development",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 57,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "11 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "4781",
+      "website": "www.booktree.ng",
+      "website_url": "https://www.booktree.ng/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 44,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "5048",
+      "website": "www.penarwyn.co.uk",
+      "website_url": "https://www.penarwyn.co.uk/",
+      "categories": [
+        "Business",
+        "Sports",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 65,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "5049",
+      "website": "www.traveluzion.co.uk",
+      "website_url": "https://www.traveluzion.co.uk/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 64,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "5053",
+      "website": "www.airhuarache.co.uk",
+      "website_url": "https://www.airhuarache.co.uk/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 64,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "5054",
+      "website": "www.karenmillen.me.uk",
+      "website_url": "https://www.karenmillen.me.uk/",
+      "categories": [
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 65,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "23 Oct 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "6371",
+      "website": "www.itsgettinghotinhere....",
+      "website_url": "https://www.itsgettinghotinhere.org",
+      "categories": [
+        "Environment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 51,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "08 Nov 2021",
+      "source_page": 1786
+    },
+    {
+      "website_id": "8371",
+      "website": "www.usesinhindi.com",
+      "website_url": "https://www.usesinhindi.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 59,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "13 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "8689",
+      "website": "www.inkedwit.com",
+      "website_url": "https://inkedwit.com",
+      "categories": [
+        "Business",
+        "Education",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 56,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "8692",
+      "website": "www.guessingforum.com",
+      "website_url": "https://guessingforum.com",
+      "categories": [
+        "Education",
+        "Games",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 61,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "8694",
+      "website": "www.petstown.in",
+      "website_url": "https://petstown.in",
+      "categories": [
+        "Finance",
+        "Games",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 19,
+      "moz_da": 63,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "8695",
+      "website": "www.wartmaansoch.com",
+      "website_url": "https://www.wartmaansoch.com",
+      "categories": [
+        "Education",
+        "Society",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 59,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "18 Jan 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "9383",
+      "website": "www.besteducationjobs.co...",
+      "website_url": "https://besteducationjobs.co.uk/",
+      "categories": [
+        "Business",
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 63,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "24 Feb 2022",
+      "source_page": 1786
+    },
+    {
+      "website_id": "9385",
+      "website": "www.virtual-business.co....",
+      "website_url": "https://virtual-business.co.uk/",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 63,
+      "language": "English",
+      "price": 589.41,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Feb 2022",
+      "source_page": 1786
+    }
+  ]
+}

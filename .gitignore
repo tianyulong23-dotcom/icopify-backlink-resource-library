@@ -1,0 +1,14 @@
+.playwright/
+.playwright-cli/
+node_modules/
+__pycache__/
+*.pyc
+output/
+.env
+.env.*
+!.env.example
+*.log
+data/**/*.bak
+data/**/*.sqlite-wal
+data/**/*.sqlite-shm
+data/**/summary.before-*.json

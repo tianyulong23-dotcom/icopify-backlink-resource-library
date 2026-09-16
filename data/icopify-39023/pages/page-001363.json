@@ -1,0 +1,509 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1363",
+  "scraped_at": "2026-08-27T14:08:36.272Z",
+  "rows": [
+    {
+      "website_id": "55168",
+      "website": "www.allbusinessidea.com",
+      "website_url": "https://allbusinessidea.com",
+      "categories": [
+        "Business",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "2 days",
+      "added_on": "11 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55191",
+      "website": "www.megapersonal.pro",
+      "website_url": "https://megapersonal.pro",
+      "categories": [
+        "Fashion",
+        "Finance",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 50,
+      "moz_da": 41,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "11 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55242",
+      "website": "www.educump.com",
+      "website_url": "https://educump.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55255",
+      "website": "www.etutoringhelp.com",
+      "website_url": "https://etutoringhelp.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55258",
+      "website": "www.learntomore.com",
+      "website_url": "https://learntomore.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55260",
+      "website": "www.practiceducation.com",
+      "website_url": "https://practiceducation.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55261",
+      "website": "www.huntingtonlearn.com",
+      "website_url": "https://huntingtonlearn.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55263",
+      "website": "www.learnwithsj.com",
+      "website_url": "https://learnwithsj.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55265",
+      "website": "www.ylearner.com",
+      "website_url": "https://ylearner.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55266",
+      "website": "www.theedusun.com",
+      "website_url": "https://theedusun.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55267",
+      "website": "www.thestudyspaces.com",
+      "website_url": "https://www.thestudyspaces.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55268",
+      "website": "www.undolearning.com",
+      "website_url": "https://undolearning.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55269",
+      "website": "www.showthislearning.com",
+      "website_url": "https://showthislearning.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55270",
+      "website": "www.mpsstudy.com",
+      "website_url": "https://mpsstudy.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55271",
+      "website": "www.learnschooling.com",
+      "website_url": "https://learnschooling.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55272",
+      "website": "www.bestlearnzone.com",
+      "website_url": "https://bestlearnzone.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55273",
+      "website": "www.tbleducation.com",
+      "website_url": "https://tbleducation.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55274",
+      "website": "www.ayostudy.com",
+      "website_url": "https://ayostudy.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 35,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55275",
+      "website": "www.educationredone.com",
+      "website_url": "https://educationredone.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55276",
+      "website": "www.enereducation.com",
+      "website_url": "https://www.enereducation.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55278",
+      "website": "www.learningwaze.com",
+      "website_url": "https://learningwaze.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55279",
+      "website": "www.theperfectedu.com",
+      "website_url": "https://theperfectedu.com",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55280",
+      "website": "www.thelearningcorners.c...",
+      "website_url": "https://thelearningcorners.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55281",
+      "website": "www.citycollegeguide.com",
+      "website_url": "https://citycollegeguide.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    },
+    {
+      "website_id": "55282",
+      "website": "www.educateadda.com",
+      "website_url": "https://educateadda.com/",
+      "categories": [
+        "Education",
+        "Programming"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 33,
+      "moz_da": 53,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jun 2024",
+      "source_page": 1363
+    }
+  ]
+}

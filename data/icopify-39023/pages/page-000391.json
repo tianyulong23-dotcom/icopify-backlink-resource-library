@@ -1,0 +1,514 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=391",
+  "scraped_at": "2026-08-27T13:51:20.301Z",
+  "rows": [
+    {
+      "website_id": "76753",
+      "website": "www.comisarul.ro",
+      "website_url": "https://comisarul.ro/",
+      "categories": [
+        "News and Media",
+        "Politics",
+        "Sports"
+      ],
+      "monthly_traffic": 836618,
+      "ahrefs_dr": 37,
+      "moz_da": 40,
+      "language": "Romanian",
+      "price": 1728.27,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "25 Apr 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "63279",
+      "website": "www.charitynewsdesk.co.u...",
+      "website_url": "https://charitynewsdesk.co.uk",
+      "categories": [
+        "Entertainment",
+        "Fashion",
+        "Technology"
+      ],
+      "monthly_traffic": 1571,
+      "ahrefs_dr": 21,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1728.27,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "10 Oct 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "63280",
+      "website": "www.dailybusinessnow.com",
+      "website_url": "https://dailybusinessnow.com",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Home and Family"
+      ],
+      "monthly_traffic": 2604,
+      "ahrefs_dr": 29,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1728.27,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "8 days",
+      "added_on": "10 Oct 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "57170",
+      "website": "www.punjabitribuneonline...",
+      "website_url": "https://www.punjabitribuneonline.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 93795,
+      "ahrefs_dr": 46,
+      "moz_da": 29,
+      "language": "Other",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "NoFollow",
+      "turnaround": "6 days",
+      "added_on": "18 Jul 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "61327",
+      "website": "www.sobusygirls.fr",
+      "website_url": "https://sobusygirls.fr/",
+      "categories": [
+        "Beauty"
+      ],
+      "monthly_traffic": 232214,
+      "ahrefs_dr": 48,
+      "moz_da": 71,
+      "language": "English",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "19 Sep 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "38675",
+      "website": "www.caranalytics.co.uk",
+      "website_url": "https://www.caranalytics.co.uk",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 26613,
+      "ahrefs_dr": 43,
+      "moz_da": 32,
+      "language": "English",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "01 Jul 2023",
+      "source_page": 391
+    },
+    {
+      "website_id": "79112",
+      "website": "www.techblad.no",
+      "website_url": "https://techblad.no",
+      "categories": [
+        "Computers",
+        "Fashion",
+        "Gadgets"
+      ],
+      "monthly_traffic": 2588,
+      "ahrefs_dr": 46,
+      "moz_da": 57,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79113",
+      "website": "www.datasonen.no",
+      "website_url": "https://datasonen.no",
+      "categories": [
+        "Gadgets",
+        "Software development"
+      ],
+      "monthly_traffic": 1307,
+      "ahrefs_dr": 43,
+      "moz_da": 58,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79114",
+      "website": "www.industribladet.no",
+      "website_url": "https://industribladet.no",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Manufacturing"
+      ],
+      "monthly_traffic": 1075,
+      "ahrefs_dr": 58,
+      "moz_da": 57,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79115",
+      "website": "www.bedriftsguide.no",
+      "website_url": "https://bedriftsguide.no",
+      "categories": [
+        "Business",
+        "Health",
+        "Manufacturing"
+      ],
+      "monthly_traffic": 1265,
+      "ahrefs_dr": 43,
+      "moz_da": 56,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79116",
+      "website": "www.finansfif.no",
+      "website_url": "https://finansfif.no",
+      "categories": [
+        "Business",
+        "Manufacturing",
+        "Other"
+      ],
+      "monthly_traffic": 1340,
+      "ahrefs_dr": 55,
+      "moz_da": 55,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79118",
+      "website": "www.firmasiden.no",
+      "website_url": "https://firmasiden.no",
+      "categories": [
+        "Business",
+        "Finance"
+      ],
+      "monthly_traffic": 2113,
+      "ahrefs_dr": 46,
+      "moz_da": 56,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79119",
+      "website": "www.herreforum.no",
+      "website_url": "https://herreforum.no",
+      "categories": [
+        "Business",
+        "Gadgets",
+        "Health"
+      ],
+      "monthly_traffic": 3479,
+      "ahrefs_dr": 43,
+      "moz_da": 59,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79120",
+      "website": "www.finanstid.no",
+      "website_url": "https://finanstid.no",
+      "categories": [
+        "Business",
+        "Finance",
+        "Gadgets"
+      ],
+      "monthly_traffic": 1791,
+      "ahrefs_dr": 56,
+      "moz_da": 55,
+      "language": "Norwegian",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "16 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "88540",
+      "website": "www.tente-aventure.com",
+      "website_url": "https://tente-aventure.com",
+      "categories": [
+        "Environment",
+        "Leisure and Hobbies",
+        "Travelling"
+      ],
+      "monthly_traffic": 3477,
+      "ahrefs_dr": 36,
+      "moz_da": 20,
+      "language": "French",
+      "price": 1738.26,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "29 Oct 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "78758",
+      "website": "www.iseekplant.com.au",
+      "website_url": "https://blog.iseekplant.com.au",
+      "categories": [
+        "Business",
+        "Construction and Repairs",
+        "Equipment"
+      ],
+      "monthly_traffic": 38267,
+      "ahrefs_dr": 74,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "13 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "79790",
+      "website": "www.loveyouwedding.com",
+      "website_url": "https://loveyouwedding.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 23075,
+      "ahrefs_dr": 28,
+      "moz_da": 37,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "23 May 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "86390",
+      "website": "www.mrbienetre.fr",
+      "website_url": "https://mrbienetre.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 5408,
+      "ahrefs_dr": 29,
+      "moz_da": 21,
+      "language": "French",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "26 Sep 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "87100",
+      "website": "www.mydebtepiphany.com",
+      "website_url": "https://mydebtepiphany.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 9209,
+      "ahrefs_dr": 33,
+      "moz_da": 36,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "08 Oct 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "87391",
+      "website": "www.eglobalcentral.fr",
+      "website_url": "http://eglobalcentral.fr/",
+      "categories": [
+        "Art",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1079,
+      "ahrefs_dr": 35,
+      "moz_da": 39,
+      "language": "French",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Oct 2025",
+      "source_page": 391
+    },
+    {
+      "website_id": "61108",
+      "website": "www.folhadealphaville.co...",
+      "website_url": "https://www.folhadealphaville.com.br",
+      "categories": [
+        "Education",
+        "Entertainment",
+        "Leisure and Hobbies"
+      ],
+      "monthly_traffic": 122413,
+      "ahrefs_dr": 36,
+      "moz_da": 38,
+      "language": "Portuguese",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "15 Sep 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "61584",
+      "website": "www.elegantwedding.ca",
+      "website_url": "https://elegantwedding.ca",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 14862,
+      "ahrefs_dr": 62,
+      "moz_da": 35,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "25 Sep 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "63052",
+      "website": "www.coachfore.org",
+      "website_url": "http://coachfore.org",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 7882,
+      "ahrefs_dr": 34,
+      "moz_da": 40,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "06 Oct 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "66826",
+      "website": "www.agenciasertao.com",
+      "website_url": "https://www.agenciasertao.com",
+      "categories": [
+        "Finance",
+        "News and Media",
+        "Politics"
+      ],
+      "monthly_traffic": 179411,
+      "ahrefs_dr": 39,
+      "moz_da": 41,
+      "language": "Portuguese",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "25 Nov 2024",
+      "source_page": 391
+    },
+    {
+      "website_id": "46724",
+      "website": "www.gamelevate.com",
+      "website_url": "http://gamelevate.com",
+      "categories": [
+        "Games"
+      ],
+      "monthly_traffic": 55746,
+      "ahrefs_dr": 71,
+      "moz_da": 32,
+      "language": "English",
+      "price": 1748.25,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "06 Dec 2023",
+      "source_page": 391
+    }
+  ]
+}

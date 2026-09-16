@@ -1,0 +1,502 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1200",
+  "scraped_at": "2026-08-27T14:05:44.941Z",
+  "rows": [
+    {
+      "website_id": "24408",
+      "website": "www.newslookups.com",
+      "website_url": "http://newslookups.com",
+      "categories": [
+        "Business",
+        "Beauty",
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "24409",
+      "website": "www.megaupload.info",
+      "website_url": "http://megaupload.info",
+      "categories": [
+        "Business",
+        "General",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 56,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "16 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "24410",
+      "website": "www.isaimini.info",
+      "website_url": "http://isaimini.info/",
+      "categories": [
+        "Business",
+        "General",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 56,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "16 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25103",
+      "website": "www.homerenovationsideas...",
+      "website_url": "https://homerenovationsideas.com",
+      "categories": [
+        "Home and Family",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "23 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25221",
+      "website": "www.f95forum.com",
+      "website_url": "http://f95forum.com/",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 58,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "24 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25291",
+      "website": "www.automobilestimes.com",
+      "website_url": "https://automobilestimes.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 61,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25292",
+      "website": "www.autocareinfo.com",
+      "website_url": "https://autocareinfo.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 58,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25303",
+      "website": "www.travelfindar.com",
+      "website_url": "https://travelfindar.com",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 61,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25308",
+      "website": "www.collegeseducation.co...",
+      "website_url": "https://collegeseducation.com",
+      "categories": [
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 56,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25511",
+      "website": "www.amny.info",
+      "website_url": "http://amny.info",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 43,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Dec 2022",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25821",
+      "website": "www.healthyslife.com",
+      "website_url": "https://healthyslife.com/",
+      "categories": [
+        "Beauty",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 51,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "02 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25978",
+      "website": "www.electricmotorsnews.c...",
+      "website_url": "https://electricmotorsnews.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 55,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25979",
+      "website": "www.electricautosnews.co...",
+      "website_url": "https://electricautosnews.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 11,
+      "moz_da": 61,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25982",
+      "website": "www.ecautomobiles.com",
+      "website_url": "https://ecautomobiles.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25984",
+      "website": "www.automotiveengg.com",
+      "website_url": "https://automotiveengg.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 62,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25986",
+      "website": "www.automobilesgeek.com",
+      "website_url": "https://automobilesgeek.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 62,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "25987",
+      "website": "www.automobilenewz.com",
+      "website_url": "https://automobilenewz.com",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 6,
+      "moz_da": 60,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "04 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26158",
+      "website": "www.scarmedia.net",
+      "website_url": "http://scarmedia.net/",
+      "categories": [
+        "Automobiles"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 65,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "06 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26282",
+      "website": "www.triboz-rio.com",
+      "website_url": "https://triboz-rio.com/",
+      "categories": [
+        "Business",
+        "Beauty",
+        "Entertainment"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 8,
+      "moz_da": 54,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "08 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26844",
+      "website": "www.webtoonxyz.me",
+      "website_url": "http://webtoonxyz.me",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Real Estate"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "12 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26854",
+      "website": "www.coinlet.io",
+      "website_url": "http://coinlet.io",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 23,
+      "moz_da": 41,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26856",
+      "website": "www.mixx.la",
+      "website_url": "http://mixx.la/",
+      "categories": [
+        "Business",
+        "Lifestyle",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 39,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26857",
+      "website": "www.xfire.tv",
+      "website_url": "http://xfire.tv/",
+      "categories": [
+        "Business",
+        "Technology",
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 41,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "26868",
+      "website": "www.europixhdpro.com",
+      "website_url": "https://europixhdpro.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "12 Jan 2023",
+      "source_page": 1200
+    },
+    {
+      "website_id": "27244",
+      "website": "www.toyroomstore.com",
+      "website_url": "http://toyroomstore.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 17,
+      "moz_da": 57,
+      "language": "English",
+      "price": 59.94,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Jan 2023",
+      "source_page": 1200
+    }
+  ]
+}

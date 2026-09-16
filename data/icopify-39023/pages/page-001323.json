@@ -1,0 +1,500 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1323",
+  "scraped_at": "2026-08-27T14:07:56.240Z",
+  "rows": [
+    {
+      "website_id": "61198",
+      "website": "www.chillwithkira.com",
+      "website_url": "https://chillwithkira.com/",
+      "categories": [
+        "Business",
+        "Environment",
+        "Health"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61199",
+      "website": "www.toursntime.com",
+      "website_url": "https://toursntime.com/",
+      "categories": [
+        "Business",
+        "Fashion",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61202",
+      "website": "www.magsea.com",
+      "website_url": "http://magsea.com",
+      "categories": [
+        "Art",
+        "Career and Employment",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 7,
+      "moz_da": 34,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61220",
+      "website": "www.thefuturedreams.co.u...",
+      "website_url": "https://thefuturedreams.co.uk",
+      "categories": [
+        "Business",
+        "Education",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 31,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "17 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61294",
+      "website": "www.joinliftad.com",
+      "website_url": "https://joinliftad.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 37,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "18 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61304",
+      "website": "www.tobreakingnews.com",
+      "website_url": "https://tobreakingnews.com/",
+      "categories": [
+        "News and Media"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 54,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61335",
+      "website": "www.stormwill.com",
+      "website_url": "https://stormwill.com/",
+      "categories": [
+        "Business",
+        "Entertainment",
+        "Fashion"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 34,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "19 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61432",
+      "website": "www.ventsnachricht.de",
+      "website_url": "https://ventsnachricht.de/",
+      "categories": [
+        "General",
+        "All Niches",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 40,
+      "moz_da": 31,
+      "language": "German",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61436",
+      "website": "www.programiz.com.in",
+      "website_url": "https://programiz.com.in",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 0,
+      "moz_da": 3,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61440",
+      "website": "www.u7networks.com",
+      "website_url": "https://u7networks.com",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 61,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61519",
+      "website": "www.themagzine.co.uk",
+      "website_url": "https://themagzine.co.uk/",
+      "categories": [
+        "Business",
+        "Health",
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 34,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "23 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61564",
+      "website": "www.wonbin-thailand.com",
+      "website_url": "https://www.wonbin-thailand.com/",
+      "categories": [
+        "Travelling"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61576",
+      "website": "www.globalnewsupdate.net",
+      "website_url": "https://globalnewsupdate.net/",
+      "categories": [
+        "Sports"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 47,
+      "moz_da": 30,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "25 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61630",
+      "website": "www.inforisticblog.net",
+      "website_url": "https://www.inforisticblog.net/",
+      "categories": [
+        "Agriculture",
+        "Automobiles",
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 3,
+      "moz_da": 1,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "26 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61654",
+      "website": "www.zvideo.uk",
+      "website_url": "https://zvideo.uk/",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 4,
+      "moz_da": 35,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "26 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61756",
+      "website": "www.badagrymotorworld.co...",
+      "website_url": "https://badagrymotorworld.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61776",
+      "website": "www.fullcourtsports.net",
+      "website_url": "https://fullcourtsports.net",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 55,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61778",
+      "website": "www.knowledgebase-ph.com",
+      "website_url": "https://knowledgebase-ph.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 56,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61799",
+      "website": "www.paco-magic.com",
+      "website_url": "https://paco-magic.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 21,
+      "moz_da": 36,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61800",
+      "website": "www.ksb-news.com",
+      "website_url": "https://ksb-news.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 58,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61802",
+      "website": "www.healthfullife.co.uk",
+      "website_url": "https://healthfullife.co.uk",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61803",
+      "website": "www.criminaldefensevermo...",
+      "website_url": "https://criminaldefensevermont.com",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61804",
+      "website": "www.vadersports.co.uk",
+      "website_url": "https://vadersports.co.uk",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 57,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61806",
+      "website": "www.elegantinternational...",
+      "website_url": "https://elegantinternational.co.uk",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 63,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    },
+    {
+      "website_id": "61807",
+      "website": "www.burberrybagsuk.co.uk",
+      "website_url": "https://burberrybagsuk.co.uk",
+      "categories": [
+        "Business"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 27,
+      "moz_da": 67,
+      "language": "English",
+      "price": 99.9,
+      "currency": "$",
+      "max_links": 3,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "27 Sep 2024",
+      "source_page": 1323
+    }
+  ]
+}

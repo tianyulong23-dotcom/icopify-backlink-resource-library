@@ -1,0 +1,507 @@
+{
+  "project_id": "39023",
+  "source_url": "https://icopify.co/project/39023/publishers?page=1880",
+  "scraped_at": "2026-08-27T14:18:11.815Z",
+  "rows": [
+    {
+      "website_id": "23681",
+      "website": "www.catholictranscript.o...",
+      "website_url": "http://catholictranscript.org/",
+      "categories": [
+        "Science",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 39,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2022",
+      "source_page": 1880
+    },
+    {
+      "website_id": "23684",
+      "website": "www.bobfm.co.uk",
+      "website_url": "http://bobfm.co.uk/",
+      "categories": [
+        "Science",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 30,
+      "moz_da": 46,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2022",
+      "source_page": 1880
+    },
+    {
+      "website_id": "23686",
+      "website": "www.devhardware.com",
+      "website_url": "http://devhardware.com/",
+      "categories": [
+        "Science",
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 31,
+      "moz_da": 46,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "03 Dec 2022",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27224",
+      "website": "www.theclevelandamerican...",
+      "website_url": "http://theclevelandamerican.com",
+      "categories": [
+        "Sports",
+        "Startups"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 36,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27225",
+      "website": "www.vaughantoday.ca",
+      "website_url": "http://vaughantoday.ca",
+      "categories": [
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 29,
+      "moz_da": 32,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "16 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27226",
+      "website": "www.androbit.net",
+      "website_url": "http://androbit.net",
+      "categories": [
+        "Sports",
+        "Technology"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 22,
+      "moz_da": 35,
+      "language": "Other",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "16 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "28122",
+      "website": "www.amazebowls.com",
+      "website_url": "https://amazebowls.com/",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 30,
+      "language": "English",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "4 days",
+      "added_on": "27 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "31769",
+      "website": "www.IlDispaccio.it",
+      "website_url": "https://IlDispaccio.it",
+      "categories": [
+        "General"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 49,
+      "moz_da": 48,
+      "language": "Italian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "08 Mar 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "32611",
+      "website": "www.ilbloggatore.com",
+      "website_url": "https://ilbloggatore.com",
+      "categories": [
+        "Lifestyle"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 34,
+      "moz_da": 42,
+      "language": "Italian",
+      "price": 1598.4,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "13 Mar 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "84877",
+      "website": "www.foodabletv.com",
+      "website_url": "http://foodabletv.com/",
+      "categories": [
+        "Agriculture",
+        "Health",
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 60,
+      "moz_da": 47,
+      "language": "English",
+      "price": 1608.39,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "21 Aug 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "32310",
+      "website": "www.Momentocasa.it",
+      "website_url": "https://Momentocasa.it",
+      "categories": [
+        "Home and Family"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 49,
+      "moz_da": 57,
+      "language": "Italian",
+      "price": 1618.38,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "11 Mar 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "61635",
+      "website": "www.clapmessenger.com",
+      "website_url": "https://www.clapmessenger.com/",
+      "categories": [
+        "Internet",
+        "Software development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 32,
+      "moz_da": 21,
+      "language": "English",
+      "price": 1618.38,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "26 Sep 2024",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27124",
+      "website": "www.feelchelsea.com",
+      "website_url": "http://feelchelsea.com",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 14,
+      "moz_da": 56,
+      "language": "English",
+      "price": 1638.36,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "14 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "21987",
+      "website": "www.fandbrecipes.com",
+      "website_url": "https://fandbrecipes.com/",
+      "categories": [
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 65,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "08 Nov 2022",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27653",
+      "website": "www.foodbusinessexpert.c...",
+      "website_url": "https://foodbusinessexpert.com/",
+      "categories": [
+        "Business",
+        "Finance",
+        "Food"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 1,
+      "moz_da": 53,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "6 days",
+      "added_on": "24 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "27654",
+      "website": "www.tabsnation.com",
+      "website_url": "https://tabsnation.com/",
+      "categories": [
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 13,
+      "moz_da": 56,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "5 days",
+      "added_on": "24 Jan 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "33281",
+      "website": "www.startflyingonline.co...",
+      "website_url": "https://startflyingonline.com/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 2,
+      "moz_da": 56,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "3 days",
+      "added_on": "22 Mar 2023",
+      "source_page": 1880
+    },
+    {
+      "website_id": "8747",
+      "website": "www.dashtech.org",
+      "website_url": "https://www.dashtech.org/",
+      "categories": [
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 28,
+      "moz_da": 38,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "3 days",
+      "added_on": "19 Jan 2022",
+      "source_page": 1880
+    },
+    {
+      "website_id": "61362",
+      "website": "www.eatsleepgym.co.uk",
+      "website_url": "https://eatsleepgym.co.uk/",
+      "categories": [
+        "Business",
+        "Health",
+        "Other"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 5,
+      "moz_da": 20,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "4 days",
+      "added_on": "20 Sep 2024",
+      "source_page": 1880
+    },
+    {
+      "website_id": "72654",
+      "website": "www.brasssmile.com",
+      "website_url": "https://www.brasssmile.com/",
+      "categories": [
+        "Business",
+        "Health",
+        "All Niches"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 46,
+      "moz_da": 54,
+      "language": "English",
+      "price": 1648.35,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "24 Feb 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "88240",
+      "website": "www.agence-alexandre.fr",
+      "website_url": "https://agence-alexandre.fr",
+      "categories": [
+        "Business",
+        "Marketing",
+        "Web-development"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 20,
+      "language": "French",
+      "price": 1678.32,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "2 days",
+      "added_on": "28 Oct 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "78767",
+      "website": "www.itrevolucija.com",
+      "website_url": "https://itrevolucija.com",
+      "categories": [
+        "Gadgets",
+        "Games"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 25,
+      "moz_da": 31,
+      "language": "Other",
+      "price": 1688.31,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "78770",
+      "website": "www.blogeri.hr",
+      "website_url": "https://blogeri.hr",
+      "categories": [
+        "Marketing"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 26,
+      "moz_da": 30,
+      "language": "Other",
+      "price": 1688.31,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "78771",
+      "website": "www.resilako.com",
+      "website_url": "https://resilako.com",
+      "categories": [
+        "Beauty",
+        "Career and Employment",
+        "Education"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 18,
+      "moz_da": 26,
+      "language": "Other",
+      "price": 1688.31,
+      "currency": "$",
+      "max_links": null,
+      "link_type": null,
+      "turnaround": "8 days",
+      "added_on": "14 May 2025",
+      "source_page": 1880
+    },
+    {
+      "website_id": "82004",
+      "website": "www.biblezero.com",
+      "website_url": "https://www.biblezero.com/",
+      "categories": [
+        "Agriculture",
+        "Animals and Pets",
+        "Art"
+      ],
+      "monthly_traffic": 1000,
+      "ahrefs_dr": 20,
+      "moz_da": 35,
+      "language": "English",
+      "price": 1688.31,
+      "currency": "$",
+      "max_links": 2,
+      "link_type": "DoFollow",
+      "turnaround": "6 days",
+      "added_on": "29 Jun 2025",
+      "source_page": 1880
+    }
+  ]
+}
